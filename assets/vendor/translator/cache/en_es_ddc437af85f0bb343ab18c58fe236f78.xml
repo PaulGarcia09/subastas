@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="es" domain="ddc437af85f0bb343ab18c58fe236f78" scope="/catalog.php?fbclid=IwAR1wp32QQeN3zLytLmNhj0tRiMeqxZS6mDfVkiTBWAmzlgayNVcnV0G0jds">
+  <word hash="830575d964e23b41e1c645d382dabe7759c9962360563c9dba6b67e1bceafbd8" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Subastas Maxilana | Catálogo]]></source>
+    <translation><![CDATA[Subastas Maxilana | Catálogo]]></translation>
+  </word>
+  <word hash="58fcc9468fe1f60716a71caef50fce70a6d2d46f7a2c0d0f45f1f76dc7779625" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Inicio]]></source>
+    <translation><![CDATA[Inicio]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="1677ae1e5ff5f8b43056c877a95b340feb0db14cf1ce7d3be787139c5f96f27e" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[
+Registrarse]]></source>
+    <translation><![CDATA[
+Registrarse]]></translation>
+  </word>
+  <word hash="771b96b0812dd393ffeac789c2b8da1b78c20530a7365dd8181b1e3580db063f" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Contacto]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="dc7ababc44cc963507b77a4d8b55712ebb0565e0508615ab90a5f76ce96d4ee9" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Catálogo]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="8d518bb65ea3dedb5250e357ef5d2ea42c178c140f655b95f7b610835f72f3d0" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Iniciar sesión]]></source>
+    <translation><![CDATA[Iniciar Sesión]]></translation>
+  </word>
+  <word hash="1cc28e64d1d7297ede5afcc34e40cd67e0de1a424fcbc1bccb3b2c1927b8227f" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Catálogo de subastas]]></source>
+    <translation><![CDATA[Catálogo de subastas]]></translation>
+  </word>
+  <word hash="8d2da380af070af76d5cb111856dcde14620ef8dd009a87e25401966e81c3891" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ Pre-bidding Lots]]></source>
+    <translation><![CDATA[ Lotes de preoferta]]></translation>
+  </word>
+  <word hash="4730f56c77c4a82a861d67741f84bca9361de577304cfdf1497878bb0dcef973" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ Auctions finished]]></source>
+    <translation><![CDATA[Subastas finalizadas]]></translation>
+  </word>
+  <word hash="aeccae342e4bd0a70ded84675569da91c5efb3894e35929cafd851cda763a6aa" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Cerrar]]></source>
+    <translation><![CDATA[Cerrar]]></translation>
+  </word>
+  <word hash="a20df16bcee9c3ca04c40abb13401cf4063ee357b8b2599380653bcb7ef020e5" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Relojes Comerciales]]></source>
+    <translation><![CDATA[Relojes Comerciales]]></translation>
+  </word>
+  <word hash="a7906ae82961283d0a8ba1b747b41b28006524dbd4720e69b4d2fb6354aadd68" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ Live Streaming ]]></source>
+    <translation><![CDATA[Transmisión en vivo]]></translation>
+  </word>
+  <word hash="a4621d02a137b97f6d9554223b18a4fe397ff3d280ff79c0b0cd7087d6debe51" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ November 13, 2020]]></source>
+    <translation><![CDATA[ 13 de noviembre de 2020]]></translation>
+  </word>
+  <word hash="1a1775abc509c4ceb7452a1826c102b00c76ed1966e73ec571ee1b24f0ce5a91" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ Ver catálogo]]></source>
+    <translation><![CDATA[ Ver catálogo]]></translation>
+  </word>
+  <word hash="6125ddde2618364d4af0470afdf10c074ce0607ea51696039ba87c22ec019f23" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Descargar catálogo]]></source>
+    <translation><![CDATA[Descargar catálogo]]></translation>
+  </word>
+  <word hash="21dbd5484ef480fa598c005895904d8be90a28b918ccf1b1409c4a1f8c08167d" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Relojes y Joyería Fina]]></source>
+    <translation><![CDATA[Relojes y Joyería Fina]]></translation>
+  </word>
+  <word hash="a7906ae82961283d0a8ba1b747b41b28006524dbd4720e69b4d2fb6354aadd68" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ Live Streaming ]]></source>
+    <translation><![CDATA[Transmisión en vivo]]></translation>
+  </word>
+  <word hash="02a312cff56da62a25aaec3d9af64db2469ed9ff285e09069bdc64762a2a2c01" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ December 05, 2020]]></source>
+    <translation><![CDATA[05 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="85dd19bec9020f8234e9cad793a39e7cc0c675788364f778c60d2a5e3630d679" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ GUESS GENESIS W1254G3 AZUL, SILIC]]></source>
+    <translation><![CDATA[RELOJ GUESS GENESIS W1254G3 AZUL, SILICONA]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="5503c4803527a36a391365f9643afe6140000568e5f383b15231458d0537e351" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $1,450.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,450.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="a4621d02a137b97f6d9554223b18a4fe397ff3d280ff79c0b0cd7087d6debe51" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ November 13, 2020]]></source>
+    <translation><![CDATA[ 13 de noviembre de 2020]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="47e5b4fa4284d75d30e635068f28dfefc5c3f2c78f24ebffc0d58419b3574307" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ VINCE CAMUTO VC/1019RG , RESINA Y ACERO DORADO, CRON]]></source>
+    <translation><![CDATA[RELOJ VINCE CAMUTO VC / 1019RG, RESINA Y ACERO DORADO, CRON]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="95a454e824c5a0e030d06a3f9f8c45503783e2ac2cb8a1bc9f658bc476e793d8" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $900.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 900.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="a4621d02a137b97f6d9554223b18a4fe397ff3d280ff79c0b0cd7087d6debe51" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ November 13, 2020]]></source>
+    <translation><![CDATA[ 13 de noviembre de 2020]]></translation>
+  </word>
+  <word hash="6766c69063d8250f4025cab4524437c7868d43c3f104f08f6cb3643b05097763" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Paddle Number: 1970]]></source>
+    <translation><![CDATA[Número de paleta: 1970]]></translation>
+  </word>
+  <word hash="6555061830641d4e98f04c9838bd0aed48c701340fb87b40aa6a6e2607b1ec6e" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 900.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 900.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="230ba84838823e85725b39c83c31889088e46109062048615ce7fe79f48dba70" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ MICHAEL KORS MK -8361 , ACERO DORADO, CRON]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS MK -8361, ACERO DORADO, CRON]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="95a454e824c5a0e030d06a3f9f8c45503783e2ac2cb8a1bc9f658bc476e793d8" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $900.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 900.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="a4621d02a137b97f6d9554223b18a4fe397ff3d280ff79c0b0cd7087d6debe51" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ November 13, 2020]]></source>
+    <translation><![CDATA[ 13 de noviembre de 2020]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="df7c3792bdaba793f59b9de36781ef3d0b2dd008b2075b02359c22a4993f503d" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ GUESS ANIMAL PRINT, PARA DAMA, ACERO PVD ROSA,  MAQ. CUARZO]]></source>
+    <translation><![CDATA[RELOJ GUESS ANIMAL PRINT, PARA DAMA, ACERO PVD ROSA, MAQ. CUARZO]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="f55d7418abfea99507e9a0dd683e106a04fc4d18a7f21287bda577b5f5811a67" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $650.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 650.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="a4621d02a137b97f6d9554223b18a4fe397ff3d280ff79c0b0cd7087d6debe51" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ November 13, 2020]]></source>
+    <translation><![CDATA[ 13 de noviembre de 2020]]></translation>
+  </word>
+  <word hash="adbeef332d6889644e20981589e1a9747c8d323c746c332767a650adad2f9194" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Paddle Number: 4411]]></source>
+    <translation><![CDATA[Número de paleta: 4411]]></translation>
+  </word>
+  <word hash="c3c08ecfd06b57ec564ad66680e4c53fd9520f98e2f13f934696238264171d38" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 650.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 650.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="e27d8c718d7d1ecaa6ebca7cd986dd7d5e80700218c6f1f56dd9a605b47fdd77" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ MICHAEL KORS MK- 3560, ACERO, MAQ. CUARZO, PARA DAMA.]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS MK- 3560, ACERO, MAQ. CUARZO, PARA DAMA.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="f55d7418abfea99507e9a0dd683e106a04fc4d18a7f21287bda577b5f5811a67" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $650.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 650.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="a4621d02a137b97f6d9554223b18a4fe397ff3d280ff79c0b0cd7087d6debe51" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ November 13, 2020]]></source>
+    <translation><![CDATA[ 13 de noviembre de 2020]]></translation>
+  </word>
+  <word hash="95d6b3bd511ecba1ba4e89d1aa73527fa7409339dc9c341633836fb8cddc8c5b" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Paddle Number: 2651]]></source>
+    <translation><![CDATA[Número de paleta: 2651]]></translation>
+  </word>
+  <word hash="c3c08ecfd06b57ec564ad66680e4c53fd9520f98e2f13f934696238264171d38" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 650.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 650.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="9bdc9825dab77a9906afdd83bebb82306feef1c0d4263347067ac81946989b45" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ CITIZEN ECO DRIVE H610-S060257, TODO ACERO, CRON]]></source>
+    <translation><![CDATA[RELOJ CITIZEN ECO DRIVE H610-S060257, TODO ACERO, CRON]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="e18638c98da768ceb67551f15c1354b045c43d4082bfdbefd0b81cda0035434e" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $2,600.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,600.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="a4621d02a137b97f6d9554223b18a4fe397ff3d280ff79c0b0cd7087d6debe51" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ November 13, 2020]]></source>
+    <translation><![CDATA[ 13 de noviembre de 2020]]></translation>
+  </word>
+  <word hash="6766c69063d8250f4025cab4524437c7868d43c3f104f08f6cb3643b05097763" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Paddle Number: 1970]]></source>
+    <translation><![CDATA[Número de paleta: 1970]]></translation>
+  </word>
+  <word hash="cc00a2ae7a6ce9f9822541db223caaa7d3c2a8d474a940c13e939a0ba071c37d" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 2,700.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,700.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="4ea94eeb33b0d293b0c6876f111ab8cfe47165f2fd7ac6a27eb9a3be64d81af5" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ ARMANI EXCHANGE  AX1381, EN ACERO Y SILIC]]></source>
+    <translation><![CDATA[RELOJ ARMANI EXCHANGE AX1381, EN ACERO Y SILIC]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="cd17ed59183117f3cd8898c09c477c56191aee8ce06443a20f0fa475eb33ca73" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $600.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 600.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="a4621d02a137b97f6d9554223b18a4fe397ff3d280ff79c0b0cd7087d6debe51" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ November 13, 2020]]></source>
+    <translation><![CDATA[ 13 de noviembre de 2020]]></translation>
+  </word>
+  <word hash="fc4ee1b93c17e5917d2891b8b7f2a31cf4a7c3a4c8feb9df1154f0237a9e5c8f" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Paddle Number: 4477]]></source>
+    <translation><![CDATA[Número de paleta: 4477]]></translation>
+  </word>
+  <word hash="c3c08ecfd06b57ec564ad66680e4c53fd9520f98e2f13f934696238264171d38" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 650.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 650.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="5dfb91d131158efdeb0391bfa788762a0b61b382750c4d501080120caf68260f" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ FOSSIL , TODO ACERO, MAQ. DE CUARZO]]></source>
+    <translation><![CDATA[RELOJ FOSSIL, TODO ACERO, MAQ. DE CUARZO]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="c92a8a5ba0912c36b383df8dd307d98e5f692a95c17bbc399db4f6da7d5ad180" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $1,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,500.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="f0a1ac2f44a969f1927c42252bfffad431dde701fc6aeac39040df720124f12c" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 1,500.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,500.00]]></translation>
+  </word>
+  <word hash="21d4f1a51855cfb5e4a6b329102f2def6db36e0a725dd11577881e7b0a5d4a1c" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ COACH NEW YORK, PARA DAMA, TODO ACERO, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ COACH NUEVA YORK, PARA DAMA, TODO ACERO, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="7036af3436fd3bd36829866af62fae42f1055d948382d3fdf0dfeb5f25fc6a80" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $700.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 700.00]]></translation>
+  </word>
+  <word hash="ecd85fc6fe8f3979f3cffd87d9d82cabfc525a83dd66968ae70f7d39bcc84149" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 700.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 700.00]]></translation>
+  </word>
+  <word hash="42b0fcaaa800968969148b9511ce98c6bc0ee0937716177cd5c32b17711d7872" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ LONGINES HYDROCONQUEST , TODO ACERO,  MAQ. CUARZO]]></source>
+    <translation><![CDATA[RELOJ LONGINES HYDROCONQUEST, TODO ACERO, MAQ. CUARZO]]></translation>
+  </word>
+  <word hash="02fc53c6d800ab61bdd633878dd22e492f09e2865b0864627db86cf9c9b6d253" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $6,200.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 6,200.00]]></translation>
+  </word>
+  <word hash="66f59518cfff2984c7862b6f22cd8bdb49d5e67256a7ecfeb6e59715b0633a00" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ BULOVA, ACERO Y PIEL,  CRON]]></source>
+    <translation><![CDATA[RELOJ BULOVA, ACERO Y PIEL, CRON]]></translation>
+  </word>
+  <word hash="6c1ec2645893ffc49a87ec9277018da15d03a5bf2ba111b2ef1996381383ba98" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $1,300.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,300.00]]></translation>
+  </word>
+  <word hash="9a5a8232bb3fe4ff1f98f167f6b0b948d9aba7471222142e8d480ce688731ed1" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ KENNETH COLE NEW YORK , ACERO Y PIEL COLOR AZUL, MAQ. CUARZO]]></source>
+    <translation><![CDATA[RELOJ KENNETH COLE NUEVA YORK, ACERO Y PIEL COLOR AZUL, MAQ. CUARZO]]></translation>
+  </word>
+  <word hash="7f15642cfca6e721ce943677a77f27b998306471405f62a6eba64726e17de153" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $400.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 400.00]]></translation>
+  </word>
+  <word hash="83f4e68ad09c8ff34adf6dd6e209f80776982390ca337a93a55667a1a69ccd33" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 450.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 450.00]]></translation>
+  </word>
+  <word hash="05d45aa111ff293c8d64a8800530c3809f392b7040beed2dadbb695b383e6e55" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ DIESEL, CRON]]></source>
+    <translation><![CDATA[RELOJ DIESEL, CRON]]></translation>
+  </word>
+  <word hash="e4c45482aa57ff4b8126e3f2790022e95802e36e83be3679b87e5d6982355a77" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $800.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 800.00]]></translation>
+  </word>
+  <word hash="0766f2b9cb68bd9a11ea1b64ed01a936db42e9ec5a56a861fae1ab336e98a700" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ  BURBERRY, EN ACERO, MAQ. DE CUARZO]]></source>
+    <translation><![CDATA[RELOJ BURBERRY, EN ACERO, MAQ. DE CUARZO]]></translation>
+  </word>
+  <word hash="e6fb19290d258d8f90be57cba66c03856be2054f0bc48e9e9e88e79756f2549d" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $3,900.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 3,900.00]]></translation>
+  </word>
+  <word hash="481d734dd9663ecbf869b7db64293b5a7f575762e8c9af5750071bcf694e012b" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ CASIO G-SCHOCK, DIGITAL,  ACERO Y RESINA EN COLOR VERDE , MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ CASIO G-SCHOCK, DIGITAL, ACERO Y RESINA EN COLOR VERDE, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="d9c7cb17c39548aa18d18001dcd411bc382c69900d8c9d1936a01f2d9024f774" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $300.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 300.00]]></translation>
+  </word>
+  <word hash="3a0a16ee42d602b9f99412cf8417e2d9def501100f9567f427af2d55fe511320" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Paddle Number: 2122]]></source>
+    <translation><![CDATA[Número de paleta: 2122]]></translation>
+  </word>
+  <word hash="c11e3a039cbbdc398c5e0e2394509375c6ce04cbf6ebf150e95e6e5763f7e818" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 1,100.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,100.00]]></translation>
+  </word>
+  <word hash="8eb05de43fc826268424603b0a5a19ec802ea177c496fd59082c1f3742f43b29" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOL FOSSIL , TODO ACERO, MAQ. DE CUARZO. PARA DAMA]]></source>
+    <translation><![CDATA[RELOL FOSSIL, TODO ACERO, MAQ. DE CUARZO. PARA DAMA]]></translation>
+  </word>
+  <word hash="7036af3436fd3bd36829866af62fae42f1055d948382d3fdf0dfeb5f25fc6a80" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $700.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 700.00]]></translation>
+  </word>
+  <word hash="4cea7024612639d487a359b944c7cfb07cdf13746483b713e7158a3b7624d160" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RADO DIA STAR, TODO ACERO, AUTOM]]></source>
+    <translation><![CDATA[RADO DIA STAR, TODO ACERO, AUTOM]]></translation>
+  </word>
+  <word hash="3abcd9f50a0b093bf84f9d2b4fcb645084d52d255ef8ad6169799e57da403729" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $4,600.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 4,600.00]]></translation>
+  </word>
+  <word hash="70740d7da846f3165fd7656e91b7826be1b1f2959e94e08ca10526b59bea02ef" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 4,900.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,900.00]]></translation>
+  </word>
+  <word hash="ea8005f47f625de32766cb94a4f3918e4a1bb74bb689bb932240c455f7ad2796" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ TISSOT, TODO ACERO, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ TISSOT, TODO ACERO, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="754760eb36376a330008f5079a021698ef8e9a965dec82183cb25ecb08dd1183" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ CATERPILLAR , MATERIAL DE CAUCHO, MAQ. CUARZO.]]></source>
+    <translation><![CDATA[RELOJ CATERPILLAR, MATERIAL DE CAUCHO, MAQ. CUARZO.]]></translation>
+  </word>
+  <word hash="b754b1878889108617f0879d32885e7046fd6ea3b94b74a2ffa1dc075012b0ca" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ ANNE KLEIN ,TODO ACERO PVD ROSA, MAQ. CUARZO. PARA DAMA]]></source>
+    <translation><![CDATA[RELOJ ANNE KLEIN, TODO ACERO PVD ROSA, MAQ. CUARZO. PARA DAMA]]></translation>
+  </word>
+  <word hash="919635373379f318dcf30e7679876a575d12d1bbdb610de350e0b582d4150618" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 500.00]]></translation>
+  </word>
+  <word hash="56c9dfbe5a8fdeb41e64cc72cdb2aff887d4744ceb374911e363c801099ceaff" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 600.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 600.00]]></translation>
+  </word>
+  <word hash="fe38582be6cfcd2711c51532479cbb3b21f8e93cb03e41fbb779196038b0b2f4" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ GUESS, ACERO Y SILIC]]></source>
+    <translation><![CDATA[RELOJ GUESS, ACERO Y SILIC]]></translation>
+  </word>
+  <word hash="919635373379f318dcf30e7679876a575d12d1bbdb610de350e0b582d4150618" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 500.00]]></translation>
+  </word>
+  <word hash="3d77adb51cd0bd237b0ba11ec9d7e9bfca3bd3bc69fcd7f8d259b0b1e1105f21" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 800.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 800.00]]></translation>
+  </word>
+  <word hash="6e00ea3e1f451b213f1e9729b7f42626d2979abc3f0e78154a49b2abcb4a1509" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ KENNETH COLE REACTION, ACERO DORADO Y SILIC]]></source>
+    <translation><![CDATA[REACCIÓN RELOJ KENNETH COLE, ACERO DORADO Y SILIC]]></translation>
+  </word>
+  <word hash="482a02ec0383989bf489da98b4eedf5bd14e0c2b9ca51ea9bf2233068beb6437" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ ARMANI EXCHANGE , ACERO Y SILIC]]></source>
+    <translation><![CDATA[INTERCAMBIO RELOJ ARMANI, ACERO Y SILIC]]></translation>
+  </word>
+  <word hash="3d77adb51cd0bd237b0ba11ec9d7e9bfca3bd3bc69fcd7f8d259b0b1e1105f21" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 800.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 800.00]]></translation>
+  </word>
+  <word hash="7d57c363e5f529867da6fd1a6c6f287a3052a893d3cfe88fcbccb0253a48b171" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ NAUTICA, EN ACERO Y SILIC]]></source>
+    <translation><![CDATA[RELOJ NAUTICA, EN ACERO Y SILIC]]></translation>
+  </word>
+  <word hash="857a9a4d6acc30b2cd848b1c06812e03d586f0bdf726c653f762e76ed4a20e4f" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ CITIZEN ECO DRIVE,  MAQ. CUARZO, TODO ACERO.]]></source>
+    <translation><![CDATA[RELOJ CITIZEN ECO DRIVE, MAQ. CUARZO, TODO ACERO.]]></translation>
+  </word>
+  <word hash="390341a6ef2c702b3a44a11b48389af1bbfecb15818ae42da2d135d4bc84381b" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ TIMEX, TODO ACERO, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ TIMEX, TODO ACERO, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="919635373379f318dcf30e7679876a575d12d1bbdb610de350e0b582d4150618" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 500.00]]></translation>
+  </word>
+  <word hash="906b06387d5208321d5b14005641290e49ca4eabf37d4277c6b52623c4a9672c" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ CALVIN KLEIN , ACERO Y PIEL, MAQ DE CUARZO]]></source>
+    <translation><![CDATA[RELOJ CALVIN KLEIN, ACERO Y PIEL, MAQ DE CUARZO]]></translation>
+  </word>
+  <word hash="e8abb9fb368a7aa1fca01e88074417cfde770ab1b84e635b4bda22e67ac88299" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ DKNY, EN ACERO Y PVD NEGRO, MAQ. DE CUARZO]]></source>
+    <translation><![CDATA[RELOJ DKNY, EN ACERO Y PVD NEGRO, MAQ. DE CUARZO]]></translation>
+  </word>
+  <word hash="3692082632009200e08f08869cf4c21cfa809505e1a2755ad938b77078102688" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Paddle Number: 14]]></source>
+    <translation><![CDATA[Número de paleta: 14]]></translation>
+  </word>
+  <word hash="c3f5717261096dcc8dc5cbf21d5e4f9adcc5737cb0770c3584e910bcf3e12966" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ ARMANI EXCHANGE, ACERO Y PIEL, MAQ. DE CUARZO]]></source>
+    <translation><![CDATA[INTERCAMBIO RELOJ ARMANI, ACERO Y PIEL, MAQ. DE CUARZO]]></translation>
+  </word>
+  <word hash="a52b4a09031722719ab9f15485725a62409cec42df6b21fa47d53c494962c940" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ GUESS, TODO ACERO-DORADO C/PS, MAQ. DE CUARZO. PARA DAMA]]></source>
+    <translation><![CDATA[RELOJ GUESS, TODO ACERO-DORADO C / PS, MAQ. DE CUARZO. PARA DAMA]]></translation>
+  </word>
+  <word hash="efd95bd0d91105cb4b7424549d24738dd00284ae6ecca4952c8c31201a102128" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ MICHAEL KORS BRYSON , ACERO Y SILIC]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS BRYSON, ACERO Y SILIC]]></translation>
+  </word>
+  <word hash="146083f2150d02e6df1776620ed7f6296eba63d8f7a5a0fdc713fb453dfdd9ba" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ CITIZEN , MAQ. DE CUARZO, TODO ACERO.]]></source>
+    <translation><![CDATA[CIUDADANO DE RELOJ, MAQ. DE CUARZO, TODO ACERO.]]></translation>
+  </word>
+  <word hash="58365198675743ad6002ae42a2c0ae55ad1a34ddebcbc21aad9137df9c7be1ad" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ MIDO OCEAN STAR, TODO ACERO, AUTOM]]></source>
+    <translation><![CDATA[RELOJ MIDO OCEAN STAR, TODO ACERO, AUTOM]]></translation>
+  </word>
+  <word hash="3577f57b0e71e940992120d5bf1d6b54e8a748731eabec5e1cb5130c509cc6a1" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Current bid: $ 6,200.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 6,200.00]]></translation>
+  </word>
+  <word hash="9d0df599ab30ff2bc04747b7c7da23ddfd82c352350cb1a6d373294aed4b15aa" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ GUESS, ACERO Y CAUCHO  AZUL MARINO,  MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ GUESS, ACERO Y CAUCHO AZUL MARINO, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="67f96997a9d2337b467a98794377f68aa9297c79079890bfc279468f44bb8477" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Paddle Number: 1112]]></source>
+    <translation><![CDATA[Número de paleta: 1112]]></translation>
+  </word>
+  <word hash="e68ab75bba85e15b6759be2d18619c6459c0aaa209a7bd9528815657963d06f9" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ MICHAEL KORS, TODO ACERO Y PVD ROSA, CON PS, MAQ. DE CUARZO, PARA DAMA.]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS, TODO ACERO Y PVD ROSA, CON PS, MAQ. DE CUARZO, PARA DAMA.]]></translation>
+  </word>
+  <word hash="302bcf222239ae565888cd928cb09b3df8d3443c95b76637e297b23ff17fbbe2" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[Initial Bid: $1,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,000.00]]></translation>
+  </word>
+  <word hash="571d2b393c4183b5d4b3bda0198d2c91d7bd802ff5b56ec569aec01af51b8f04" date="2020-11-09T21:40:40-07:00">
+    <source><![CDATA[RELOJ LACOSTE , ACERO Y EXTENSIBLE DE PIEL, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ LACOSTE, ACERO Y EXTENSIBLE DE PIEL, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="23fbedc65bc4f43b76fc9aac334803527826a075f736a9468999d89fdce29625" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ BULOVA CLASICOS 98A237, ACERO Y PIEL, MOV. AUTOM]]></source>
+    <translation><![CDATA[RELOJ BULOVA CLASICOS 98A237, ACERO Y PIEL, MOV. AUTOM]]></translation>
+  </word>
+  <word hash="1a0648acbaf0aeaf488aa31a7d233f380031ba63fc967118ad011777dff541bc" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Current bid: $ 2,900.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,900.00]]></translation>
+  </word>
+  <word hash="c97e067cbad28150540d8fe8b6f9b296d5508b31aa6bdad4545022e073b5ce0c" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ CITIZEN, MATERIAL ACERO Y PIEL, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ CIUDADANO, MATERIAL ACERO Y PIEL, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="7a7069aa8928798589a043e05e9e7cfe1e050497df43777ef9ecabeec52d8dd2" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ BULOVA , MAQ. DE CUARZO, CAR]]></source>
+    <translation><![CDATA[RELOJ BULOVA, MAQ. DE CUARZO, COCHE]]></translation>
+  </word>
+  <word hash="75b68473f4fca8fd9f541e03d1e6b4658e5ada4e36f57ea32506c9cb0a4ec0e6" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ GUESS HENDRIX ,  TODO ACERO ,  MAQ .  CUARZO. ]]></source>
+    <translation><![CDATA[RELOJ GUESS HENDRIX, TODO ACERO, MAQ. CUARZO. ]]></translation>
+  </word>
+  <word hash="7934c1a75ae7ec3eaf8dbde61a14627ddaba3e4baf313d9af3f87d137cf51620" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ TECHNOMARINE MOONSUN , ACERO DORADO, MAQ. CUARZO.]]></source>
+    <translation><![CDATA[RELOJ TECHNOMARINE MOONSUN, ACERO DORADO, MAQ. CUARZO.]]></translation>
+  </word>
+  <word hash="32abbd4bb5de5d1d7847a4744aaa5f281831adc3369faefd2d607ce6d0754641" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ ARMANI EXCHANGE, TODO ACERO DORADO, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[INTERCAMBIO RELOJ ARMANI, TODO ACERO DORADO, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="376ece7214ef68dbaae85a5fa7f6f1a871d61b27170a478f94691698bcae8b2b" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ FOSSIL GEORGIA,  ACERO EN PVD ROSA, MAQ. DE CUARZO. PARA DAMA.]]></source>
+    <translation><![CDATA[RELOJ FOSSIL GEORGIA, ACERO EN PVD ROSA, MAQ. DE CUARZO. PARA DAMA.]]></translation>
+  </word>
+  <word hash="ab986266036cee32981189324c9154231325cdbaa6b81517fd1c1a74240c1072" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ MIDO  OCEAN STAR, ACERO DORADO Y CAUCHO, MOV. CUARZO.]]></source>
+    <translation><![CDATA[RELOJ MIDO OCEAN STAR, ACERO DORADO Y CAUCHO, MOV. CUARZO.]]></translation>
+  </word>
+  <word hash="684c873a768b1c1e747d590a987b033b40f0d856b88351b087e61c7548f21f8c" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Paddle Number: 1914]]></source>
+    <translation><![CDATA[Número de paleta: 1914]]></translation>
+  </word>
+  <word hash="1a0648acbaf0aeaf488aa31a7d233f380031ba63fc967118ad011777dff541bc" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Current bid: $ 2,900.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,900.00]]></translation>
+  </word>
+  <word hash="aae89bdd6e62c803c6671f5f02c8d3019753c18e98a425e4ce6051071ee8f513" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ MICHAEL KORS , TODO ACERO, BISEL PVD ROSA, MAQ . DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS, TODO ACERO, BISEL PVD ROSA, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="b63493215f0fc3e51e6e20865631f6248e2475279cc4326bdc5217d8619e4f79" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ ARMANI EXCHANGE, TODO ACERO Y PVD ROSA , MAQ. DE CUARZO. PARA DAMA]]></source>
+    <translation><![CDATA[INTERCAMBIO RELOJ ARMANI, TODO ACERO Y PVD ROSA, MAQ. DE CUARZO. PARA DAMA]]></translation>
+  </word>
+  <word hash="95b27cac877fe297cb6c5d6c3d324b9f64e593ebf6d670db8aa71faceba495ec" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ TISSOT, ACERO Y PIEL, MAQ. DE CUARZO. PARA DAMA.]]></source>
+    <translation><![CDATA[RELOJ TISSOT, ACERO Y PIEL, MAQ. DE CUARZO. PARA DAMA.]]></translation>
+  </word>
+  <word hash="417364808259188b59063c50a08dd465689743b29742dbd42a3959b73c98c6d3" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Initial Bid: $2,200.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,200.00]]></translation>
+  </word>
+  <word hash="14f97693863b60cd8b7cbf7ef51c23af503e86833e3894513f2d5c0b660ca71e" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ LACOSTE, EN ACERO Y SILIC]]></source>
+    <translation><![CDATA[RELOJ LACOSTE, EN ACERO Y SILIC]]></translation>
+  </word>
+  <word hash="2d45d29ba916b5df6b9eaeb1f39e9310d774e3baf06c009e07bc7e5f1116a3ad" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ FOSSIL FORRESTER ,  EN ACERO Y PIEL, MAQ. DE CUARZO]]></source>
+    <translation><![CDATA[RELOJ FOSSIL FORRESTER, EN ACERO Y PIEL, MAQ. DE CUARZO]]></translation>
+  </word>
+  <word hash="9d1931b5777d8cc6b2b4f70d5372c5f9ffa353d0ece89f572ab4c9f76f21d98a" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ INVICTA PRO DIVER, EN ACERO DORADO, MAQ. DE CUARZO]]></source>
+    <translation><![CDATA[RELOJ INVICTA PRO DIVER, EN ACERO DORADO, MAQ. DE CUARZO]]></translation>
+  </word>
+  <word hash="0b6c8e3dd72c2b7cb35a6498e7e2be9338f6559ae63f0062142e71fe98764e83" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ GUESS, ACERO Y EXTENSIBLE DE PIEL RECUBIERTO DE TEXTIL, MAQ. DE CUARZO]]></source>
+    <translation><![CDATA[RELOJ GUESS, ACERO Y EXTENSIBLE DE PIEL RECUBIERTO DE TEXTIL, MAQ. DE CUARZO]]></translation>
+  </word>
+  <word hash="37245507a9bd5634d7efad09a7d9c8373cf39ef8ddc923c133290e18be52dde6" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ MICHAEL KORS, ACERO DORADO Y EXTENTSIBLE DE PIEL, CAR]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS, ACERO DORADO Y EXTENTSIBLE DE PIEL, COCHE]]></translation>
+  </word>
+  <word hash="9b5bb541cad570427174b62c53ae377459c73342982804c97b743a6fbcd3f786" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Paddle Number: 3643]]></source>
+    <translation><![CDATA[Número de paleta: 3643]]></translation>
+  </word>
+  <word hash="482884ec4d0cf082936620e4f98d09baba38dcae3c06eec9d7d0c23d27ed7d78" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ CALVIN KLEIN, TODO ACERO, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ CALVIN KLEIN, TODO ACERO, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="0b800874a47645dc535bde5006687e85ceae4ae58a19ef5ed454ed4ceeb0b1be" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Current bid: $ 1,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,000.00]]></translation>
+  </word>
+  <word hash="ebdef5ae9304f5b5569a93e3ecc59d083c8ea74d030927c3ed11418f378511b0" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ DKNY NOLITA, TODO ACERO, MAQ. DE CUARZO. PARA DAMA.]]></source>
+    <translation><![CDATA[RELOJ DKNY NOLITA, TODO ACERO, MAQ. DE CUARZO. PARA DAMA.]]></translation>
+  </word>
+  <word hash="2555b3352b4014e0783d2eae4d86602dcf521762585c00b975ff92a05985adf8" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ HUGO BOSS, TODO ACERO, CRON]]></source>
+    <translation><![CDATA[RELOJ HUGO BOSS, TODO ACERO, CRON]]></translation>
+  </word>
+  <word hash="31ce332dc97c33642b47ea98a10e59795fba49178b7c6a94f9ebe42dd2f9b665" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Initial Bid: $1,400.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,400.00]]></translation>
+  </word>
+  <word hash="3a90e328297ef13bba64ff07ba5c08d91906e3f8d263362dc7190a7b70c66ee4" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ MICHAEL KORS PORTIA, TODO ACERO DORADO, MAQ. DE CUARZO. PARA DAMA.]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS PORTIA, TODO ACERO DORADO, MAQ. DE CUARZO. PARA DAMA.]]></translation>
+  </word>
+  <word hash="2e8708119006680f319e666be3a5e0b62eaab163bef3aa99f269978a9d8dc4b0" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Initial Bid: $1,100.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,100.00]]></translation>
+  </word>
+  <word hash="4ec58fd54e97775d40d81347c7938cd363d2ebe1c86dc851dd3dd7ea35eec7ec" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ MICHAEL KORS, TODO ACERO DORADO PLATEADO, MAQ. DE CURZO, CRON]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS, TODO ACERO DORADO PLATEADO, MAQ. DE CURZO, CRON]]></translation>
+  </word>
+  <word hash="b835391c7382578edfac540c131fb199a22681645038ab17a6cb38a336277e0e" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ NIVADA MILLIONAIRE, ACERO, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ NIVADA MILLIONAIRE, ACERO, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="6938c9ce8aa81dded1e672a0e84247a052b02070493f9cf5febdeb42c87c3e82" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ CASIO G-SCHOCK, DIGITAL,  ACERO Y RESINA EN COLOR AZUL , MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ CASIO G-SCHOCK, DIGITAL, ACERO Y RESINA EN COLOR AZUL, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="b2a53599663b0681709bdde53aa1f14fd9ad7f21c60f09f775e5e496dcb637b0" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ VICTORINOX, SWISS  ARMY , ACERO Y PIEL, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ VICTORINOX, EJÉRCITO SUIZO, ACERO Y PIEL, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="97fa630c4c8ea7ac4518a46b744f13a9762d14fa3d204b39e4c26829431f5c59" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Initial Bid: $1,700.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,700.00]]></translation>
+  </word>
+  <word hash="b7e36babfd59b5b96b6134762c94aef8427426eb84a7a878d5ad17543a5c552c" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ SWAROVSKI OCTEA, SPORT ACERO Y CAUCHO , BISEL Y EXT. CON PS, MAQ. DE CUARZO, PARA DAMA.]]></source>
+    <translation><![CDATA[RELOJ SWAROVSKI OCTEA, SPORT ACERO Y CAUCHO, BISEL Y EXT. CON PS, MAQ. DE CUARZO, PARA DAMA.]]></translation>
+  </word>
+  <word hash="0ca11d7ba263828c0638bbfed9d57e4f99ee2c9b13fb16c678b57bf5e3a23233" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Initial Bid: $2,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,500.00]]></translation>
+  </word>
+  <word hash="f4fdbba7a11b1c1493c8891da65003a09c0a1a4a4eb3cea22469489a0f9296b0" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ MIDO BARONCELLI DAMA, TODO ACERO, MAQ. AUTOM]]></source>
+    <translation><![CDATA[RELOJ MIDO BARONCELLI DAMA, TODO ACERO, MAQ. AUTOM]]></translation>
+  </word>
+  <word hash="ab8650ab05abb7366edf64d62a0f91588fb16e252d6813dc3cd0931140545a20" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Initial Bid: $3,300.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 3,300.00]]></translation>
+  </word>
+  <word hash="9aefcad3a9067af55a20860a6a99e86b62030b47b56a4e59a3c36a17812c3801" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ DOLCE GABANNA, TODO ACERO, MAQ. DE CUARZO]]></source>
+    <translation><![CDATA[RELOJ DOLCE GABANNA, TODO ACERO, MAQ. DE CUARZO]]></translation>
+  </word>
+  <word hash="66722da4976fa94226c9b56bc88c19631ccb59085af5d30b2aef2d5079fda52d" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ DKNY, TODO ACERO, MAQ. DE CUARZO, PARA DAMA.]]></source>
+    <translation><![CDATA[RELOJ DKNY, TODO ACERO, MAQ. DE CUARZO, PARA DAMA.]]></translation>
+  </word>
+  <word hash="bda88dc1bc8a2980e8895009fa58b6faf1fb4d39a9511956cad210b9659ae52e" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ CAT,  ACERO Y CAUCHO, MAQ. DE CUARZO]]></source>
+    <translation><![CDATA[RELOJ CAT, ACERO Y CAUCHO, MAQ. DE CUARZO]]></translation>
+  </word>
+  <word hash="f1cc5f3475888ff59feb4b936428ce46af541457217f05864896dfd1858272b9" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ FOSSIL, TODO ACERO, MAQ. DE CUARZO. PARA DAMA. ]]></source>
+    <translation><![CDATA[RELOJ FOSSIL, TODO ACERO, MAQ. DE CUARZO. PARA DAMA. ]]></translation>
+  </word>
+  <word hash="38dfdefb920fb76b7d2d7279d803782bbdd964291718dbb5c50b4bc496f46623" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ MIDO ALL DIAL GMT, TODO ACERO, MOV. AUTOM]]></source>
+    <translation><![CDATA[RELOJ MIDO TODO MARCAR GMT, TODO ACERO, MOV. AUTOM]]></translation>
+  </word>
+  <word hash="21c7b967bfacb586ebbf36ac2777d256668146fb34a3dde1f60129d012a7d9f8" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Initial Bid: $6,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 6,500.00]]></translation>
+  </word>
+  <word hash="a7eee4b83ee70c5fa459d0cf714c180194ff8d021f3d5642132d07186ab8175b" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Paddle Number: 2003]]></source>
+    <translation><![CDATA[Número de paleta: 2003]]></translation>
+  </word>
+  <word hash="12231f9265f4fb11202f387b2a9095c11d6e1ba3a5ed5c52d3609b4b26cb4f54" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Current bid: $ 7,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 7,000.00]]></translation>
+  </word>
+  <word hash="ed95754aded8ca8aafc057522b484ed5d82466682cf4e77047aa75e6cd8de5d2" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ ARMANI EXHANGE, CRON]]></source>
+    <translation><![CDATA[RELOJ ARMANI EXHANGE, CRON]]></translation>
+  </word>
+  <word hash="bbdd16646875e336b53fe28f1fc4baa4937c8cb15fa2c4cfd753e73d2c8ad376" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ BULOVA, TODO ACERO, MAQ. DE CUARZO. ]]></source>
+    <translation><![CDATA[RELOJ BULOVA, TODO ACERO, MAQ. DE CUARZO. ]]></translation>
+  </word>
+  <word hash="f78df0fc1d814b290d2f588e8d2b839941fc6c02668e6d6ce4e05cc569a2140f" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Paddle Number: 2774]]></source>
+    <translation><![CDATA[Número de paleta: 2774]]></translation>
+  </word>
+  <word hash="0030d174ba8c62dc87c8b5af3de08728440fc628e4ef1f45c90cd15bfd46ceab" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ FOSSIL, TODO ACERO, BISEL CON PIEDRA SINTETICA, MAQ. DE CUARZO. PARA DAMA.]]></source>
+    <translation><![CDATA[RELOJ FOSSIL, TODO ACERO, BISEL CON PIEDRA SINTETICA, MAQ. DE CUARZO. PARA DAMA.]]></translation>
+  </word>
+  <word hash="b08e92bafce3b37f3314977a87b5b1d7e61a5599581abd15bcba24c4f543ad8d" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ MICHAEL KORS DYLAN, EN ACERO DORADO Y SILIC]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS DYLAN, EN ACERO DORADO Y SILIC]]></translation>
+  </word>
+  <word hash="659e4798d1afcda065919d4af9922d36b0522d0d142374c47c5edc57f66ca9c3" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ GUESS, ACERO DORADO, CRON]]></source>
+    <translation><![CDATA[RELOJ GUESS, ACERO DORADO, CRON]]></translation>
+  </word>
+  <word hash="4fdb52decf362c77efefc02c7a19881776063fce4eb2357baceb09ce802a78ea" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ MICHAEL KORS, ACERO DORADO, CON P.S, MAQ. DE CUARZO, PARA DAMA.]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS, ACERO DORADO, CON PS, MAQ. DE CUARZO, PARA DAMA.]]></translation>
+  </word>
+  <word hash="10ae07d739ae8d7f2cb50337162a41941d12df15ee0fd78e839e3461f27d68ed" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ NIVADA SKYMASTER, TODO ACERO, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ NIVADA SKYMASTER, TODO ACERO, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="fe4334324213c7716eb5b6de381b46fa767f453f13f5b97fb4a207efea94d840" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ GUESS  RIGOR, ACERO EN ROSA Y CAUCHO AZUL , MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ GUESS RIGOR, ACERO EN ROSA Y CAUCHO AZUL, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="8cd2c366df3b07f6ebadfdde462346430ac72ea4a601f43da11253b064b480e0" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ ARMANI EXCHANGE, TODO ACERO DORADO, MAQ DE CUARZO, PARA DAMA.]]></source>
+    <translation><![CDATA[RELOJ ARMANI EXCHANGE, TODO ACERO DORADO, MAQ DE CUARZO, PARA DAMA.]]></translation>
+  </word>
+  <word hash="a7c04ef5aa64095bd1d92b185dffd79f114d0327a5cfd166b740c533862200e0" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ MICHAEL KORS, TODO ACERO, MAQ. DE CUARZO. PARA DAMA]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS, TODO ACERO, MAQ. DE CUARZO. PARA DAMA]]></translation>
+  </word>
+  <word hash="9d028cf05a726891c65c66c6f587c4b7f7a34abaa0eb5c4b57be0516e90ed1a5" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[RELOJ CITIZEN ECO DRIVE, TODO ACERO.]]></source>
+    <translation><![CDATA[RELOJ CITIZEN ECO DRIVE, TODO ACERO.]]></translation>
+  </word>
+  <word hash="bc783cd1ff491c0dd1c9f5fddfa368e8f8b46f3579f700e0f941a0e15432389f" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Current bid: $ 1,200.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,200.00]]></translation>
+  </word>
+  <word hash="4cece1a754dc96d07dd4b8288de219b1f6dfa00ff0b61e19b8f0fb607341a891" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[No Data Available]]></source>
+    <translation><![CDATA[Datos no disponibles]]></translation>
+  </word>
+  <word hash="d7d50f15942a92af57dc3bef3046cbb6e6c577e1961fc413fa60397860ca9898" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Subastas Maxilana]]></source>
+    <translation><![CDATA[Subastas Maxilana]]></translation>
+  </word>
+  <word hash="1cb0ba125f84c982b00ba3639cdfb2cee6b70f94b5e0115c045fef607af4f216" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Information]]></source>
+    <translation><![CDATA[Información]]></translation>
+  </word>
+  <word hash="8d6946246dd37b17acf02bf79b9adcfd9f7f2a874c480b82ab8219aab15c35d2" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[
+              Donato Guerra #235 Sur Int. 201 C.P. 80200 ]]></source>
+    <translation><![CDATA[
+              Donato Guerra # 235 Sur Int. 201 CP 80200 ]]></translation>
+  </word>
+  <word hash="19ea7ebabd2f1672ed44a3256e41291ac0ea343e09fa4e6b42f825c0d93eb038" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[
+              Culiacán, Sinaloa]]></source>
+    <translation><![CDATA[
+              Culiacán, Sinaloa]]></translation>
+  </word>
+  <word hash="fe3f3f657e6c3396cfa5e9e145c35209d94f01f22cbd82ead6e486f1fdc9df08" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[
+              México ]]></source>
+    <translation><![CDATA[
+              México ]]></translation>
+  </word>
+  <word hash="3305eb58093dce1796f362abac95c01b9891118812501e09fb0321f60552713c" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Phone:]]></source>
+    <translation><![CDATA[Teléfono:]]></translation>
+  </word>
+  <word hash="53f43fe52d883fc5d081be38f2f81e7b43fe8e5b50cc2d733d68587d8d77b5fd" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[ 52 667 759 35 00]]></source>
+    <translation><![CDATA[ 52 667 759 35 00]]></translation>
+  </word>
+  <word hash="272b12e2d2ca6f0da3b9c0dc31e1b3372b4e4a67f50581e5fa67a09ba0cfa347" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[ 52 800 215 15 15]]></source>
+    <translation><![CDATA[ 52 800 215 15 15]]></translation>
+  </word>
+  <word hash="17507dcf845793fab0da66594804a4ca956ba284bcf36f4cef09e0a0a50c421a" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Email:]]></source>
+    <translation><![CDATA[Email:]]></translation>
+  </word>
+  <word hash="7d6a2bd122b0bb85295c790036b3a330557b78e6edec627a9b9440aab70bab82" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[subastas@maxilana.com]]></source>
+    <translation><![CDATA[subastas@maxilana.com]]></translation>
+  </word>
+  <word hash="b24be634fa84bd4446d87fbabbf93f88b125deab5b3e55afa88a9086be45f67d" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Useful Links]]></source>
+    <translation><![CDATA[Enlaces de interés]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Registrar]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="34e6faf15abddcd4b73e84117be7debf724f4ab10110bbef9fc5c6ed7eb0da60" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[Terms and Conditions]]></source>
+    <translation><![CDATA[Términos y Condiciones]]></translation>
+  </word>
+  <word hash="9f289511d23c8891e07476bbd2bc6a04b89d7c0e373065732fccc7e8d4e95b71" date="2020-11-09T21:40:41-07:00">
+    <source><![CDATA[
+          © 2020 Derechos de autor. All Rights Reserved
+        ]]></source>
+    <translation><![CDATA[© 2020 Derechos de autor. Todos los derechos reservados]]></translation>
+  </word>
+</translations>

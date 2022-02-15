@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="fr" domain="47ab2be5c5b4eb534fbc304db66fc02b" scope="/contact.php">
+  <word hash="67b2c8d46764ebf83fe82aacf9a3446ab079e8bb6a9cc180da86ca51a3aba438" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Auction Broadcaster]]></source>
+    <translation><![CDATA[Diffuseur d'enchères]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Maison]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Sur]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Enregistrer]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Contacter]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Catalogue]]></translation>
+  </word>
+  <word hash="9d6322c1f4d9d3f38aed8bfbe0b2bcadf66ad82c008476fa62541fa069138e94" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Login]]></source>
+    <translation><![CDATA[Connexion]]></translation>
+  </word>
+  <word hash="d7df59cf60c25b32bded5f26f42be6b6094d001097434870bae9ef34d7819e15" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Welcome to Subastas Maxillana]]></source>
+    <translation><![CDATA[Bienvenue chez Subastas Maxillana]]></translation>
+  </word>
+  <word hash="67b2c8d46764ebf83fe82aacf9a3446ab079e8bb6a9cc180da86ca51a3aba438" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Auction Broadcaster]]></source>
+    <translation><![CDATA[Diffuseur d'enchères]]></translation>
+  </word>
+  <word hash="1cb0ba125f84c982b00ba3639cdfb2cee6b70f94b5e0115c045fef607af4f216" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Information]]></source>
+    <translation><![CDATA[Informations]]></translation>
+  </word>
+  <word hash="8d6946246dd37b17acf02bf79b9adcfd9f7f2a874c480b82ab8219aab15c35d2" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[
+              Donato Guerra #235 Sur Int. 201 C.P. 80200 ]]></source>
+    <translation><![CDATA[
+              Donato Guerra # 235 Sur Int. 201 CP 80200 ]]></translation>
+  </word>
+  <word hash="19ea7ebabd2f1672ed44a3256e41291ac0ea343e09fa4e6b42f825c0d93eb038" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[
+              Culiacán, Sinaloa]]></source>
+    <translation><![CDATA[
+              Culiacán, Sinaloa]]></translation>
+  </word>
+  <word hash="fe3f3f657e6c3396cfa5e9e145c35209d94f01f22cbd82ead6e486f1fdc9df08" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[
+              México ]]></source>
+    <translation><![CDATA[
+              Mexique ]]></translation>
+  </word>
+  <word hash="3305eb58093dce1796f362abac95c01b9891118812501e09fb0321f60552713c" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Phone:]]></source>
+    <translation><![CDATA[Téléphone:]]></translation>
+  </word>
+  <word hash="53f43fe52d883fc5d081be38f2f81e7b43fe8e5b50cc2d733d68587d8d77b5fd" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[ 52 667 759 35 00]]></source>
+    <translation><![CDATA[ 52 667 759 35 00]]></translation>
+  </word>
+  <word hash="272b12e2d2ca6f0da3b9c0dc31e1b3372b4e4a67f50581e5fa67a09ba0cfa347" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[ 52 800 215 15 15]]></source>
+    <translation><![CDATA[ 52 800 215 15 15]]></translation>
+  </word>
+  <word hash="17507dcf845793fab0da66594804a4ca956ba284bcf36f4cef09e0a0a50c421a" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Email:]]></source>
+    <translation><![CDATA[Email:]]></translation>
+  </word>
+  <word hash="7d6a2bd122b0bb85295c790036b3a330557b78e6edec627a9b9440aab70bab82" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[subastas@maxilana.com]]></source>
+    <translation><![CDATA[subastas@maxilana.com]]></translation>
+  </word>
+  <word hash="b24be634fa84bd4446d87fbabbf93f88b125deab5b3e55afa88a9086be45f67d" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Useful Links]]></source>
+    <translation><![CDATA[Liens utiles]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Maison]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Enregistrer]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Catalogue]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Sur]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Contacter]]></translation>
+  </word>
+  <word hash="34e6faf15abddcd4b73e84117be7debf724f4ab10110bbef9fc5c6ed7eb0da60" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Terms and Conditions]]></source>
+    <translation><![CDATA[Termes et Conditions]]></translation>
+  </word>
+  <word hash="08c3c95f13779675ec4b23c4d9fd434dd75edc179d14c37c2e7512d5b6454dc4" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[
+          © 2020 Copyright. All Rights Reserved
+        ]]></source>
+    <translation><![CDATA[
+          © 2020 Copyright. Tous les droits sont réservés
+        ]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Maison]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Sur]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Enregistrer]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Contacter]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Catalogue]]></translation>
+  </word>
+  <word hash="9d6322c1f4d9d3f38aed8bfbe0b2bcadf66ad82c008476fa62541fa069138e94" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Login]]></source>
+    <translation><![CDATA[Connexion]]></translation>
+  </word>
+  <word hash="98b67063cf8e584d75e53b88472ee85473e01e0ea16f29ece9cc98f4a2710494" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Contact Us]]></source>
+    <translation><![CDATA[Contactez-nous]]></translation>
+  </word>
+  <word hash="ab1c08f682e0bcf2fd96a308a963fe8518e3d91639ec3f07174e3018e85f7c45" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Atención a clientes subastas ]]></source>
+    <translation><![CDATA[Atención a clientes subastas ]]></translation>
+  </word>
+  <word hash="a5e16b565608d65325a02b75dedc9c1f77236b81192098537ffda3e233398fe3" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[ Flor María López Meza 
+]]></source>
+    <translation><![CDATA[ Flor María López Meza 
+]]></translation>
+  </word>
+  <word hash="4e9ca390f026258188e553a53471ad1c325700df4d6a0b28fcd110e413cfc544" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[667 395 2708 ]]></source>
+    <translation><![CDATA[667 395 2708 ]]></translation>
+  </word>
+  <word hash="810e817cfb2416c8a2dfab289d87ab5ad61c74ed9ee62b1d45399b21b7ff1fd8" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Atención a clientes ventas en línea ]]></source>
+    <translation><![CDATA[Atención a clientes ventas en línea ]]></translation>
+  </word>
+  <word hash="597c411e1a9f44c59f3afeb7fa6daee47fae6cc3ba45f0918730bad2121e3fed" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[Laura Gabriela Otañez Ochoa
+]]></source>
+    <translation><![CDATA[Laura Gabriela Otañez Ochoa
+]]></translation>
+  </word>
+  <word hash="cf70682ea367ada7b6760e2e746790773695ce91b2c94a9a310ff7c8b7e39e6b" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[667 154 0148 ]]></source>
+    <translation><![CDATA[667 154 0148 ]]></translation>
+  </word>
+  <word hash="e9fa813ac9025526cd6b6991f6b7febac15798389b469af9c656848f373a94dd" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[ Página de contacto ]]></source>
+    <translation><![CDATA[ Página de contacto ]]></translation>
+  </word>
+  <word hash="898828583d6d1dbb6b59afa725a7712dc3a2e551a7e5b23d0558acc5a1d728f6" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[ www.maxilana.com]]></source>
+    <translation><![CDATA[ www.maxilana.com]]></translation>
+  </word>
+  <word hash="11436fcf62b048f28ff1525865e4fe752060f15ce864b966897e23da9e27a9df" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[ Phone:  800 215 15 15 
+]]></source>
+    <translation><![CDATA[ Téléphone: 800215 15 15 
+]]></translation>
+  </word>
+  <word hash="73b8ac61d27bc9dfb16811af4c8d6387d032a49a3a236a9c84d46741087878a0" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[ Email:  subastas@maxilana.com
+]]></source>
+    <translation><![CDATA[ Courriel: subastas@maxilana.com
+]]></translation>
+  </word>
+  <word hash="72a88770e3b9e83dd51f0d46ce95559349a13c595ddec7542bea8b86de6a114b" date="2020-08-06T09:07:20-07:00">
+    <source><![CDATA[
+La atención al cliente es una consideración importante. Maxilana se enorgullece de ser insuperable en esta área. Estamos comprometidos a hacer lo que sea necesario para garantizar que tengamos la capacidad de brindar el más alto nivel de atención a nuestros clientes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+]]></source>
+    <translation><![CDATA[
+La atención al cliente es una consideración importante. Maxilana se enorgullece de ser insuperable en esta zone. Estamos comprometidos a hacer lo que sea necesario para garantizar que tengamos la capacidad de brindar el más alto nivel de atención a nuestros clientes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+]]></translation>
+  </word>
+</translations>

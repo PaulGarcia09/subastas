@@ -1,0 +1,11 @@
+Lot Title,Lot Number,Lot Description,Image Name ,Minimum Bid,Reserve Bid,Bid Increment,Active
+Bed,10006,test description,image1.jpg,100,50,5,1
+Bedroom,10007,test description,image2.jpg,100,50,5,1
+Bungalow,10008,test description,image3.jpg,100,50,5,1
+Camera 4,10009,test description,image4.jpg,100,50,5,1
+Camera 5,10010,test description,image5.jpg,100,50,5,1
+Camera6,10011,test description,image6.jpg,100,50,5,1
+Car7,10012,test description,image7.jpg,100,50,5,1
+Car8,10013,test description,image8.jpg,100,50,5,1
+Car9,10014,test description,image9.jpg,100,50,5,1
+Car10,10015,test description,image10.jpg,100,50,5,1

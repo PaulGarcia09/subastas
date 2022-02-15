@@ -1,0 +1,2752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="es" domain="global" scope="global">
+  <word hash="a9b6e5fc5e5b39422bd9358d936b2a76c026cff17d886fd2721fe76dfd8792a0" date="2020-12-03T10:11:53-07:00">
+    <source><![CDATA[
+                 ariana ]]></source>
+    <translation><![CDATA[
+                 ariana ]]></translation>
+  </word>
+  <word hash="d999c62307153f557d35d5480cba81bab1a550d1b9c8adc14f7814aacb3bf89d" date="2020-12-03T10:11:53-07:00">
+    <source><![CDATA[
+                 Paleta: 4144 
+              ]]></source>
+    <translation><![CDATA[Paleta: 4144]]></translation>
+  </word>
+  <word hash="a9786ef1c1927a8b45c3a441bda990e01e78b463ee20fbd8c7091060d86fc0d9" date="2020-12-03T10:13:00-07:00">
+    <source><![CDATA[Paddle Number: 4144]]></source>
+    <translation><![CDATA[Número de paleta: 4144]]></translation>
+  </word>
+  <word hash="fea7346f6f3df309ffc28787b22c455265b1193f6046d23f881863968e50b2ae" date="2020-12-03T10:13:00-07:00">
+    <source><![CDATA[Current bid: $ 4,300.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,300.00]]></translation>
+  </word>
+  <word hash="19cbd62440d302542454f7bc5424315b5b7a093c2060cfa6fa0949148f54e537" date="2020-12-03T10:13:20-07:00">
+    <source><![CDATA[Paddle Number: 1]]></source>
+    <translation><![CDATA[Número de paleta: 1]]></translation>
+  </word>
+  <word hash="e86132b7892913f17588e78e499df6cb016a0d56c1c63a9b0dd08e6091a7f616" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: 611]]></source>
+    <translation><![CDATA[Número de paleta: 611]]></translation>
+  </word>
+  <word hash="c4bc5ed15c860bc52d4ee9a266578da2cb254f701f0c0ea2cee1e8491cd935eb" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: 2629]]></source>
+    <translation><![CDATA[Número de paleta: 2629]]></translation>
+  </word>
+  <word hash="e86132b7892913f17588e78e499df6cb016a0d56c1c63a9b0dd08e6091a7f616" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: 611]]></source>
+    <translation><![CDATA[Número de paleta: 611]]></translation>
+  </word>
+  <word hash="c5978468bfbd2d89543a8287e4d7b97b15704f0bdb48491aec67d4b3aedb900b" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: 6805]]></source>
+    <translation><![CDATA[Número de paleta: 6805]]></translation>
+  </word>
+  <word hash="e86132b7892913f17588e78e499df6cb016a0d56c1c63a9b0dd08e6091a7f616" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: 611]]></source>
+    <translation><![CDATA[Número de paleta: 611]]></translation>
+  </word>
+  <word hash="1a1775abc509c4ceb7452a1826c102b00c76ed1966e73ec571ee1b24f0ce5a91" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ Ver catálogo]]></source>
+    <translation><![CDATA[ Ver catálogo]]></translation>
+  </word>
+  <word hash="6125ddde2618364d4af0470afdf10c074ce0607ea51696039ba87c22ec019f23" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Descargar catálogo]]></source>
+    <translation><![CDATA[Descargar catálogo]]></translation>
+  </word>
+  <word hash="7d6a2bd122b0bb85295c790036b3a330557b78e6edec627a9b9440aab70bab82" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[subastas@maxilana.com]]></source>
+    <translation><![CDATA[subastas@maxilana.com]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Registrar]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="34e6faf15abddcd4b73e84117be7debf724f4ab10110bbef9fc5c6ed7eb0da60" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Terms and Conditions]]></source>
+    <translation><![CDATA[Términos y Condiciones]]></translation>
+  </word>
+  <word hash="58fcc9468fe1f60716a71caef50fce70a6d2d46f7a2c0d0f45f1f76dc7779625" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Inicio]]></source>
+    <translation><![CDATA[Inicio]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="1677ae1e5ff5f8b43056c877a95b340feb0db14cf1ce7d3be787139c5f96f27e" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[
+Registrarse]]></source>
+    <translation><![CDATA[
+Registrarse]]></translation>
+  </word>
+  <word hash="771b96b0812dd393ffeac789c2b8da1b78c20530a7365dd8181b1e3580db063f" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Contacto]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="dc7ababc44cc963507b77a4d8b55712ebb0565e0508615ab90a5f76ce96d4ee9" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Catálogo]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="5c42f52d7b3de78982032e31d9336aa00609a820a8e564401a3547d1aa92e9e1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Subasta en vivo]]></source>
+    <translation><![CDATA[Subasta en vivo]]></translation>
+  </word>
+  <word hash="33ecbdfebe3f527bef807f25b2bf66affdf0a5d4314c4e15594f9f578dd08400" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Mi Cuenta]]></source>
+    <translation><![CDATA[Mi Cuenta]]></translation>
+  </word>
+  <word hash="c6e6960395f49b48a0ddbfa72f24ebc612bb356d498f18ffa708832d7af1d798" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Cerrar sesión]]></source>
+    <translation><![CDATA[Cerrar sesión]]></translation>
+  </word>
+  <word hash="970b6558b55171dd22225c20a32eab37bbac3eda5534e68fece07c90c9dd57c2" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[PAR DE ARETES EN ORO BLANCO 18K DISEÑO V. GRACIA, CON 2 PERLAS DE LOS MARES DEL SUR Y 10 DIAMANTES AMARILLOS.]]></source>
+    <translation><![CDATA[PAR DE ARETES EN ORO BLANCO 18K DISEÑO V. GRACIA, CON 2 PERLAS DE LOS MARES DEL SUR Y 10 DIAMANTES AMARILLOS.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="744508822b2f7ffd5cabd059157564a883bd88aa8a53b03d8de3079278b4dcf8" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Initial Bid: $25,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 25,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="316d44107dd7e429b128119a781c4a95f394f6b4669365ba3a272bbdc13feed5" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[PAR DE ARETES EN PALADIO CON DOS ESMERALDAS Y DIAMANTES. AÑOS 70´S.]]></source>
+    <translation><![CDATA[PAR DE ARETES EN PALADIO CON DOS ESMERALDAS Y DIAMANTES. AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="37a4f1d83e1d91e44b99fa79869fd455931a2b9f0fa51c4c486180d2d79d7601" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Initial Bid: $5,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 5,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="5174d6f091c3e721f1c099cdd7da07e584c8127bd8a884c2227fad1bbc02fdc7" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: 1372]]></source>
+    <translation><![CDATA[Número de paleta: 1372]]></translation>
+  </word>
+  <word hash="6136ac2177acb58c29a9e8bdde971c108b2e9841a1060e734677dcd23152bbf1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Current bid: $ 5,200.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 5,200.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="dc8504bc359f6e87a6fe3dca4dd022b7a334be2b85dd8f11de9ca1a84e6430f0" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[RELOJ GIRARD PERRAGAUX WORLD TIMER EDICIÓN JALISCO, CRONÓGRAFO.]]></source>
+    <translation><![CDATA[RELOJ GIRARD PERRAGAUX WORLD TIMER EDICIÓN JALISCO, CRONÓGRAFO.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="9996ec9d19c7da21be71c018e9be0c019fb83f7adaca0143a195669b3ead3f3d" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Initial Bid: $40,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 40,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="ed2fdd835c9a329b1263a7f4d11590bae2ea3ce4fd97b15ec4663a874a929f2a" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: 9744]]></source>
+    <translation><![CDATA[Número de paleta: 9744]]></translation>
+  </word>
+  <word hash="8d2307e6cfc392fa85f2bc9dfd9af956eb14013098f7133006af0cc830788486" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Current bid: $ 52,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 52,000.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="2e4bdcead926dff5f82393315ce7cc01d79df27df1e309c919066da0e6cf2fe2" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[RELOJ TAG HEUER FORMULA 1 BLUE CALIBRE 16 , TODO ACERO, MOV. AUTOMÁTICO.]]></source>
+    <translation><![CDATA[RELOJ TAG HEUER FÓRMULA 1 AZUL CALIBRE 16, TODO ACERO, MOV. AUTOMÁTICO.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="18be3574c04dae5ea4e9044545aa184869c37350f1b5717e5a9802c87dce22f3" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Initial Bid: $17,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 17,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="f1a8915c8738f3957ae4c2e98d45b0c0a604be188e2a6f4461518f98fba7bb31" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: 20]]></source>
+    <translation><![CDATA[Número de paleta: 20]]></translation>
+  </word>
+  <word hash="4e8f2efc3dc0dc2c4b7726b34bdad27ccd4146fdfe55e5abe037d3edd97a0b0f" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Current bid: $ 17,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 17,000.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="db23a5c7cbdcde53b3401f0008334e21f9c79315524c058428764875af4d7bfb" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[RELOJ ROLEX O.P. LADY DATEJUST EN ORO DE 18K.]]></source>
+    <translation><![CDATA[RELOJ ROLEX OP LADY DATEJUST EN ORO DE 18K.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="078e65a5c955536cd87b4f553377ffc1aa8b9169a5887c3b34bcad3a1f96e12b" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Initial Bid: $65,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 65,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="be6b73ab90f154777344e424370d834a1d7d543b110af6d6c0cc362c4e9225ab" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: 9]]></source>
+    <translation><![CDATA[Número de paleta: 9]]></translation>
+  </word>
+  <word hash="938e889eccb6dcb68fc3ea81c2fd7bedd0e56aea230a2073547a7e772c90a97b" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Current bid: $ 85,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 85,000.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="b8f26066ba479890addc870886e32a687911193a80f4e5a5c5999d92d0bfbc44" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[RELOJ PARA DAMA ROLEX DATEJUS, EN ACERO, BISEL DE ORO BLANCO DE 18K, CARÁTULA MADRE PERLA CON INDICADORES DE DIAMANTES.]]></source>
+    <translation><![CDATA[RELOJ PARA DAMA ROLEX DATEJUS, EN ACERO, BISEL DE ORO BLANCO DE 18K, CARÁTULA MADRE PERLA CON INDICADORES DE DIAMANTES.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="ff35ca437ebe006ac44f5f77e36d1f8ef7de4f5823a5db1d2d690084e4c78b6c" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Initial Bid: $85,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 85,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="2dd6b3c31e57d41c01e0c2c2bd299cad149cb502c877a7fcede66965fa3d402c" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[COLLAR FIRMA CARTIER COLECCIÓN LOVE DE 18K.]]></source>
+    <translation><![CDATA[COLLAR FIRMA CARTIER COLECCIÓN LOVE DE 18K.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="d3b4944ea87a87ed3ba9ff4248823f4b38d171ed6bdbf7cecfa72e6d83b5600e" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Initial Bid: $13,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 13,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="b22cc107dedd8cd48743876239cfabe798430e254bfd18b90dd8d2892fabfc12" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Paddle Number: 4308]]></source>
+    <translation><![CDATA[Número de paleta: 4308]]></translation>
+  </word>
+  <word hash="6ce8451c94e2c0c5dc4411edf3c1d3161d712989e0f6513f972c8ac94ea69304" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Current bid: $ 16,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 16,000.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="cafe9d3f7bb477645f65d099e2f2c7324899c802f85937ef6ef7b9f200dd82c8" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[PAR DE ARETES EN ORO BLANCO DE 18K CON DIAMANTE PRINCIPAL FANCY, CORTE COJIN MODERNO, PESO APROX. EN CONJUNTO 0.80 QTE, LIGERAS INCLUSIONES, MONTADO EN 4 UÑAS.]]></source>
+    <translation><![CDATA[PAR DE ARETES EN ORO BLANCO DE 18K CON DIAMANTE PRINCIPAL FANCY, CORTE COJIN MODERNO, PESO APROX. EN CONJUNTO 0.80 QTE, LIGERAS INCLUSIONES, MONTADO EN 4 UÑAS.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="0742fd24c34288ea6d518c6f5882badcbba49508d411057eb53f52760a589dc0" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Initial Bid: $15,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 15,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:21-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="6ce8451c94e2c0c5dc4411edf3c1d3161d712989e0f6513f972c8ac94ea69304" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Current bid: $ 16,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 16,000.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="1b100b5e8b5ee040e9084944882e551ec521046d48992448f13944b18b8ccb6b" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[BRAZALETE FIRMA CARRERA Y CARRERA, COLECCIÓN ADÁN Y EVA, EN ORO DE 18K, CON DIAMANTES.]]></source>
+    <translation><![CDATA[BRAZALETE FIRMA CARRERA Y CARRERA, COLECCIÓN ADÁN Y EVA, EN ORO DE 18K, CON DIAMANTES.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="efb8005d9c7dc731a30758ac006e9ccbd0bdab816dd7b582d0a6032ac881c715" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Initial Bid: $45,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 45,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="b21cc8e6ad932cc09e2f2f37f5d0909779675bf35f6c4bfe6addca9140496e1b" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[RELOJ ROLEX OYSTER PERPETUAL DATEJUST, TODO ACERO, AÑO 2017 -2018.]]></source>
+    <translation><![CDATA[RELOJ ROLEX OYSTER PERPETUAL DATEJUST, TODO ACERO, AÑO 2017-2018.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="8f28c0d1ab2bbb3912e8b9e7e7f8b9deae64e2bf56c39ea899257dc2bc847097" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Initial Bid: $105,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 105,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="bffd4e108e61e9e4c6c8c31f660ab5798e8b32c385e1f7a08de8d19fd1fe9fc9" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[RELOJ BELL & ROSS BR 02, CAJA EN ACERO PVD Y BISEL EN ORO ROSA, CORREA EN CAUCHO CON HEBILLA EN ORO ROSA 18K.]]></source>
+    <translation><![CDATA[RELOJ BELL & ROSS BR 02, CAJA EN ACERO PVD Y BISEL EN ORO ROSA, CORREA EN CAUCHO CON HEBILLA EN ORO ROSA 18K.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="efb8005d9c7dc731a30758ac006e9ccbd0bdab816dd7b582d0a6032ac881c715" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Initial Bid: $45,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 45,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="33381f64d6f8187da440cd4a9b1dec497309e8160802438e0f5dc5476ba3d8d9" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Paddle Number: 6338]]></source>
+    <translation><![CDATA[Número de paleta: 6338]]></translation>
+  </word>
+  <word hash="5988fcc72d9ff42099cf25ff9ad3a801ca4506d0bd0c33935bd499d9bd3f30b2" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Current bid: $ 45,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 45,000.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="419eabff6151f644c89e889a07a823e19b45cfbae85ba2c0d5f54a89995cc9b9" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[RELOJ PIAGET "ALTIPLANO", ORO ROSA Y PIEL. CIRCA 2012.]]></source>
+    <translation><![CDATA[RELOJ PIAGET "ALTIPLANO", ORO ROSA Y PIEL. CIRCA 2012.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="beb717d58f99d4e52906abcfde94c60376d8c9502cffdb4571d3f39f4cff2c12" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Initial Bid: $50,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 50,000.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="939cb5bcfaf2efcbf834b748d3f6b5df0accf86d13373b4783684d0f497858ef" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Paddle Number: 1106]]></source>
+    <translation><![CDATA[Número de paleta: 1106]]></translation>
+  </word>
+  <word hash="95aa5bacfddfba274f69bd84dcdd0f3eec4676414a78785577ce51485359da4b" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Current bid: $ 58,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 58,000.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="d7d50f15942a92af57dc3bef3046cbb6e6c577e1961fc413fa60397860ca9898" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Subastas Maxilana]]></source>
+    <translation><![CDATA[Subastas Maxilana]]></translation>
+  </word>
+  <word hash="1cb0ba125f84c982b00ba3639cdfb2cee6b70f94b5e0115c045fef607af4f216" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Information]]></source>
+    <translation><![CDATA[Información]]></translation>
+  </word>
+  <word hash="8d6946246dd37b17acf02bf79b9adcfd9f7f2a874c480b82ab8219aab15c35d2" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[
+              Donato Guerra #235 Sur Int. 201 C.P. 80200 ]]></source>
+    <translation><![CDATA[
+              Donato Guerra # 235 Sur Int. 201 CP 80200 ]]></translation>
+  </word>
+  <word hash="19ea7ebabd2f1672ed44a3256e41291ac0ea343e09fa4e6b42f825c0d93eb038" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[
+              Culiacán, Sinaloa]]></source>
+    <translation><![CDATA[
+              Culiacán, Sinaloa]]></translation>
+  </word>
+  <word hash="fe3f3f657e6c3396cfa5e9e145c35209d94f01f22cbd82ead6e486f1fdc9df08" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[
+              México ]]></source>
+    <translation><![CDATA[
+              México ]]></translation>
+  </word>
+  <word hash="3305eb58093dce1796f362abac95c01b9891118812501e09fb0321f60552713c" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Phone:]]></source>
+    <translation><![CDATA[Teléfono:]]></translation>
+  </word>
+  <word hash="53f43fe52d883fc5d081be38f2f81e7b43fe8e5b50cc2d733d68587d8d77b5fd" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ 52 667 759 35 00]]></source>
+    <translation><![CDATA[ 52 667 759 35 00]]></translation>
+  </word>
+  <word hash="272b12e2d2ca6f0da3b9c0dc31e1b3372b4e4a67f50581e5fa67a09ba0cfa347" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ 52 800 215 15 15]]></source>
+    <translation><![CDATA[ 52 800 215 15 15]]></translation>
+  </word>
+  <word hash="17507dcf845793fab0da66594804a4ca956ba284bcf36f4cef09e0a0a50c421a" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Email:]]></source>
+    <translation><![CDATA[Email:]]></translation>
+  </word>
+  <word hash="7d6a2bd122b0bb85295c790036b3a330557b78e6edec627a9b9440aab70bab82" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[subastas@maxilana.com]]></source>
+    <translation><![CDATA[subastas@maxilana.com]]></translation>
+  </word>
+  <word hash="b24be634fa84bd4446d87fbabbf93f88b125deab5b3e55afa88a9086be45f67d" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Useful Links]]></source>
+    <translation><![CDATA[Enlaces de interés]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Registrar]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="34e6faf15abddcd4b73e84117be7debf724f4ab10110bbef9fc5c6ed7eb0da60" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Terms and Conditions]]></source>
+    <translation><![CDATA[Términos y Condiciones]]></translation>
+  </word>
+  <word hash="9f289511d23c8891e07476bbd2bc6a04b89d7c0e373065732fccc7e8d4e95b71" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[
+          © 2020 Derechos de autor. All Rights Reserved
+        ]]></source>
+    <translation><![CDATA[
+          © 2020 Derechos de autor. Todos los derechos reservados
+        ]]></translation>
+  </word>
+  <word hash="58fcc9468fe1f60716a71caef50fce70a6d2d46f7a2c0d0f45f1f76dc7779625" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Inicio]]></source>
+    <translation><![CDATA[Inicio]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="1677ae1e5ff5f8b43056c877a95b340feb0db14cf1ce7d3be787139c5f96f27e" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[
+Registrarse]]></source>
+    <translation><![CDATA[
+Registrarse]]></translation>
+  </word>
+  <word hash="771b96b0812dd393ffeac789c2b8da1b78c20530a7365dd8181b1e3580db063f" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Contacto]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="dc7ababc44cc963507b77a4d8b55712ebb0565e0508615ab90a5f76ce96d4ee9" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Catálogo]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="5c42f52d7b3de78982032e31d9336aa00609a820a8e564401a3547d1aa92e9e1" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Subasta en vivo]]></source>
+    <translation><![CDATA[Subasta en vivo]]></translation>
+  </word>
+  <word hash="33ecbdfebe3f527bef807f25b2bf66affdf0a5d4314c4e15594f9f578dd08400" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Mi Cuenta]]></source>
+    <translation><![CDATA[Mi Cuenta]]></translation>
+  </word>
+  <word hash="c6e6960395f49b48a0ddbfa72f24ebc612bb356d498f18ffa708832d7af1d798" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Cerrar sesión]]></source>
+    <translation><![CDATA[Cerrar sesión]]></translation>
+  </word>
+  <word hash="58fcc9468fe1f60716a71caef50fce70a6d2d46f7a2c0d0f45f1f76dc7779625" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Inicio]]></source>
+    <translation><![CDATA[Inicio]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="1677ae1e5ff5f8b43056c877a95b340feb0db14cf1ce7d3be787139c5f96f27e" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[
+Registrarse]]></source>
+    <translation><![CDATA[
+Registrarse]]></translation>
+  </word>
+  <word hash="771b96b0812dd393ffeac789c2b8da1b78c20530a7365dd8181b1e3580db063f" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Contacto]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="dc7ababc44cc963507b77a4d8b55712ebb0565e0508615ab90a5f76ce96d4ee9" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Catálogo]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="5c42f52d7b3de78982032e31d9336aa00609a820a8e564401a3547d1aa92e9e1" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Subasta en vivo]]></source>
+    <translation><![CDATA[Subasta en vivo]]></translation>
+  </word>
+  <word hash="33ecbdfebe3f527bef807f25b2bf66affdf0a5d4314c4e15594f9f578dd08400" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Mi Cuenta]]></source>
+    <translation><![CDATA[Mi Cuenta]]></translation>
+  </word>
+  <word hash="c6e6960395f49b48a0ddbfa72f24ebc612bb356d498f18ffa708832d7af1d798" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Cerrar sesión]]></source>
+    <translation><![CDATA[Cerrar sesión]]></translation>
+  </word>
+  <word hash="8d2da380af070af76d5cb111856dcde14620ef8dd009a87e25401966e81c3891" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ Pre-bidding Lots]]></source>
+    <translation><![CDATA[ Lotes de preoferta]]></translation>
+  </word>
+  <word hash="4730f56c77c4a82a861d67741f84bca9361de577304cfdf1497878bb0dcef973" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[ Auctions finished]]></source>
+    <translation><![CDATA[Subastas finalizadas]]></translation>
+  </word>
+  <word hash="aeccae342e4bd0a70ded84675569da91c5efb3894e35929cafd851cda763a6aa" date="2020-12-03T10:13:22-07:00">
+    <source><![CDATA[Cerrar]]></source>
+    <translation><![CDATA[Cerrar]]></translation>
+  </word>
+  <word hash="f28eef964969b83d61b3b89dcb50620ddc9d815fa049cd51c21ace01601db9fc" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PLUMA ROLLERBALL FIRMA MONTBLANC, COLECCIÓN STARWALKER MIDNIGHT.]]></source>
+    <translation><![CDATA[PLUMA ROLLERBALL FIRMA MONTBLANC, COLECCIÓN STARWALKER MIDNIGHT.]]></translation>
+  </word>
+  <word hash="c92a8a5ba0912c36b383df8dd307d98e5f692a95c17bbc399db4f6da7d5ad180" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $1,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,500.00]]></translation>
+  </word>
+  <word hash="95c6dddb56c5635e5b2bd6af77358fd02a669e7e63d1445b0a30fde8dac76df0" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 3,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,000.00]]></translation>
+  </word>
+  <word hash="f6d68daf0077d5b5fcc366fb6bf1ae8356900d9d4d0b2eb5ffeae96fe9a432ce" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[COLLAR FIRMA TEMPLE ST. CLAIR, ORO 18K Y ZAFIROS NATURALES "MULTICOLOR"]]></source>
+    <translation><![CDATA[COLLAR FIRMA TEMPLO ST. CLAIR, ORO 18K Y ZAFIROS NATURALES "MULTICOLOR"]]></translation>
+  </word>
+  <word hash="f127d82db6c3207729bf0813ebbaa9f260d5c51cb33faf87bf63b98be90316eb" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $12,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 12,000.00]]></translation>
+  </word>
+  <word hash="87e46b77aa6138b525682d691447812e1b6251a8c9afe6c5a8e3d9a10d2e3d63" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 12,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 12,000.00]]></translation>
+  </word>
+  <word hash="b60a37dcef46659be8fde965abc85a50c62e11a34ea369403ea13f5a2c38fbc5" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE ARETES ORO DE 14K, DISEÑO TRIANGULAR CON TANZANITAS Y DIAMANTES.]]></source>
+    <translation><![CDATA[PAR DE ARETES ORO DE 14K, DISEÑO TRIANGULAR CON TANZANITAS Y DIAMANTES.]]></translation>
+  </word>
+  <word hash="fc268b6b367e7d05dde74ada42470b90d91075a75870a09850085da14417db5f" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $4,800.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 4,800.00]]></translation>
+  </word>
+  <word hash="8ad786057cffaa7d7d57f3fe06c939792e77b2eb9bad83d7abbe9ce961a2a7f1" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 5,400.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 5,400.00]]></translation>
+  </word>
+  <word hash="bcdebb9b0f405150c8fae292a1270096c57c36cfef5dac3b2add228b56ee9453" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[RELOJ TAG HEUER FORMULA 1, TODO ACERO, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ TAG HEUER FÓRMULA 1, TODO ACERO, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="686923a1aa4c18f1498a54473d5c2bb058671f4d833daff9ccf590d4bb4d32d7" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $10,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 10,000.00]]></translation>
+  </word>
+  <word hash="acbb3c8819bcba715493f5c9a0e852d95a83e76e99fec6fa56ab60cdca1293c4" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 10,500.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 10,500.00]]></translation>
+  </word>
+  <word hash="22a7f4c7e30ccb0559bc2bae73a2b2cd280aa6b02e2c16ccbe3a6255ed841e7d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[CADENA Y DIJE EN ORO BLANCO DE 18K, CON 15 RUBÍES Y 3 DIAMANTES.]]></source>
+    <translation><![CDATA[CADENA Y DIJE EN ORO BLANCO DE 18K, CON 15 RUBÍES Y 3 DIAMANTES.]]></translation>
+  </word>
+  <word hash="77cfdea7e07402f903c4e647e533f60af58134ab6f38dff39bedda7fcc142dfa" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[CUADRO]]></source>
+    <translation><![CDATA[CUADRO]]></translation>
+  </word>
+  <word hash="ff526614074ac90d83766c05d2e08a6f1f653c79893e657622b778ff51c51ce1" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $100.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 100.00]]></translation>
+  </word>
+  <word hash="50ae54d100e317540a9b6ec73edf1fd89245f02378f69be1ffe674c6fda4a422" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 500.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 500.00]]></translation>
+  </word>
+  <word hash="469f3425365d79806ed3e610598f735e637c83303221876f54ea9dca96a7b231" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[JUEGO DE COLLAR CON PENDIENTE Y BROQUELES, ORO BLANCO 14K CON TURMALINAS Y DIAMANTES.]]></source>
+    <translation><![CDATA[JUEGO DE COLLAR CON PENDIENTE Y BROQUELES, ORO BLANCO 14K CON TURMALINAS Y DIAMANTES.]]></translation>
+  </word>
+  <word hash="ab0d96bf3dfdff908e4211ebcd15cfaf3be8df0fc762a2ed0df80e69c1426747" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[BRAZALETE FIRMA TEMPLE ST. CLAIR, ORO 18K, CON 2 PIEDRAS DE LUNA TALLA GOTA CABUJÓN Y 6 DIAMANTES.]]></source>
+    <translation><![CDATA[BRAZALETE FIRMA TEMPLE ST. CLAIR, ORO 18K, CON 2 PIEDRAS DE LUNA TALLA GOTA CABUJÓN Y 6 DIAMANTES.]]></translation>
+  </word>
+  <word hash="638ffd18b850325dde3bd791e6643d8938cc2e96cd1eed2698704092d0f38e7f" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $14,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 14,000.00]]></translation>
+  </word>
+  <word hash="d5f5ec5cc2b0f7a959bd356b2239172b31a9ecd4616d41e692e820328f8b6fba" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 14,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 14,000.00]]></translation>
+  </word>
+  <word hash="a828403620899d4a6ae4166cb5ceb9aed7e037f51497d3e63edd9caf9104fad0" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[COLLAR Y DIJE CORAZON, CON DIAMANTES CORTE PRINCESA.]]></source>
+    <translation><![CDATA[COLLAR Y DIJE CORAZON, CON DIAMANTES CORTE PRINCESA.]]></translation>
+  </word>
+  <word hash="b1ade16697a376623f2fbea9773365c71c8c05a2645485c2400dcd9ea9c9fb7b" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $4,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 4,500.00]]></translation>
+  </word>
+  <word hash="830575d964e23b41e1c645d382dabe7759c9962360563c9dba6b67e1bceafbd8" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Subastas Maxilana | Catálogo]]></source>
+    <translation><![CDATA[Subastas Maxilana | Catálogo]]></translation>
+  </word>
+  <word hash="c38e8a3c0e017ddd95dc8ff5b87747244f210a06b3de4ac4fed2e7f5154f9726" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[
+                 Ary ]]></source>
+    <translation><![CDATA[
+                 Ary ]]></translation>
+  </word>
+  <word hash="cd63059590a2faa1fff4949e69c3adf168a6ecb842205f23bc2168345579793d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[
+                 Paleta: 2007 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 2007 
+              ]]></translation>
+  </word>
+  <word hash="1cc28e64d1d7297ede5afcc34e40cd67e0de1a424fcbc1bccb3b2c1927b8227f" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Catálogo de subastas]]></source>
+    <translation><![CDATA[Catálogo de subastas]]></translation>
+  </word>
+  <word hash="21dbd5484ef480fa598c005895904d8be90a28b918ccf1b1409c4a1f8c08167d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Relojes y Joyería Fina]]></source>
+    <translation><![CDATA[Relojes y Joyería Fina]]></translation>
+  </word>
+  <word hash="a7906ae82961283d0a8ba1b747b41b28006524dbd4720e69b4d2fb6354aadd68" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[ Live Streaming ]]></source>
+    <translation><![CDATA[Transmisión en vivo]]></translation>
+  </word>
+  <word hash="9caa0c11bdee575d5ed3b90613d1b0b00853408f7ba81d3b09c34e9c400500f2" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[ARTESANÍA]]></source>
+    <translation><![CDATA[ARTESANÍA]]></translation>
+  </word>
+  <word hash="ff526614074ac90d83766c05d2e08a6f1f653c79893e657622b778ff51c51ce1" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $100.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 100.00]]></translation>
+  </word>
+  <word hash="56c9dfbe5a8fdeb41e64cc72cdb2aff887d4744ceb374911e363c801099ceaff" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 600.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 600.00]]></translation>
+  </word>
+  <word hash="b89e41d8103358ebdcf0534cf32332ec701d6c11db90f8c6682b92a38a5ae276" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[CADENA Y DIJE EN ORO BLANCO DE 14K, CON 66 DIAMANTES.]]></source>
+    <translation><![CDATA[CADENA Y DIJE EN ORO BLANCO DE 14K, CON 66 DIAMANTES.]]></translation>
+  </word>
+  <word hash="ab8650ab05abb7366edf64d62a0f91588fb16e252d6813dc3cd0931140545a20" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $3,300.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 3,300.00]]></translation>
+  </word>
+  <word hash="8ccd0a758fa8b67ce924fbf5bf638b443176d8d6a67296db317ad2a01c438349" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 7859]]></source>
+    <translation><![CDATA[Número de paleta: 7859]]></translation>
+  </word>
+  <word hash="94dd537bb87d7a3ae1a4ffa30579353065551889d507f02c7ff20844dee0e0f9" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 3,900.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,900.00]]></translation>
+  </word>
+  <word hash="ef50e15840d387d3a20dcac5b44037daef55ef5cb3dd7dc5c54cb5deaa8126f9" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE ARETES CON BRILLANTES, ORO DE 14K.]]></source>
+    <translation><![CDATA[PAR DE ARETES CON BRILLANTES, ORO DE 14K.]]></translation>
+  </word>
+  <word hash="ece173076a25d748a2cea4184c401ca555cbff0b43e5dba794a28d387062dde9" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 2302]]></source>
+    <translation><![CDATA[Número de paleta: 2302]]></translation>
+  </word>
+  <word hash="8ad786057cffaa7d7d57f3fe06c939792e77b2eb9bad83d7abbe9ce961a2a7f1" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 5,400.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 5,400.00]]></translation>
+  </word>
+  <word hash="750d64b9cfc5cd48fe4b1c3215e25e913a934bfbd2757c9da057cfad4cc70c11" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[ESCLAVA EN ORO BLANCO DE 18K, CON 15 DIAMANTES.]]></source>
+    <translation><![CDATA[ESCLAVA EN ORO BLANCO DE 18K, CON 15 DIAMANTES.]]></translation>
+  </word>
+  <word hash="0f1b700973a9f8da06effa24c14897284d184ab6e603c089034db6caa480b7fe" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $2,700.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,700.00]]></translation>
+  </word>
+  <word hash="8ccd0a758fa8b67ce924fbf5bf638b443176d8d6a67296db317ad2a01c438349" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 7859]]></source>
+    <translation><![CDATA[Número de paleta: 7859]]></translation>
+  </word>
+  <word hash="04b2903dfb8a4bfbedbbdb4f340664e530c9110e9fd2a9946fac09055db2cf53" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 3,600.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,600.00]]></translation>
+  </word>
+  <word hash="4ac618d07777221c95c36aac69b99dd7dcbefd4af3e211795ec31b64574ae505" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[10 MEDALLAS EN PLATA LEY .925 CHARROS MEXICANO, ASOCIACIONES CHARROS NACIONAL Y PACHUCA, EDICIÓN 1976.]]></source>
+    <translation><![CDATA[10 MEDALLAS EN PLATA LEY .925 CHARROS MEXICANO, ASOCIACIONES CHARROS NACIONAL Y PACHUCA, EDICIÓN 1976.]]></translation>
+  </word>
+  <word hash="ab8650ab05abb7366edf64d62a0f91588fb16e252d6813dc3cd0931140545a20" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $3,300.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 3,300.00]]></translation>
+  </word>
+  <word hash="b62debdb8de9098a287ba4df92c4ed204ecefda7606fe71861cd72398036f5cb" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[COLLAR FIRMA MONTBLANC COLECCIÓN STAR SIGNET, EN PLATA 925.]]></source>
+    <translation><![CDATA[COLLAR FIRMA MONTBLANC COLECCIÓN STAR SIGNET, EN PLATA 925.]]></translation>
+  </word>
+  <word hash="5b7bef7ec345228e1e906447e8a2e4dc74664539d0770c13a4dcba1a68c5bb6e" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $4,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 4,000.00]]></translation>
+  </word>
+  <word hash="0a6f257e0c42611f663ebc03fac556d42319a3c48256fc7b79ba1e5a5b7a25aa" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 2212]]></source>
+    <translation><![CDATA[Número de paleta: 2212]]></translation>
+  </word>
+  <word hash="0fcc403d2c62d34ef2726c1a94593d20c10828a33b1c8844183f48307243ba46" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 4,200.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,200.00]]></translation>
+  </word>
+  <word hash="2c75d50295c2e8b52e6c4c7f67a7a532f901416e33e991bc5431cdc2c7b4f802" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE ARRACADAS FIRMA TEMPLE ST. CLAIR, ORO 18K Y 32 ESMERALDAS.]]></source>
+    <translation><![CDATA[PAR DE ARRACADAS FIRMA TEMPLE ST. CLAIR, ORO 18K Y 32 ESMERALDAS.]]></translation>
+  </word>
+  <word hash="eb2eb69f1807f8228079a7747bd49508ff299c97f54b9220c57100b80fd67a95" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $6,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 6,000.00]]></translation>
+  </word>
+  <word hash="12231f9265f4fb11202f387b2a9095c11d6e1ba3a5ed5c52d3609b4b26cb4f54" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 7,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 7,000.00]]></translation>
+  </word>
+  <word hash="e380638020e5a68b2948a65869976411b7e0781b49a625b52b962cb63ae0b0a6" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 107]]></source>
+    <translation><![CDATA[Número de paleta: 107]]></translation>
+  </word>
+  <word hash="70740d7da846f3165fd7656e91b7826be1b1f2959e94e08ca10526b59bea02ef" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 4,900.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,900.00]]></translation>
+  </word>
+  <word hash="6b86490ccb067537dfdbda98ba42cd37442715f44728ba0ba5070423461d5189" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[COLLAR EN PLATA STERLING CON MEDALLÓN OVAL DE TURQUESA, AÑOS 70´S.]]></source>
+    <translation><![CDATA[COLLAR EN PLATA ESTERLINA CON MEDALLÓN OVAL DE TURQUESA, AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="31ce332dc97c33642b47ea98a10e59795fba49178b7c6a94f9ebe42dd2f9b665" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $1,400.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,400.00]]></translation>
+  </word>
+  <word hash="bcdb1fe32c75b42834cc3dfc0e86893dd51e166802cfe443931a433dbe24be92" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[ANILLO Y PAR DE ARETES CON TRES TURQUESA, PLATA STERLING .925, AÑOS 70´S.]]></source>
+    <translation><![CDATA[ANILLO Y PAR DE ARETES CON TRES TURQUESA, PLATA STERLING .925, AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="919635373379f318dcf30e7679876a575d12d1bbdb610de350e0b582d4150618" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 500.00]]></translation>
+  </word>
+  <word hash="85e47adf5f9ac60cd72e9a38c460b9554a79eca1550389b68eaf6ad073c653a6" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[JUEGO DE ANILLO Y PAR DE ARETES CON TRES NEFRITAS, PLATA STERLING, AÑOS 70´S.]]></source>
+    <translation><![CDATA[JUEGO DE ANILLO Y PAR DE ARETES CON TRES NEFRITAS, PLATA STERLING, AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="d9c7cb17c39548aa18d18001dcd411bc382c69900d8c9d1936a01f2d9024f774" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $300.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 300.00]]></translation>
+  </word>
+  <word hash="56c9dfbe5a8fdeb41e64cc72cdb2aff887d4744ceb374911e363c801099ceaff" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 600.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 600.00]]></translation>
+  </word>
+  <word hash="d1ada03b81ede8fbe2cd48cd542a443d47b5dfa13a59531b5c63433355ac0e8d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[BOLÍGRAFO FIRMA MONTBLANC, COLECCIÓN STARWALKER MIDNIGHT.]]></source>
+    <translation><![CDATA[BOLÍGRAFO FIRMA MONTBLANC, COLECCIÓN STARWALKER MIDNIGHT.]]></translation>
+  </word>
+  <word hash="302bcf222239ae565888cd928cb09b3df8d3443c95b76637e297b23ff17fbbe2" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $1,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,000.00]]></translation>
+  </word>
+  <word hash="f203540fe506859217ed6ab441b337936270dd73c8273b6a79a5ae7307b4c4e0" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 2,200.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,200.00]]></translation>
+  </word>
+  <word hash="eb38d1a6ed073d2cf8ebe27c73c442f23e04e7764e595a98d3c35a94fdf12504" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[RELOJ BVLGARI DIÁGONO , CAUCHO Y TITANIO.]]></source>
+    <translation><![CDATA[RELOJ BVLGARI DIÁGONO, CAUCHO Y TITANIO.]]></translation>
+  </word>
+  <word hash="e380638020e5a68b2948a65869976411b7e0781b49a625b52b962cb63ae0b0a6" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 107]]></source>
+    <translation><![CDATA[Número de paleta: 107]]></translation>
+  </word>
+  <word hash="aa55b4736ead1ece09d3f9c938bd3ec62fc2f2914054422b5d489665aea7c1f3" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 15,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 15,000.00]]></translation>
+  </word>
+  <word hash="9ccba02bed119da897a3a70a2c69bababe8ab9db8da422b8d7d63c5e9c8762cf" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[RELOJ PARA DAMA CARTIER SANTOS GALBEE, EN ACERO Y ORO, MOVIMIENTO AUTOMÁTICO.]]></source>
+    <translation><![CDATA[RELOJ PARA DAMA CARTIER SANTOS GALBEE, EN ACERO Y ORO, MOVIMIENTO AUTOMÁTICO.]]></translation>
+  </word>
+  <word hash="1cb0f230f50c4e53a81f828ad0637a75054bda4dde939c76b7e4f108e3717553" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $29,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 29,000.00]]></translation>
+  </word>
+  <word hash="0a6f257e0c42611f663ebc03fac556d42319a3c48256fc7b79ba1e5a5b7a25aa" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 2212]]></source>
+    <translation><![CDATA[Número de paleta: 2212]]></translation>
+  </word>
+  <word hash="1523c4d6ec50798fc079e97b3a3c8091a6fb1b1511b821fbf6a359f33d31c149" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 29,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 29,000.00]]></translation>
+  </word>
+  <word hash="1bd8ffd238114710970719ca24e20934fc27bf82222f0142ad587591977bd56f" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[A - PAR DE ARETES DISEÑO AMERICANO OPEN WORK, BICOLOR EN ORO 18K, CON 92 DIAMANTES.]]></source>
+    <translation><![CDATA[A - PAR DE ARETES DISEÑO AMERICANO OBRA ABIERTA, BICOLOR EN ORO 18K, CON 92 DIAMANTES.]]></translation>
+  </word>
+  <word hash="3276c2e195510fb2d7d9141265a3f0d3f1e8a1d86fdbefb2d316da41be2c1a98" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $7,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 7,500.00]]></translation>
+  </word>
+  <word hash="5d138baa2a978c973a4ed76f4f5af93f8a229161c31b21daac2beceb249b456c" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 7,500.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 7,500.00]]></translation>
+  </word>
+  <word hash="df06c572a29df3ded81072f3c593bf4bbdbd3cbb67f2ae8ba349ea886d67a70d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[B - BECA]]></source>
+    <translation><![CDATA[B - BECA]]></translation>
+  </word>
+  <word hash="302bcf222239ae565888cd928cb09b3df8d3443c95b76637e297b23ff17fbbe2" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $1,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,000.00]]></translation>
+  </word>
+  <word hash="0b800874a47645dc535bde5006687e85ceae4ae58a19ef5ed454ed4ceeb0b1be" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 1,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,000.00]]></translation>
+  </word>
+  <word hash="b4ffe5c080a9adba8599d6833cb1b54eefad719cad798ea8a479a2a784d843a1" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[C - RELOJ MONTBLANC HERITAGE, ACERO Y PIEL, MOVIMIENTO AUTOMÁTICO.]]></source>
+    <translation><![CDATA[C - PATRIMONIO RELOJ MONTBLANC, ACERO Y PIEL, MOVIMIENTO AUTOMÁTICO.]]></translation>
+  </word>
+  <word hash="6858360799c1c688c9e6f5b38b9770ec6bf7a8f9c8cd70d947d77c068c82c699" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE ARETES CON 32 DIAMANTES EN ORO DE 14K.]]></source>
+    <translation><![CDATA[PAR DE ARETES CON 32 DIAMANTES EN ORO DE 14K.]]></translation>
+  </word>
+  <word hash="a162eed95a2ed3077142219bd66b9c821116ce2cc46fc7d83ba036b97db1ccb7" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $9,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 9,000.00]]></translation>
+  </word>
+  <word hash="89c812ba5090b40a15b9a316b1507635f8ae9154b34cdb84c6b753f6cbff4137" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 9,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 9,000.00]]></translation>
+  </word>
+  <word hash="f3b5a57f338bc9a3cdf3e2ccfad1a6aa683e05434ccf025c9cc48ce3c1310c3f" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[ANILLO ORO BLANCO DE 18K CON DIAMANTE PRINCIPAL CORTE MARQUIZ DE 130 PUNTOS APROX. MONTADO EN 4 UÑAS, COLOR L, CLARIDAD SI.]]></source>
+    <translation><![CDATA[ANILLO ORO BLANCO DE 18K CON DIAMANTE PRINCIPAL CORTE MARQUIZ DE 130 PUNTOS APROX. MONTADO EN 4 UÑAS, COLOR L, CLARIDAD SI.]]></translation>
+  </word>
+  <word hash="98ff305991513e806516397f6a712543e0ab99a072fa1d002b64d3cbade1351c" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $35,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 35,000.00]]></translation>
+  </word>
+  <word hash="b28ca92efdb6538f1135ad0eda775ad5da191a435b8dccf87af06e3bab489625" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[ANILLO EN ORO BLANCO DE 18K, CON CUARZO RUTILADO EN TALLA CABUJÓN Y 77 DIAMANTES.]]></source>
+    <translation><![CDATA[ANILLO EN ORO BLANCO DE 18K, CON CUARZO RUTILADO EN TALLA CABUJÓN Y 77 DIAMANTES.]]></translation>
+  </word>
+  <word hash="274643112915f6552a832f714df09dfb854d4fb1ecbee93d3abff8e2fff9c2de" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $8,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 8,000.00]]></translation>
+  </word>
+  <word hash="9b0ed3d700927eacae7f68cc773227e4da4172ebb83331bd855e881b463a1986" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[ANILLO FIRMA TIFFANY & Co. COLECCIÓN "T" PARA DAMA. ]]></source>
+    <translation><![CDATA[ANILLO FIRMA TIFFANY & Co. COLECCIÓN "T" PARA DAMA. ]]></translation>
+  </word>
+  <word hash="bcc2d1d62bbc6d4f87d95a4f39f0a91879152b43eff5ab1bb7984b7e1b318406" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $3,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 3,000.00]]></translation>
+  </word>
+  <word hash="832ed42ac49f990d699c4295bcc4e695a827f1dc923345a98847b8f716bc280a" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 2211]]></source>
+    <translation><![CDATA[Número de paleta: 2211]]></translation>
+  </word>
+  <word hash="0fcc403d2c62d34ef2726c1a94593d20c10828a33b1c8844183f48307243ba46" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 4,200.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,200.00]]></translation>
+  </word>
+  <word hash="18f1369a7f9042ad4b0404851e06dce7a9b2603367dc31e25cd9046589510a1d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[COLLAR EN PLATA STERLING CON CUATRO OJOS DE TIGRE, AÑOS 70´S.]]></source>
+    <translation><![CDATA[COLLAR PLATA ESTERLINA CON CUATRO OJOS DE TIGRE, AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="31ce332dc97c33642b47ea98a10e59795fba49178b7c6a94f9ebe42dd2f9b665" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $1,400.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,400.00]]></translation>
+  </word>
+  <word hash="7695bfd4bf679de7192cd5fe1ba8d0f8498e4a1548d846c0044549fa655c9a7a" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PENDIENTES FIRMA ANTHONY NAK, ORO AMARILLO 18K, CON 2 AMATISTAS.]]></source>
+    <translation><![CDATA[PENDIENTES FIRMA ANTHONY NAK, ORO AMARILLO 18K, CON 2 AMATISTAS.]]></translation>
+  </word>
+  <word hash="0ca11d7ba263828c0638bbfed9d57e4f99ee2c9b13fb16c678b57bf5e3a23233" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $2,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,500.00]]></translation>
+  </word>
+  <word hash="45f60b901342c525ef93caa648a3b8edbb39a385fb32f49a46a8d9afb5b614d2" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 7302]]></source>
+    <translation><![CDATA[Número de paleta: 7302]]></translation>
+  </word>
+  <word hash="73ad2b6138792b8ffca338d69220c5c86c53a615a552b4f3895e1ca7538b4d83" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 2,500.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,500.00]]></translation>
+  </word>
+  <word hash="7e91c25fed192f46391b6c3501f03d4cc1ab3a2f355abab690190e45c3daa915" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE ARETES EN ORO ROSA DE 14K CON BRILLANTES Y AGUAMARINAS.]]></source>
+    <translation><![CDATA[PAR DE ARETES EN ORO ROSA DE 14K CON BRILLANTES Y AGUAMARINAS.]]></translation>
+  </word>
+  <word hash="a11b3ada5cedebe9d9e44cf75e978ee1f8849b916318f79e582cfd45a142c6f4" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $2,800.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,800.00]]></translation>
+  </word>
+  <word hash="832ed42ac49f990d699c4295bcc4e695a827f1dc923345a98847b8f716bc280a" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 2211]]></source>
+    <translation><![CDATA[Número de paleta: 2211]]></translation>
+  </word>
+  <word hash="04b2903dfb8a4bfbedbbdb4f340664e530c9110e9fd2a9946fac09055db2cf53" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 3,600.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,600.00]]></translation>
+  </word>
+  <word hash="04f412c04b83d2efd3b5f806f8c11465f3b84384d2fdd4b5be86ef1e64201891" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[COLLAR DE PLATA STERLING CON TRES CABUJONES DE TURQUESA, AÑOS 70´S.]]></source>
+    <translation><![CDATA[COLLAR DE PLATA ESTERLINA CON TRES CABUJONES DE TURQUESA, AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="302bcf222239ae565888cd928cb09b3df8d3443c95b76637e297b23ff17fbbe2" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $1,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,000.00]]></translation>
+  </word>
+  <word hash="165d49a88ec8dfe324c492879fee53dcf112004249b20b5c3ebbf9bad0af114d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[BOLÍGRAFO FIRMA MONTBLANC, COLECCIÓN STARWALKER DOUÉ.]]></source>
+    <translation><![CDATA[BOLÍGRAFO FIRMA MONTBLANC, COLECCIÓN STARWALKER DOUÉ.]]></translation>
+  </word>
+  <word hash="417364808259188b59063c50a08dd465689743b29742dbd42a3959b73c98c6d3" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $2,200.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,200.00]]></translation>
+  </word>
+  <word hash="838e4c00be778db6b5dfff9dd5ba4fc402f78c96fbabc16ca83541f84e214d4c" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 4840]]></source>
+    <translation><![CDATA[Número de paleta: 4840]]></translation>
+  </word>
+  <word hash="04b2903dfb8a4bfbedbbdb4f340664e530c9110e9fd2a9946fac09055db2cf53" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 3,600.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,600.00]]></translation>
+  </word>
+  <word hash="2ce71bd0c159e1cf731ef1a7b8524739eb0a5ea8fddabf1ae04841f63f2fdfa1" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[COLLAR EN PLATA STERLING .925 CON SIETE TURQUESAS, AÑOS 70´S.]]></source>
+    <translation><![CDATA[COLLAR EN PLATA ESTERLINA .925 CON SIETE TURQUESAS, AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="c92a8a5ba0912c36b383df8dd307d98e5f692a95c17bbc399db4f6da7d5ad180" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $1,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,500.00]]></translation>
+  </word>
+  <word hash="e56eeb89c5513807c1b3fb4c8347d5246a0697733f19f29b4ba6947169f85b29" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[COLLAR DE PLATA STERLING CON TRES MEDALLONES DE ÓNIX, AÑOS 70´S.]]></source>
+    <translation><![CDATA[COLLAR DE PLATA ESTERLINA CON TRES MEDALLONES DE ÓNIX, AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="31ce332dc97c33642b47ea98a10e59795fba49178b7c6a94f9ebe42dd2f9b665" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $1,400.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,400.00]]></translation>
+  </word>
+  <word hash="3110459dd3c3556d2cd3ee844d42563c203646ca7d4936231427b9c873fdb135" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[RELOJ PARA DAMA MUST DE CARTIER SIGLO XXI, ACERO Y CHAPA. ]]></source>
+    <translation><![CDATA[RELOJ PARA DAMA MUST DE CARTIER SIGLO XXI, ACERO Y CHAPA. ]]></translation>
+  </word>
+  <word hash="274643112915f6552a832f714df09dfb854d4fb1ecbee93d3abff8e2fff9c2de" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $8,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 8,000.00]]></translation>
+  </word>
+  <word hash="9fbd6473ec85e97d8fbe82699c937dd6a3a17edd6131f753f74e6d43298f1b6c" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 11,500.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 11,500.00]]></translation>
+  </word>
+  <word hash="b5097bae73c653025862ddbf9c1263ca891d6d18d9c42ba02fe6d4a1d425a18d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[COLLAR EN PLATA STERLING CON CINCO OJOS DE TIGRE, AÑOS 70´S.]]></source>
+    <translation><![CDATA[COLLAR EN PLATA ESTERLINA CON CINCO OJOS DE TIGRE, AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="4cbb71864897bac162b7ae1860adc1102ba4a1a4d8220e9f178c64d66af5fba9" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $1,200.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,200.00]]></translation>
+  </word>
+  <word hash="7cb47eb38d72652144b80a262b9c8651cf79eff5da5fe6d0975559b083be8748" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE ARETES LARGOS, EN ORO DE 18K, CON GEMAS CORAL TALLA PERA CABUJÓN.]]></source>
+    <translation><![CDATA[PAR DE ARETES LARGOS, EN ORO DE 18K, CON GEMAS CORAL TALLA PERA CABUJÓN.]]></translation>
+  </word>
+  <word hash="eb2eb69f1807f8228079a7747bd49508ff299c97f54b9220c57100b80fd67a95" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $6,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 6,000.00]]></translation>
+  </word>
+  <word hash="c09fe3766e97ab635dcb4cff7c60b383b07ba9f31fc18ab2c1043e8760f4b913" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[RELOJ BELL &ROSS BRS-64, EN CERÁMICA COLOR BLANCO.]]></source>
+    <translation><![CDATA[RELOJ BELL & ROSS BRS-64, EN CERÁMICA COLOR BLANCO.]]></translation>
+  </word>
+  <word hash="e614927e94fcbdcd18c937963d890af3406be1d54bdfd511f41d674feb0eb367" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $16,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 16,000.00]]></translation>
+  </word>
+  <word hash="3be8d1f7147e3975466cad786bf31ddf90cfafb7728fef97ddf946d45514fd5d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[ANILLO INFINITO EN ORO ROSA 18K, CON 154 DIAMANTES.]]></source>
+    <translation><![CDATA[ANILLO INFINITO EN ORO ROSA 18K, CON 154 DIAMANTES.]]></translation>
+  </word>
+  <word hash="0ca11d7ba263828c0638bbfed9d57e4f99ee2c9b13fb16c678b57bf5e3a23233" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $2,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,500.00]]></translation>
+  </word>
+  <word hash="0156b5ea28250dc4506bc0a66c94b2dd606b549592e818bea60a5971be24a194" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 3,100.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,100.00]]></translation>
+  </word>
+  <word hash="aa2dfcbed5ea7149a6403d7da6827a51bb81f15fe5de9ec54afe48d8acb879d4" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE BROQUELES FIRMA TOUS, COLECCIÓN BEAR.]]></source>
+    <translation><![CDATA[PAR DE BROQUELES FIRMA TOUS, COLECCIÓN BEAR.]]></translation>
+  </word>
+  <word hash="0ca11d7ba263828c0638bbfed9d57e4f99ee2c9b13fb16c678b57bf5e3a23233" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $2,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,500.00]]></translation>
+  </word>
+  <word hash="e310fed4d7b10f265d038ef1bf72d21815d39052d808d708972316df9ba9c894" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 2007]]></source>
+    <translation><![CDATA[Número de paleta: 2007]]></translation>
+  </word>
+  <word hash="0156b5ea28250dc4506bc0a66c94b2dd606b549592e818bea60a5971be24a194" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 3,100.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,100.00]]></translation>
+  </word>
+  <word hash="943c0d3550d113f75852de1961e48ef4ffac0296ffe8d6e432f73b8b76be9cc7" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PULSERA EN PLATA STERLING CON 6 CORNALINAS, AÑOS 70´S.]]></source>
+    <translation><![CDATA[PULSERA EN PLATA STERLING CON 6 CORNALINAS, AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="cd17ed59183117f3cd8898c09c477c56191aee8ce06443a20f0fa475eb33ca73" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $600.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 600.00]]></translation>
+  </word>
+  <word hash="201fe6cdfad4e15f44213206e47cd005fc908b6ec31e72719e1f29bbcd759e35" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 3963]]></source>
+    <translation><![CDATA[Número de paleta: 3963]]></translation>
+  </word>
+  <word hash="3d77adb51cd0bd237b0ba11ec9d7e9bfca3bd3bc69fcd7f8d259b0b1e1105f21" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 800.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 800.00]]></translation>
+  </word>
+  <word hash="865a2c40aa8ab3603f843ce1b805b606c5fa3b55b84fdb9a325de6154d16cfe7" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[A - PLUMA FUENTE FIRMA MONTBLANC, COLECCIÓN MEISTERSTUCK CLASSIQUE.]]></source>
+    <translation><![CDATA[A - PLUMA FUENTE FIRMA MONTBLANC, COLECCIÓN MEISTERSTUCK CLASSIQUE.]]></translation>
+  </word>
+  <word hash="6e72079ec847b354bd8900dd4310ca21b6a9a241b55aa3aa9fbd98c9f5314c48" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 3504]]></source>
+    <translation><![CDATA[Número de paleta: 3504]]></translation>
+  </word>
+  <word hash="fd404c975752bd90bed3b39a037d4a6c0f4fe138e28ba0726c486fb26505a864" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 4,400.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,400.00]]></translation>
+  </word>
+  <word hash="db09661d7549ea81b50c34f25d6438814a941f9df897e37397766f96110066d4" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[C - RELOJ CARTIER BALLON BLEU, EN ACERO CON ESFERA NEGRA GUILLOCHE, 42 MM.]]></source>
+    <translation><![CDATA[C - RELOJ CARTIER BALLON BLEU, EN ACERO CON ESFERA NEGRA GUILLOCHE, 42 MM.]]></translation>
+  </word>
+  <word hash="3809a33ec7eae049d36b3cfc2acf7c0f5e479b9c31a597543c513044bd6b35dc" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 50,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 50,000.00]]></translation>
+  </word>
+  <word hash="9517a594496ad093692e27223146ee56bd23bd5c07245e3a9482c275fde3fd22" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[DIJE EN ORO 14K, CON PERLA TAHITIANA Y 8 DIAMANTES.]]></source>
+    <translation><![CDATA[DIJE EN ORO 14K, CON PERLA TAHITIANA Y 8 DIAMANTES.]]></translation>
+  </word>
+  <word hash="747101338837489948f4dd0bff5ef160f99f929c669746d3233e9c0b043d462a" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $3,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 3,500.00]]></translation>
+  </word>
+  <word hash="905b6b7542fb4cb4e51de11f1eed2c7e93ff9cc32a75e56a876ba436d1b2ffd1" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 3,500.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,500.00]]></translation>
+  </word>
+  <word hash="05bb05422dbf3a47494a40571b4420e7f38139a0afa10e9ca7d02a0eafd366b8" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[RELOJ CARTIER ROADSTER "S" EN ACERO, MOVIMIENTO AUTOMÁTICO.]]></source>
+    <translation><![CDATA[RELOJ CARTIER ROADSTER "S" EN ACERO, MOVIMIENTO AUTOMÁTICO.]]></translation>
+  </word>
+  <word hash="4904aed37b8212f96526000754ff86755d491beea3de09087f208eb99d753cce" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[RELOJ TAG HEUER AQUARACER  CRONÓGRAFO  TODO ACERO]]></source>
+    <translation><![CDATA[RELOJ TAG HEUER AQUARACER CRONÓGRAFO TODO ACERO]]></translation>
+  </word>
+  <word hash="ce2b1794979d9dfadf7c307f8204c02276fc86bf29405fedac52df6356df8f24" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $12,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 12,500.00]]></translation>
+  </word>
+  <word hash="4fc822eb38983a04af97aeca8b3484720136f1f974b3a69047e68c2a16e2e72d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 13,500.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 13,500.00]]></translation>
+  </word>
+  <word hash="d3b0164bd12906cbba8ca62e59baef50fa34574810277d2374b2641236f305a8" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[RELOJ ROLEX CELLINI, CAJA DE ORO DE 18K, 32 MM DE DIÁMETRO.]]></source>
+    <translation><![CDATA[RELOJ ROLEX CELLINI, CAJA DE ORO DE 18K, 32 MM DE DIÁMETRO.]]></translation>
+  </word>
+  <word hash="7f36e171a57062366634c22d2bbb09a2d88a041c9ec3531764852401051c9401" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Paddle Number: 7284]]></source>
+    <translation><![CDATA[Número de paleta: 7284]]></translation>
+  </word>
+  <word hash="03c76bc3443ef143aa3a2d5107ee0be8a3d985bddf4276d1d4a88e1ff60e5b50" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 20,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 20,000.00]]></translation>
+  </word>
+  <word hash="2ff654225db573b67c3b29e3fe34cfe087abd8ffbd0e60bd188cbfa1c89f326f" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[ANILLO EN ORO ROSA 14K, DISEÑO AMERICANO, CON MORGANITA Y DIAMANTES.]]></source>
+    <translation><![CDATA[ANILLO EN ORO ROSA 14K, DISEÑO AMERICANO, CON MORGANITA Y DIAMANTES.]]></translation>
+  </word>
+  <word hash="747101338837489948f4dd0bff5ef160f99f929c669746d3233e9c0b043d462a" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $3,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 3,500.00]]></translation>
+  </word>
+  <word hash="5d0f6661b4f3b817b71d62ea1a3b64bc63334da96e0a401ea29d65057f1d3376" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 4,600.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,600.00]]></translation>
+  </word>
+  <word hash="51f1174ab1dc75017d228f0228e2ce5299b1b265d74622574a40e57c95862a30" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[CRUZ BARROCA EN ORO DE 18K, CON 7 ESMERALDAS DE BUEN COLOR. ]]></source>
+    <translation><![CDATA[CRUZ BARROCA EN ORO DE 18K, CON 7 ESMERALDAS DE BUEN COLOR. ]]></translation>
+  </word>
+  <word hash="db2f92e86e97337864627e58a6f1afd774adf7a9340da81ad91dd43d1d8cc8ba" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE BROQUELES  EN PLATINO  CON 2 DIAMANTES.]]></source>
+    <translation><![CDATA[PAR DE BROQUELES EN PLATINO CON 2 DIAMANTES.]]></translation>
+  </word>
+  <word hash="2659c051d96438599de6b015ace07418d99fe6e41d7fa1d25b53ca910a29f021" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 4,700.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,700.00]]></translation>
+  </word>
+  <word hash="a9e00d63700afcfe48454492ad606fefa92fca4fc9fdc0e7e806bde9760d4f1d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE BROQUELES, CADENA Y  DIJE FIRMA TOUS COLECCIÓN BUBLE BEAR.]]></source>
+    <translation><![CDATA[PAR DE BROQUELES, CADENA Y DIJE FIRMA TOUS COLECCIÓN BUBLE BEAR.]]></translation>
+  </word>
+  <word hash="7ff792c0f3a1bac2581d345c52cfbfa3e6a0a04ce963d3c70d5c064c56d69a81" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $7,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 7,000.00]]></translation>
+  </word>
+  <word hash="caa63912de48838ce0f07b5e99c5119b862c3a0338d6eb6d45686190bb2d24b4" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Current bid: $ 8,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 8,000.00]]></translation>
+  </word>
+  <word hash="0d592707fff07846ea03b9c610ce89125347637a21b69c655e3b2b81bb5f9688" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE ARETES EN PLATINO Y PALADIO CON DOS ESMERALDAS Y DIAMANTES. AÑOS 70´S.]]></source>
+    <translation><![CDATA[PAR DE ARETES EN PLATINO Y PALADIO CON DOS ESMERALDAS Y DIAMANTES. AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="0e5ce8b52652e57daa82f71bf1bb132569b039ac84e4b77590998a99f2b955ff" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE ARETES EN ORO 18K, CON 28 DIAMANTES CORTE ANTIGUO, AÑOS 70´S.]]></source>
+    <translation><![CDATA[PAR DE ARETES EN ORO 18K, CON 28 DIAMANTES CORTE ANTIGUO, AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="4c6578c183cbc61268a4d6b7d01cd3c9f1f5167c4c00a496e4bba5de7840591d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $42,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 42,000.00]]></translation>
+  </word>
+  <word hash="3dd19567c1f3302931bb7a3eccf96418879e78304c43b760b88935a80c06d499" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PAR DE BROQUELES ORO BLANCO 14K, CON DOS DIAMANTES DE MEDIO QUILATE CADA UNO Y DIAMANTITOS.]]></source>
+    <translation><![CDATA[PAR DE BROQUELES ORO BLANCO 14K, CON DOS DIAMANTES DE MEDIO QUILATE CADA UNO Y DIAMANTITOS.]]></translation>
+  </word>
+  <word hash="3fe15bff095a388a0346b1d0523a8dde11b5295cc0dcb4bde5d6b0069c363a47" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[PRENDEDOR EN ORO 14K Y VISTA PLATA, CON 4 DIAMANTES DE CORTE ANTIGUO P.A. 2.00 QTES]]></source>
+    <translation><![CDATA[PRENDEDOR EN ORO 14K Y VISTA PLATA, CON 4 DIAMANTES DE CORTE ANTIGUO PA 2.00 QTES]]></translation>
+  </word>
+  <word hash="5e725ce75f9eb2028a43bdc793a49165631f43f8067410e86c06c00de76577ac" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[ANILLO EN PLATINO, ÉPOCA ART DECÓ, FIRMA BUD & BLOSSOM - ML, CON DIAMANTE CENTRAL Y DIAMANTES.]]></source>
+    <translation><![CDATA[ANILLO EN PLATINO, ÉPOCA ART DECÓ, FIRMA BUD & BLOSSOM - ML, CON DIAMANTE CENTRAL Y DIAMANTES.]]></translation>
+  </word>
+  <word hash="cd747ca4cb0e3447439b88721f36ae1581db3378fc035715b769778c8b2ef42d" date="2020-12-03T10:13:29-07:00">
+    <source><![CDATA[Initial Bid: $11,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 11,000.00]]></translation>
+  </word>
+  <word hash="83a9c35dbfd30e9a3d6de715715f952516d375577ca2016efb8bf036b2633e86" date="2020-12-03T10:21:35-07:00">
+    <source><![CDATA[Paddle Number: 6763]]></source>
+    <translation><![CDATA[Número de paleta: 6763]]></translation>
+  </word>
+  <word hash="83a9c35dbfd30e9a3d6de715715f952516d375577ca2016efb8bf036b2633e86" date="2020-12-03T10:21:35-07:00">
+    <source><![CDATA[Paddle Number: 6763]]></source>
+    <translation><![CDATA[Número de paleta: 6763]]></translation>
+  </word>
+  <word hash="8d518bb65ea3dedb5250e357ef5d2ea42c178c140f655b95f7b610835f72f3d0" date="2020-12-03T10:30:20-07:00">
+    <source><![CDATA[Iniciar sesión]]></source>
+    <translation><![CDATA[Iniciar Sesión]]></translation>
+  </word>
+  <word hash="d9fb7d3b57bfdfea150a16eb531756ee1276c19d5af8831f4339773d53b1cdc6" date="2020-12-03T10:32:45-07:00">
+    <source><![CDATA[
+                 Albertobe ]]></source>
+    <translation><![CDATA[
+                 Albertobe ]]></translation>
+  </word>
+  <word hash="ed52431ed1eed52a5215851d96eb25472a1504c4fa3d534622bcfd390072f07a" date="2020-12-03T10:32:45-07:00">
+    <source><![CDATA[
+                 Paleta: 3576 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 3576 
+              ]]></translation>
+  </word>
+  <word hash="558764ffeea9f3bd4e8c1d856d819e723b80af7421dd3d9078cc3116cd756608" date="2020-12-03T10:32:45-07:00">
+    <source><![CDATA[boldo 2843,urbi villas del cedro,80058,sinaloa]]></source>
+    <translation><![CDATA[boldo 2843, urbi villas del cedro, 80058, sinaloa]]></translation>
+  </word>
+  <word hash="ee61be01fe8ba86c08e92267e587063ff46d8916e210b8d4b77f41861f93f77f" date="2020-12-03T10:32:45-07:00">
+    <source><![CDATA[
+                            Albertobe                          ]]></source>
+    <translation><![CDATA[
+                            Albertobe                          ]]></translation>
+  </word>
+  <word hash="91f04ff417610ca85a08fbcc57b38bda6e4f28861e9fa30c88c16f26911970f4" date="2020-12-03T10:32:45-07:00">
+    <source><![CDATA[boldo 2843]]></source>
+    <translation><![CDATA[boldo 2843]]></translation>
+  </word>
+  <word hash="d06664922606514a0e2502020a42f09d337a674d0678df9748fcd53a96501cd8" date="2020-12-03T10:32:45-07:00">
+    <source><![CDATA[urbi villas del cedro]]></source>
+    <translation><![CDATA[urbi villas del cedro]]></translation>
+  </word>
+  <word hash="de0b849b1099acf3efd06d54c62c2c08f45acfacc4f70c9ebb5a188b2956becd" date="2020-12-03T10:32:45-07:00">
+    <source><![CDATA[sinaloa]]></source>
+    <translation><![CDATA[Sinaloa]]></translation>
+  </word>
+  <word hash="f2587689b7e00650f395e3963f81a7480e5227dc2a1d1ca222982050eef18439" date="2020-12-03T10:32:45-07:00">
+    <source><![CDATA[culiacan ]]></source>
+    <translation><![CDATA[culiacán ]]></translation>
+  </word>
+  <word hash="760898aeaf15f8a87c727263c435539d42cb50118a1dd8872a2fcbb222fca36b" date="2020-12-03T10:37:20-07:00">
+    <source><![CDATA[ 52 6]]></source>
+    <translation><![CDATA[ 52 6]]></translation>
+  </word>
+  <word hash="09c5382671fc92acde91ee646b79069baa9c47cfb6963db97376b956514b1bf8" date="2020-12-03T10:37:20-07:00">
+    <source><![CDATA[67 759 35 00]]></source>
+    <translation><![CDATA[67 759 35 00]]></translation>
+  </word>
+  <word hash="09c5382671fc92acde91ee646b79069baa9c47cfb6963db97376b956514b1bf8" date="2020-12-03T10:37:20-07:00">
+    <source><![CDATA[67 759 35 00]]></source>
+    <translation><![CDATA[67 759 35 00]]></translation>
+  </word>
+  <word hash="2b3c1da33e08d9192a453c6bf10b4b3da56b41e319a61ae5dc63ca6ee351aeb5" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[
+                 cesarpuga ]]></source>
+    <translation><![CDATA[
+                 cesarpuga ]]></translation>
+  </word>
+  <word hash="2ecd37dcca74730f160a4dfa49dbff905299cf8052f43cf7c96d38ae9d7a615a" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[
+                 Paleta: 7437 
+              ]]></source>
+    <translation><![CDATA[Paleta: 7437]]></translation>
+  </word>
+  <word hash="7f47adb9e8942fa6b11de1df4e4a55a1495e3ccdc5e8edafca4d4290f382f9b4" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[avenida santander 2940,stanza cantabria ,80059,sinaloa]]></source>
+    <translation><![CDATA[avenida santander 2940, stanza cantabria, 80059, sinaloa]]></translation>
+  </word>
+  <word hash="78685c7888c89e1b1963342c8d907ba0a6c35d5938fdb3a9d4e9b68453edb4c3" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[
+                            cesarpuga                          ]]></source>
+    <translation><![CDATA[
+                            cesarpuga                          ]]></translation>
+  </word>
+  <word hash="16fb2bcad12778264641b9de97f66db699398d6e81b37d64fae5e2ef3aad6d4f" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[avenida santander 2940]]></source>
+    <translation><![CDATA[avenida santander 2940]]></translation>
+  </word>
+  <word hash="b88e2483223e3f5cc2dd2ffbb86f0936f15388bb05ba78a302a8a63fec8ac391" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[stanza cantabria ]]></source>
+    <translation><![CDATA[estrofa de cantabria ]]></translation>
+  </word>
+  <word hash="2b3c1da33e08d9192a453c6bf10b4b3da56b41e319a61ae5dc63ca6ee351aeb5" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[
+                 cesarpuga ]]></source>
+    <translation><![CDATA[
+                 cesarpuga ]]></translation>
+  </word>
+  <word hash="2ecd37dcca74730f160a4dfa49dbff905299cf8052f43cf7c96d38ae9d7a615a" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[
+                 Paleta: 7437 
+              ]]></source>
+    <translation><![CDATA[Paleta: 7437]]></translation>
+  </word>
+  <word hash="2b3c1da33e08d9192a453c6bf10b4b3da56b41e319a61ae5dc63ca6ee351aeb5" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[
+                 cesarpuga ]]></source>
+    <translation><![CDATA[
+                 cesarpuga ]]></translation>
+  </word>
+  <word hash="2ecd37dcca74730f160a4dfa49dbff905299cf8052f43cf7c96d38ae9d7a615a" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[
+                 Paleta: 7437 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 7437 
+              ]]></translation>
+  </word>
+  <word hash="2b3c1da33e08d9192a453c6bf10b4b3da56b41e319a61ae5dc63ca6ee351aeb5" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[
+                 cesarpuga ]]></source>
+    <translation><![CDATA[
+                 cesarpuga ]]></translation>
+  </word>
+  <word hash="2ecd37dcca74730f160a4dfa49dbff905299cf8052f43cf7c96d38ae9d7a615a" date="2020-12-03T10:38:21-07:00">
+    <source><![CDATA[
+                 Paleta: 7437 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 7437 
+              ]]></translation>
+  </word>
+  <word hash="3caf0add752f71c4c7afbaa225af4a74a1bce56cf91f5789d3325335ba7270a3" date="2020-12-03T10:40:44-07:00">
+    <source><![CDATA[Lot number: 15]]></source>
+    <translation><![CDATA[Número de lote: 15]]></translation>
+  </word>
+  <word hash="e566869ae5fe4629758008e14a6a0c22f7ee586d0cd8661fa6098b3b45ad4205" date="2020-12-03T10:40:44-07:00">
+    <source><![CDATA[Total amout: $ 3,100.00]]></source>
+    <translation><![CDATA[Monto total: $ 3,100.00]]></translation>
+  </word>
+  <word hash="d773451a5f6ab1a8bbdab807f7b6e0a08a12da284646446a1c0fdc3c52d84763" date="2020-12-03T11:17:17-07:00">
+    <source><![CDATA[
+                 alonso ]]></source>
+    <translation><![CDATA[
+                 alonso ]]></translation>
+  </word>
+  <word hash="b8c3fc4c0e50ef2236dc8d8f9a5926d3b262c80e9c18f7eeaff33422f3d39c17" date="2020-12-03T11:17:17-07:00">
+    <source><![CDATA[
+                 Paleta: 6267 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 6267 
+              ]]></translation>
+  </word>
+  <word hash="d773451a5f6ab1a8bbdab807f7b6e0a08a12da284646446a1c0fdc3c52d84763" date="2020-12-03T11:17:17-07:00">
+    <source><![CDATA[
+                 alonso ]]></source>
+    <translation><![CDATA[
+                 alonso ]]></translation>
+  </word>
+  <word hash="b8c3fc4c0e50ef2236dc8d8f9a5926d3b262c80e9c18f7eeaff33422f3d39c17" date="2020-12-03T11:17:17-07:00">
+    <source><![CDATA[
+                 Paleta: 6267 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 6267 
+              ]]></translation>
+  </word>
+  <word hash="d773451a5f6ab1a8bbdab807f7b6e0a08a12da284646446a1c0fdc3c52d84763" date="2020-12-03T11:17:17-07:00">
+    <source><![CDATA[
+                 alonso ]]></source>
+    <translation><![CDATA[
+                 alonso ]]></translation>
+  </word>
+  <word hash="b8c3fc4c0e50ef2236dc8d8f9a5926d3b262c80e9c18f7eeaff33422f3d39c17" date="2020-12-03T11:17:17-07:00">
+    <source><![CDATA[
+                 Paleta: 6267 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 6267 
+              ]]></translation>
+  </word>
+  <word hash="8e18ca61c11c1ce177bbed906ef0b30074d85443cac6a59eda6402f476f84671" date="2020-12-03T11:35:23-07:00">
+    <source><![CDATA[Subastas Maxilana | activate.php]]></source>
+    <translation><![CDATA[Subastas Maxilana | activar.php]]></translation>
+  </word>
+  <word hash="ee13a049ead2aea7700250f6b3e5cf4ae2fa33259743227bcac7fc63e2f0c74a" date="2020-12-03T11:35:23-07:00">
+    <source><![CDATA[
+            ¡Gracias por confirmar tu asistencia!
+          ]]></source>
+    <translation><![CDATA[¡Gracias por confirmar tu asistencia!]]></translation>
+  </word>
+  <word hash="20b5040dc14d74b3244a6e2eff0e583c277efa99d5229fa68a18f17baa279808" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[
+                 Sergio Aguirre ]]></source>
+    <translation><![CDATA[
+                 Sergio Aguirre ]]></translation>
+  </word>
+  <word hash="9a1d8fb909b10a642d22560934e99e2c0a220b6876cd18c6a0d6a63270a56878" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[
+                 Paleta: 7284 
+              ]]></source>
+    <translation><![CDATA[Paleta: 7284]]></translation>
+  </word>
+  <word hash="20b5040dc14d74b3244a6e2eff0e583c277efa99d5229fa68a18f17baa279808" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[
+                 Sergio Aguirre ]]></source>
+    <translation><![CDATA[
+                 Sergio Aguirre ]]></translation>
+  </word>
+  <word hash="9a1d8fb909b10a642d22560934e99e2c0a220b6876cd18c6a0d6a63270a56878" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[
+                 Paleta: 7284 
+              ]]></source>
+    <translation><![CDATA[Paleta: 7284]]></translation>
+  </word>
+  <word hash="20b5040dc14d74b3244a6e2eff0e583c277efa99d5229fa68a18f17baa279808" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[
+                 Sergio Aguirre ]]></source>
+    <translation><![CDATA[
+                 Sergio Aguirre ]]></translation>
+  </word>
+  <word hash="9a1d8fb909b10a642d22560934e99e2c0a220b6876cd18c6a0d6a63270a56878" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[
+                 Paleta: 7284 
+              ]]></source>
+    <translation><![CDATA[Paleta: 7284]]></translation>
+  </word>
+  <word hash="20b5040dc14d74b3244a6e2eff0e583c277efa99d5229fa68a18f17baa279808" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[
+                 Sergio Aguirre ]]></source>
+    <translation><![CDATA[
+                 Sergio Aguirre ]]></translation>
+  </word>
+  <word hash="9a1d8fb909b10a642d22560934e99e2c0a220b6876cd18c6a0d6a63270a56878" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[
+                 Paleta: 7284 
+              ]]></source>
+    <translation><![CDATA[Paleta: 7284]]></translation>
+  </word>
+  <word hash="8929da907413541ee53567754ee4b5ac799f5c3599a9de78edbf939242a6b67d" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[cda. iztacihualth 107,fraccionamiento Villa bonita,80199,sinaloa]]></source>
+    <translation><![CDATA[cda. iztacihualth 107, fraccionamiento Villa bonita, 80199, sinaloa]]></translation>
+  </word>
+  <word hash="59864f2a14ba90a065b3c8e4e1e9aa11d563f58fbcba117d7867a7c84f232221" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[Lot number: 44]]></source>
+    <translation><![CDATA[Número de lote: 44]]></translation>
+  </word>
+  <word hash="15ad755b3010b20bfbae175f6f57d1671644590f813d007b06c78d8f11a3fdbd" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[Total amout: $ 20,000.00]]></source>
+    <translation><![CDATA[Monto total: $ 20,000.00]]></translation>
+  </word>
+  <word hash="d7b4f467ae4f06e796cdc8d9728c27f7cf3efb638098cfdf04d2931d2ea76797" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[
+                            Sergio Aguirre                          ]]></source>
+    <translation><![CDATA[
+                            Sergio Aguirre                          ]]></translation>
+  </word>
+  <word hash="4caf906a6820e99d2305ab28f6727cadfd58e295ba9ee1774a4be62b1d059912" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[cda. iztacihualth 107]]></source>
+    <translation><![CDATA[cda. iztacihualth 107]]></translation>
+  </word>
+  <word hash="5c123da20f58512b8de75549f02ac94fedfd5120860141c95c176d631eaa2f60" date="2020-12-03T11:48:39-07:00">
+    <source><![CDATA[fraccionamiento Villa bonita]]></source>
+    <translation><![CDATA[fraccionamiento Villa bonita]]></translation>
+  </word>
+  <word hash="d7e2993efe569aaab49abed70f8f5b7646e45c271415c8ae0fd22a0050543e4d" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[
+                 Memo ]]></source>
+    <translation><![CDATA[Memorándum]]></translation>
+  </word>
+  <word hash="9f1a0d17e5be065eba573a5bb0d9f66ace8edcc3f1146feff409c608d1a87c9b" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[
+                 Paleta: 20 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 20 
+              ]]></translation>
+  </word>
+  <word hash="cced0aa5e16dc84f74e95463ffd292a3714943928219530522fbe39c160f0c35" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[Jj rios 1089 pte,Almada,80100,Sinaloa]]></source>
+    <translation><![CDATA[Jj rios 1089 pte, Almada, 80100, Sinaloa]]></translation>
+  </word>
+  <word hash="33a4f2f0647aa48ff39861033227c9bb65efd9a942554367550ea7daee8fe46c" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[Lot number: 10]]></source>
+    <translation><![CDATA[Número de lote: 10]]></translation>
+  </word>
+  <word hash="522910d88a28b9674beec26169a6f611dd17db677503df31f3bd7ca6f6e0f480" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[Total amout: $ 11,500.00]]></source>
+    <translation><![CDATA[Monto total: $ 11,500.00]]></translation>
+  </word>
+  <word hash="22ae7b555a1be573fb752da6f3119d4b8c6f617a808cec63ea65eb146d95e8aa" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[Lot number: 42]]></source>
+    <translation><![CDATA[Número de lote: 42]]></translation>
+  </word>
+  <word hash="383583d9bc0c899cda694df62a864429da25c1dfe93f5eba644f488e66d345ca" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[Total amout: $ 45,000.00]]></source>
+    <translation><![CDATA[Monto total: $ 45,000.00]]></translation>
+  </word>
+  <word hash="742884f9d92736fb71ab7585990da39108dc8a09e51c082d34b9d8e23da3951c" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[Lot number: 57]]></source>
+    <translation><![CDATA[Número de lote: 57]]></translation>
+  </word>
+  <word hash="bdeaaa4bb78ae44ed3092ac0ce572d3daa77f92430de65d603fe200f78e4460e" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[Total amout: $ 17,000.00]]></source>
+    <translation><![CDATA[Monto total: $ 17,000.00]]></translation>
+  </word>
+  <word hash="cb6cd3ee8993f1bf512c76e72e7432533348cfbbafb734070c45417ba4f10489" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[
+                            Memo                          ]]></source>
+    <translation><![CDATA[
+                            Memorándum                          ]]></translation>
+  </word>
+  <word hash="5d52963ebf4458e7ceebce821d02cdeb4b13ce629d59f19ff500a94450d7b014" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[Jj rios 1089 pte]]></source>
+    <translation><![CDATA[Jj rios 1089 pte]]></translation>
+  </word>
+  <word hash="ce0a0c554a8215313f42b1b24abda6f349423a5955900d77a3732493e2014441" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[Almada]]></source>
+    <translation><![CDATA[Almada]]></translation>
+  </word>
+  <word hash="bcd7581b5712601b540434efc2348fb925ae27560bb12192e288b65293bf48b3" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[Culiacan]]></source>
+    <translation><![CDATA[Culiacán]]></translation>
+  </word>
+  <word hash="d7e2993efe569aaab49abed70f8f5b7646e45c271415c8ae0fd22a0050543e4d" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[
+                 Memo ]]></source>
+    <translation><![CDATA[Memorándum]]></translation>
+  </word>
+  <word hash="9f1a0d17e5be065eba573a5bb0d9f66ace8edcc3f1146feff409c608d1a87c9b" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[
+                 Paleta: 20 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 20 
+              ]]></translation>
+  </word>
+  <word hash="d7e2993efe569aaab49abed70f8f5b7646e45c271415c8ae0fd22a0050543e4d" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[
+                 Memo ]]></source>
+    <translation><![CDATA[Memorándum]]></translation>
+  </word>
+  <word hash="9f1a0d17e5be065eba573a5bb0d9f66ace8edcc3f1146feff409c608d1a87c9b" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[
+                 Paleta: 20 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 20 
+              ]]></translation>
+  </word>
+  <word hash="d7e2993efe569aaab49abed70f8f5b7646e45c271415c8ae0fd22a0050543e4d" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[
+                 Memo ]]></source>
+    <translation><![CDATA[Memorándum]]></translation>
+  </word>
+  <word hash="9f1a0d17e5be065eba573a5bb0d9f66ace8edcc3f1146feff409c608d1a87c9b" date="2020-12-03T12:06:32-07:00">
+    <source><![CDATA[
+                 Paleta: 20 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 20 
+              ]]></translation>
+  </word>
+  <word hash="2db8488f01bcd1879e38a5ddedfb0aaf9e84f38399cf9e955950d8447d3cb058" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[
+                 flor ]]></source>
+    <translation><![CDATA[
+                 flor ]]></translation>
+  </word>
+  <word hash="0cc8f6167c6b2b73eea8d40dc7614bc40bd1d294905c438167d8b3b9e61ed001" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[
+                 Paleta: 400 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 400 
+              ]]></translation>
+  </word>
+  <word hash="73f179248f86601c7add6d9ad036cfa4c2911e8d96ff72403911612fe5196e78" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[donato,almada,80200,culiacan]]></source>
+    <translation><![CDATA[donato, almada, 80200, culiacán]]></translation>
+  </word>
+  <word hash="29bde1e966ac3d062d64bf656d8fa6b2641bc69ab31819f35a7da59d9503908d" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[
+                            flor                          ]]></source>
+    <translation><![CDATA[
+                            flor                          ]]></translation>
+  </word>
+  <word hash="b7c70d4b37fe2a957bcd8e7696a363e5c1a925d933482428fb27f30ef642301e" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[donato]]></source>
+    <translation><![CDATA[donato]]></translation>
+  </word>
+  <word hash="6e14d75a862de315c675818e0618515a418ee4cd7e4799f5c5cf84376d3fabff" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[almada]]></source>
+    <translation><![CDATA[almada]]></translation>
+  </word>
+  <word hash="2db8488f01bcd1879e38a5ddedfb0aaf9e84f38399cf9e955950d8447d3cb058" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[
+                 flor ]]></source>
+    <translation><![CDATA[
+                 flor ]]></translation>
+  </word>
+  <word hash="0cc8f6167c6b2b73eea8d40dc7614bc40bd1d294905c438167d8b3b9e61ed001" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[
+                 Paleta: 400 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 400 
+              ]]></translation>
+  </word>
+  <word hash="2db8488f01bcd1879e38a5ddedfb0aaf9e84f38399cf9e955950d8447d3cb058" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[
+                 flor ]]></source>
+    <translation><![CDATA[
+                 flor ]]></translation>
+  </word>
+  <word hash="0cc8f6167c6b2b73eea8d40dc7614bc40bd1d294905c438167d8b3b9e61ed001" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[
+                 Paleta: 400 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 400 
+              ]]></translation>
+  </word>
+  <word hash="2db8488f01bcd1879e38a5ddedfb0aaf9e84f38399cf9e955950d8447d3cb058" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[
+                 flor ]]></source>
+    <translation><![CDATA[
+                 flor ]]></translation>
+  </word>
+  <word hash="0cc8f6167c6b2b73eea8d40dc7614bc40bd1d294905c438167d8b3b9e61ed001" date="2020-12-03T12:07:46-07:00">
+    <source><![CDATA[
+                 Paleta: 400 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 400 
+              ]]></translation>
+  </word>
+  <word hash="931766571ab033e3b0ce6c11b5bc639a4a6a6181cdcd474b08aaa65adc857b14" date="2020-12-03T12:11:40-07:00">
+    <source><![CDATA[
+                 Carlos Rmz ]]></source>
+    <translation><![CDATA[
+                 Carlos Rmz ]]></translation>
+  </word>
+  <word hash="e3912d3b6c1feb6c2b28efca7c4fb0b8669bce8a2a38b51a8062b133c6c5c938" date="2020-12-03T12:11:40-07:00">
+    <source><![CDATA[
+                 Paleta: 2446 
+              ]]></source>
+    <translation><![CDATA[Paleta: 2446]]></translation>
+  </word>
+  <word hash="ef87bdf1a49dbe0dfd9f415728372fb7a2c607a0ef694e69a182d654227eb31e" date="2020-12-03T12:12:07-07:00">
+    <source><![CDATA[Current bid: $ 21,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 21,000.00]]></translation>
+  </word>
+  <word hash="432ea651e87834de7a5523edd4abc20684cdce2e1801f10d1152cd18a31931da" date="2020-12-03T12:18:06-07:00">
+    <source><![CDATA[Paddle Number: 2446]]></source>
+    <translation><![CDATA[Número de paleta: 2446]]></translation>
+  </word>
+  <word hash="bfe55d1a26f974578f0127fd6ff7a6ebcfd8247b19cc48b7288451cce5dd7177" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[
+                 Carlos Alvarado ]]></source>
+    <translation><![CDATA[
+                 Carlos Alvarado ]]></translation>
+  </word>
+  <word hash="778b372d83c024fe7f3c112860de3e597d95faf9b71a33c5887522f5bf4ae05d" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[
+                 Paleta: 3504 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 3504 
+              ]]></translation>
+  </word>
+  <word hash="277b80cfebf7960f3f336a9f71502e049bacfbf6c04cb2afd2550569d2d10754" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[Napoles 2688,Italia Providencia,44680,Jalisco]]></source>
+    <translation><![CDATA[Nápoles 2688, Italia Providencia, 44680, Jalisco]]></translation>
+  </word>
+  <word hash="64d2bd361bc858a79aca62bdf0b87f0f976af36e020d57f2a3099c7dba3fdfde" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[Lot number: 40]]></source>
+    <translation><![CDATA[Número de lote: 40]]></translation>
+  </word>
+  <word hash="dcf3e1352eb0824e79b8708651f389dc5da9d609cab69b2d794835e85c49a83c" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[Total amout: $ 4,400.00]]></source>
+    <translation><![CDATA[Monto total: $ 4,400.00]]></translation>
+  </word>
+  <word hash="cbe138e44ce8237c432ab690354d7499c2590f3bb0285f64f3fa5945230b7de5" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[
+                            Carlos Alvarado                          ]]></source>
+    <translation><![CDATA[
+                            Carlos Alvarado                          ]]></translation>
+  </word>
+  <word hash="d09165a6959c8cce1bb49ecfff778c27e4d18b95276d0ca7f867f430ac4036cd" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[Napoles 2688]]></source>
+    <translation><![CDATA[Nápoles 2688]]></translation>
+  </word>
+  <word hash="bcc32e5a47d8f5b07dac6e379b68010fc3268d4590ecfa63743925ec7aafd8b9" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[Italia Providencia]]></source>
+    <translation><![CDATA[Italia Providencia]]></translation>
+  </word>
+  <word hash="0a23474745c00852e7f4dc64ace0d4f2238aa8d3bfe82859829879f86669f2e6" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[Guadalajara]]></source>
+    <translation><![CDATA[Guadalajara]]></translation>
+  </word>
+  <word hash="778b372d83c024fe7f3c112860de3e597d95faf9b71a33c5887522f5bf4ae05d" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[
+                 Paleta: 3504 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 3504 
+              ]]></translation>
+  </word>
+  <word hash="bfe55d1a26f974578f0127fd6ff7a6ebcfd8247b19cc48b7288451cce5dd7177" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[
+                 Carlos Alvarado ]]></source>
+    <translation><![CDATA[
+                 Carlos Alvarado ]]></translation>
+  </word>
+  <word hash="778b372d83c024fe7f3c112860de3e597d95faf9b71a33c5887522f5bf4ae05d" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[
+                 Paleta: 3504 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 3504 
+              ]]></translation>
+  </word>
+  <word hash="bfe55d1a26f974578f0127fd6ff7a6ebcfd8247b19cc48b7288451cce5dd7177" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[
+                 Carlos Alvarado ]]></source>
+    <translation><![CDATA[
+                 Carlos Alvarado ]]></translation>
+  </word>
+  <word hash="778b372d83c024fe7f3c112860de3e597d95faf9b71a33c5887522f5bf4ae05d" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[
+                 Paleta: 3504 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 3504 
+              ]]></translation>
+  </word>
+  <word hash="bfe55d1a26f974578f0127fd6ff7a6ebcfd8247b19cc48b7288451cce5dd7177" date="2020-12-03T12:24:07-07:00">
+    <source><![CDATA[
+                 Carlos Alvarado ]]></source>
+    <translation><![CDATA[
+                 Carlos Alvarado ]]></translation>
+  </word>
+  <word hash="795cd43029ffb993ceab8f77f8de99ef4dc0041689b1658fbf1fda11f3ccaa65" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[
+                 fzambada ]]></source>
+    <translation><![CDATA[
+                 fzambada ]]></translation>
+  </word>
+  <word hash="22bd234a3405756e8d8ce056c4f34a8caca6edb385df539294473651bdbde897" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[
+                 Paleta: 5846 
+              ]]></source>
+    <translation><![CDATA[Paleta: 5846]]></translation>
+  </word>
+  <word hash="795cd43029ffb993ceab8f77f8de99ef4dc0041689b1658fbf1fda11f3ccaa65" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[
+                 fzambada ]]></source>
+    <translation><![CDATA[
+                 fzambada ]]></translation>
+  </word>
+  <word hash="22bd234a3405756e8d8ce056c4f34a8caca6edb385df539294473651bdbde897" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[
+                 Paleta: 5846 
+              ]]></source>
+    <translation><![CDATA[Paleta: 5846]]></translation>
+  </word>
+  <word hash="795cd43029ffb993ceab8f77f8de99ef4dc0041689b1658fbf1fda11f3ccaa65" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[
+                 fzambada ]]></source>
+    <translation><![CDATA[
+                 fzambada ]]></translation>
+  </word>
+  <word hash="22bd234a3405756e8d8ce056c4f34a8caca6edb385df539294473651bdbde897" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[
+                 Paleta: 5846 
+              ]]></source>
+    <translation><![CDATA[Paleta: 5846]]></translation>
+  </word>
+  <word hash="795cd43029ffb993ceab8f77f8de99ef4dc0041689b1658fbf1fda11f3ccaa65" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[
+                 fzambada ]]></source>
+    <translation><![CDATA[
+                 fzambada ]]></translation>
+  </word>
+  <word hash="22bd234a3405756e8d8ce056c4f34a8caca6edb385df539294473651bdbde897" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[
+                 Paleta: 5846 
+              ]]></source>
+    <translation><![CDATA[Paleta: 5846]]></translation>
+  </word>
+  <word hash="fe4d0df6a0598c3b4f8ede2651b13e4cf3a5567f16cbfc45fc33aa8586a70d7c" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[Platon 708,Villa Universidad,80010,Sinaloa]]></source>
+    <translation><![CDATA[Platon 708, Villa Universidad, 80010, Sinaloa]]></translation>
+  </word>
+  <word hash="bac119e60936447d2ad0e9379b47dd6e2a8aa1ef775cc3b53beddf06efdcb0a7" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[
+                            fzambada                          ]]></source>
+    <translation><![CDATA[
+                            fzambada                          ]]></translation>
+  </word>
+  <word hash="5a18a7dd0d6a4eb5512b4f2bbd702548f73492b176ee386f756f278283da85ab" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[Platon 708]]></source>
+    <translation><![CDATA[Platón 708]]></translation>
+  </word>
+  <word hash="e81b4e940024fc45d0fec48944a66f7199ce39f31f1ee808080d7ed2d8c52ff6" date="2020-12-03T12:40:14-07:00">
+    <source><![CDATA[Villa Universidad]]></source>
+    <translation><![CDATA[Villa Universidad]]></translation>
+  </word>
+  <word hash="08a00a013864d49bfe1c99b497b98ef1611070427bdfa9864d05b58967124a14" date="2020-12-03T12:41:09-07:00">
+    <source><![CDATA[Paddle Number: 400]]></source>
+    <translation><![CDATA[Número de paleta: 400]]></translation>
+  </word>
+  <word hash="5ea67bdf523ad3b447cb53e742bf83cc7853ff7b2c66441617f5f09c5c003559" date="2020-12-03T12:41:09-07:00">
+    <source><![CDATA[Current bid: $ 6,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 6,000.00]]></translation>
+  </word>
+  <word hash="df34108633bc1d86c2fd0afd136373a748de37e5ee5d9e4712bcd0234a9aa100" date="2020-12-03T12:44:48-07:00">
+    <source><![CDATA[Current bid: $ 60,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 60,000.00]]></translation>
+  </word>
+  <word hash="a5658fd69ee0b911ca7e0e986c3994b954ef79eb94a27256003adf87cb2642f3" date="2020-12-03T12:47:59-07:00">
+    <source><![CDATA[Current bid: $ 5,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 5,000.00]]></translation>
+  </word>
+  <word hash="3fe5b76676ab230b59958ab81bc62942d661004c1fc1cbeb5c6dba154d58b046" date="2020-12-03T12:52:09-07:00">
+    <source><![CDATA[
+                 Juan carlos ]]></source>
+    <translation><![CDATA[
+                 Juan Carlos ]]></translation>
+  </word>
+  <word hash="3d0d41cb25de942c09e6654364d619b04e0fb8f3134407356c619673a50ca362" date="2020-12-03T12:52:09-07:00">
+    <source><![CDATA[
+                 Paleta: 1573 
+              ]]></source>
+    <translation><![CDATA[Paleta: 1573]]></translation>
+  </word>
+  <word hash="161bf8e80ac4b7f0ea8478019abccc7f3c316be3b50fcf8ce02bff123558355c" date="2020-12-03T12:52:09-07:00">
+    <source><![CDATA[San José 182,La primavera ,80199,Sinaloa ]]></source>
+    <translation><![CDATA[San José 182, La primavera, 80199, Sinaloa ]]></translation>
+  </word>
+  <word hash="d357031be00bbb3b5d630f779490adc7094be27eda7dcc65ef9623e06a35c254" date="2020-12-03T12:52:09-07:00">
+    <source><![CDATA[
+                            Juan carlos                          ]]></source>
+    <translation><![CDATA[
+                            Juan Carlos                          ]]></translation>
+  </word>
+  <word hash="135c9111a44115a87ca969e0c9c4987ed6764f00936da0dab5cd56655a200b01" date="2020-12-03T12:52:09-07:00">
+    <source><![CDATA[San José 182]]></source>
+    <translation><![CDATA[San José 182]]></translation>
+  </word>
+  <word hash="94b9b5df0af1d06356ab12e9f2b8f1a5bb5a3fb7ab5188327a203a404fc3d12b" date="2020-12-03T12:52:09-07:00">
+    <source><![CDATA[La primavera ]]></source>
+    <translation><![CDATA[La primavera ]]></translation>
+  </word>
+  <word hash="339c064f7c558eb1fd0cd9001ecc8b4571c7ad3a7fcdbc3b3423818e8d29b4dc" date="2020-12-03T12:52:09-07:00">
+    <source><![CDATA[Culiacan ]]></source>
+    <translation><![CDATA[Culiacán ]]></translation>
+  </word>
+  <word hash="3fe5b76676ab230b59958ab81bc62942d661004c1fc1cbeb5c6dba154d58b046" date="2020-12-03T12:52:09-07:00">
+    <source><![CDATA[
+                 Juan carlos ]]></source>
+    <translation><![CDATA[
+                 Juan Carlos ]]></translation>
+  </word>
+  <word hash="3d0d41cb25de942c09e6654364d619b04e0fb8f3134407356c619673a50ca362" date="2020-12-03T12:52:09-07:00">
+    <source><![CDATA[
+                 Paleta: 1573 
+              ]]></source>
+    <translation><![CDATA[Paleta: 1573]]></translation>
+  </word>
+  <word hash="3fe5b76676ab230b59958ab81bc62942d661004c1fc1cbeb5c6dba154d58b046" date="2020-12-03T12:52:09-07:00">
+    <source><![CDATA[
+                 Juan carlos ]]></source>
+    <translation><![CDATA[
+                 Juan Carlos ]]></translation>
+  </word>
+  <word hash="3d0d41cb25de942c09e6654364d619b04e0fb8f3134407356c619673a50ca362" date="2020-12-03T12:52:09-07:00">
+    <source><![CDATA[
+                 Paleta: 1573 
+              ]]></source>
+    <translation><![CDATA[Paleta: 1573]]></translation>
+  </word>
+  <word hash="adee67da3459dae09304ef39d38810b6fa530d23b3a812f5fb21f5fde2b43950" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[
+                 ramon gerardo ]]></source>
+    <translation><![CDATA[
+                 ramon gerardo ]]></translation>
+  </word>
+  <word hash="db56dd0f47b43ef9ec2737fb4aa3740fe3672b7e2a532ae3795a900626d43de7" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[
+                 Paleta: 107 
+              ]]></source>
+    <translation><![CDATA[Paleta: 107]]></translation>
+  </word>
+  <word hash="adee67da3459dae09304ef39d38810b6fa530d23b3a812f5fb21f5fde2b43950" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[
+                 ramon gerardo ]]></source>
+    <translation><![CDATA[
+                 ramon gerardo ]]></translation>
+  </word>
+  <word hash="db56dd0f47b43ef9ec2737fb4aa3740fe3672b7e2a532ae3795a900626d43de7" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[
+                 Paleta: 107 
+              ]]></source>
+    <translation><![CDATA[Paleta: 107]]></translation>
+  </word>
+  <word hash="adee67da3459dae09304ef39d38810b6fa530d23b3a812f5fb21f5fde2b43950" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[
+                 ramon gerardo ]]></source>
+    <translation><![CDATA[
+                 ramon gerardo ]]></translation>
+  </word>
+  <word hash="db56dd0f47b43ef9ec2737fb4aa3740fe3672b7e2a532ae3795a900626d43de7" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[
+                 Paleta: 107 
+              ]]></source>
+    <translation><![CDATA[Paleta: 107]]></translation>
+  </word>
+  <word hash="adee67da3459dae09304ef39d38810b6fa530d23b3a812f5fb21f5fde2b43950" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[
+                 ramon gerardo ]]></source>
+    <translation><![CDATA[
+                 ramon gerardo ]]></translation>
+  </word>
+  <word hash="db56dd0f47b43ef9ec2737fb4aa3740fe3672b7e2a532ae3795a900626d43de7" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[
+                 Paleta: 107 
+              ]]></source>
+    <translation><![CDATA[Paleta: 107]]></translation>
+  </word>
+  <word hash="16ad5dbefbb23bb23056048b521de3fa4b35a821ccb8f58c0892f0063af4e808" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[priv oceano,nuevo culiacan,80020,sinaloa]]></source>
+    <translation><![CDATA[priv oceano, nuevo culiacan, 80020, sinaloa]]></translation>
+  </word>
+  <word hash="b16300d476ade37adf3693d72d69b031cc80a631a4e0c19ed1180b419d3720a5" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[Lot number: 23]]></source>
+    <translation><![CDATA[Número de lote: 23]]></translation>
+  </word>
+  <word hash="9b5e9490244544ef0f1d571db646186e4e2223d89e1b36f0ca27d897fa2bca6a" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[Total amout: $ 4,900.00]]></source>
+    <translation><![CDATA[Monto total: $ 4,900.00]]></translation>
+  </word>
+  <word hash="28b609c0c1f0ff29e70dbe9e9f76087e8e832ca62c8e8480acfd3484732def03" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[Lot number: 28]]></source>
+    <translation><![CDATA[Número de lote: 28]]></translation>
+  </word>
+  <word hash="1cd422c2c06866ea4fc37124661445218607f6d882b2789b1e3c714ca056f616" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[Total amout: $ 15,000.00]]></source>
+    <translation><![CDATA[Monto total: $ 15,000.00]]></translation>
+  </word>
+  <word hash="9c0feb4296bc13035cfabf891638cd244e24236c2014770e81cdac098e20395e" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[Total amout: $ 50,000.00]]></source>
+    <translation><![CDATA[Monto total: $ 50,000.00]]></translation>
+  </word>
+  <word hash="cc313c4f45a29de3e6a4388d1275b2c9df499cd9636bff76edc4377937245816" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[
+                            ramon gerardo                          ]]></source>
+    <translation><![CDATA[
+                            ramon gerardo                          ]]></translation>
+  </word>
+  <word hash="6d3c2a36d731b728aa181327dbc0cf396dd89030c5a99fadc71fd71bc51b2e78" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[priv oceano]]></source>
+    <translation><![CDATA[océano privado]]></translation>
+  </word>
+  <word hash="8fd9192e7bb99616e7db4ffd2f3a1e8a9af1655d55986d74e89a78dba1e5d141" date="2020-12-03T12:52:26-07:00">
+    <source><![CDATA[nuevo culiacan]]></source>
+    <translation><![CDATA[nuevo culiacán]]></translation>
+  </word>
+  <word hash="d108b8369def555a24c99ae97b38157a87abec207172b430d13ca4bcfe693c2b" date="2020-12-03T12:54:50-07:00">
+    <source><![CDATA[Current bid: $ 3,300.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,300.00]]></translation>
+  </word>
+  <word hash="b669cc33d97acfd3f42cdb2e416e7b46d27876bf5a0f549a19d5cdf8b38cf32b" date="2020-12-03T12:55:46-07:00">
+    <source><![CDATA[Paddle Number: 1573]]></source>
+    <translation><![CDATA[Número de paleta: 1573]]></translation>
+  </word>
+  <word hash="bfab9830bf02025d2d17b1d50531f588a59eaf897b7466f0ef1ca9fa0f85b13f" date="2020-12-03T12:55:46-07:00">
+    <source><![CDATA[52 667 759 35 00]]></source>
+    <translation><![CDATA[52 667 759 35 00]]></translation>
+  </word>
+  <word hash="b6510b6f67972b73d7a2ef13015b6934d0c6d8702a3336aef0e9fe146ed1930d" date="2020-12-03T12:55:46-07:00">
+    <source><![CDATA[52 800 215 15 15]]></source>
+    <translation><![CDATA[52 800 215 15 15]]></translation>
+  </word>
+  <word hash="bfab9830bf02025d2d17b1d50531f588a59eaf897b7466f0ef1ca9fa0f85b13f" date="2020-12-03T12:55:46-07:00">
+    <source><![CDATA[52 667 759 35 00]]></source>
+    <translation><![CDATA[52 667 759 35 00]]></translation>
+  </word>
+  <word hash="b6510b6f67972b73d7a2ef13015b6934d0c6d8702a3336aef0e9fe146ed1930d" date="2020-12-03T12:55:46-07:00">
+    <source><![CDATA[52 800 215 15 15]]></source>
+    <translation><![CDATA[52 800 215 15 15]]></translation>
+  </word>
+  <word hash="d9b9be3f032a1c2b59eb5f9df448868ad06c04bba2745ca67aa5c5a15a44293d" date="2020-12-03T12:55:56-07:00">
+    <source><![CDATA[Current bid: $ 31,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 31,000.00]]></translation>
+  </word>
+  <word hash="b74b15e63733386b39f255e2b67534c0cf429e806f4cdc5d5fdc79ab6c8af419" date="2020-12-03T12:59:48-07:00">
+    <source><![CDATA[Current bid: $ 4,100.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,100.00]]></translation>
+  </word>
+  <word hash="7bae0beaa298a62a353904e84987dc38c9240ae0f3030c9e02a90c3ab945ce61" date="2020-12-03T13:11:05-07:00">
+    <source><![CDATA[
+                 Paulino martinez ]]></source>
+    <translation><![CDATA[
+                 Paulino martínez ]]></translation>
+  </word>
+  <word hash="81530635ee6a8f6978f195a6115be4bbfddeefb2a0f88015358f928dc47d40de" date="2020-12-03T13:11:05-07:00">
+    <source><![CDATA[
+                 Paleta: 611 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 611 
+              ]]></translation>
+  </word>
+  <word hash="3876d6ebb913b721c1b68ffdb31f376a6fc0655d797c83ef855a72a74f667e34" date="2020-12-03T13:33:45-07:00">
+    <source><![CDATA[Lot number: 4]]></source>
+    <translation><![CDATA[Número de lote: 4]]></translation>
+  </word>
+  <word hash="7713c71c235f6afb84f2e26adff380a19c2f2413ad4bb0802c72876d73975a32" date="2020-12-03T13:33:45-07:00">
+    <source><![CDATA[Total amout: $ 5,000.00]]></source>
+    <translation><![CDATA[Monto total: $ 5,000.00]]></translation>
+  </word>
+  <word hash="6a162706d139e973dce8d14045337fcd317d24849a959dd6b58b13f4f7446182" date="2020-12-03T13:33:45-07:00">
+    <source><![CDATA[Total amout: $ 3,300.00]]></source>
+    <translation><![CDATA[Monto total: $ 3,300.00]]></translation>
+  </word>
+  <word hash="8f02d8aec7827ecaef69985301153ca382d416f6738d2bf44f1b012f81d8fb9b" date="2020-12-03T13:33:45-07:00">
+    <source><![CDATA[Total amout: $ 31,000.00]]></source>
+    <translation><![CDATA[Monto total: $ 31,000.00]]></translation>
+  </word>
+  <word hash="e94e47c8af1257e6c6d14655fedaa70582e5076b3bc0eb652cd9d015482b0322" date="2020-12-03T13:33:45-07:00">
+    <source><![CDATA[Lot number: 49]]></source>
+    <translation><![CDATA[Número de lote: 49]]></translation>
+  </word>
+  <word hash="b3f430a3446fff40f29cb38cfffe13a6dd40bdd5d9d9b4b8633da8583ad55826" date="2020-12-03T13:33:45-07:00">
+    <source><![CDATA[Total amout: $ 7,000.00]]></source>
+    <translation><![CDATA[Monto total: $ 7,000.00]]></translation>
+  </word>
+  <word hash="1e1113c5b51f9a2f20a31bd45866e08088091594aa228c6f7d630f47f1b17df5" date="2020-12-03T13:33:45-07:00">
+    <source><![CDATA[Lot number: 55]]></source>
+    <translation><![CDATA[Número de lote: 55]]></translation>
+  </word>
+  <word hash="453588868ff8869a91f3d589f3028e8c18a641cbca117500d6adfafe4fe87026" date="2020-12-03T13:33:46-07:00">
+    <source><![CDATA[Total amout: $ 6,000.00]]></source>
+    <translation><![CDATA[Monto total: $ 6,000.00]]></translation>
+  </word>
+  <word hash="2308f89f4137a89429c746c578c0d9d0c9a7afc277e339a4afde9fcfcef0aa13" date="2020-12-03T13:33:46-07:00">
+    <source><![CDATA[Lot number: 65]]></source>
+    <translation><![CDATA[Número de lote: 65]]></translation>
+  </word>
+  <word hash="f9dfa0d57a1d13caafda61014a19cce6bcc07e24677cbbcdd2750a1878706198" date="2020-12-03T13:33:46-07:00">
+    <source><![CDATA[Total amout: $ 60,000.00]]></source>
+    <translation><![CDATA[Monto total: $ 60,000.00]]></translation>
+  </word>
+  <word hash="97391024c971ed5833cc0d3a537dfc4b8a72128a729c1d9cc2a314f2d35ed4d7" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[
+                 Juan ]]></source>
+    <translation><![CDATA[
+                 Juan ]]></translation>
+  </word>
+  <word hash="7bd07e8ce39420bddda99c50dea40e62120b0ebe35b278dc5f92e8e25d05f6dc" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[
+                 Paleta: 9785 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 9785 
+              ]]></translation>
+  </word>
+  <word hash="97391024c971ed5833cc0d3a537dfc4b8a72128a729c1d9cc2a314f2d35ed4d7" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[
+                 Juan ]]></source>
+    <translation><![CDATA[
+                 Juan ]]></translation>
+  </word>
+  <word hash="7bd07e8ce39420bddda99c50dea40e62120b0ebe35b278dc5f92e8e25d05f6dc" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[
+                 Paleta: 9785 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 9785 
+              ]]></translation>
+  </word>
+  <word hash="97391024c971ed5833cc0d3a537dfc4b8a72128a729c1d9cc2a314f2d35ed4d7" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[
+                 Juan ]]></source>
+    <translation><![CDATA[
+                 Juan ]]></translation>
+  </word>
+  <word hash="7bd07e8ce39420bddda99c50dea40e62120b0ebe35b278dc5f92e8e25d05f6dc" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[
+                 Paleta: 9785 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 9785 
+              ]]></translation>
+  </word>
+  <word hash="97391024c971ed5833cc0d3a537dfc4b8a72128a729c1d9cc2a314f2d35ed4d7" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[
+                 Juan ]]></source>
+    <translation><![CDATA[
+                 Juan ]]></translation>
+  </word>
+  <word hash="7bd07e8ce39420bddda99c50dea40e62120b0ebe35b278dc5f92e8e25d05f6dc" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[
+                 Paleta: 9785 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 9785 
+              ]]></translation>
+  </word>
+  <word hash="3d1344260376e5888a9178efde845a5afb58495000f1477ad948dc91286d3cb8" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[guadalajara,centro joyero,44360,jalisco]]></source>
+    <translation><![CDATA[guadalajara, centro joyero, 44360, jalisco]]></translation>
+  </word>
+  <word hash="0a10d4a6392a4dd7bff90a575d91e63801d0c75f2464344a1f272491298a0400" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[
+                            Juan                          ]]></source>
+    <translation><![CDATA[
+                            Juan                          ]]></translation>
+  </word>
+  <word hash="c00fb0b23bf3d105337cd3f2c2ef9bc53cc391f9b60027806d9e795094245bd9" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[guadalajara]]></source>
+    <translation><![CDATA[guadalajara]]></translation>
+  </word>
+  <word hash="d9759293c4b08424a6e5e5e7ca89ebb84abbf927da8b70c0fdf2b7459a771e58" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[centro joyero]]></source>
+    <translation><![CDATA[centro joyero]]></translation>
+  </word>
+  <word hash="a2b3c10449f63abdcaac6c83c260577d76aa1db52923fc1f1d36544c14332691" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[jalisco]]></source>
+    <translation><![CDATA[jalisco]]></translation>
+  </word>
+  <word hash="a2b3c10449f63abdcaac6c83c260577d76aa1db52923fc1f1d36544c14332691" date="2020-12-03T14:13:42-07:00">
+    <source><![CDATA[jalisco]]></source>
+    <translation><![CDATA[jalisco]]></translation>
+  </word>
+  <word hash="a8a7d2a2139a01c345a3b096d1ca3d34ba365dc64decb460dfa963f19a4babc4" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[
+                 Paleta: 4509 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 4509 
+              ]]></translation>
+  </word>
+  <word hash="db653270ba60fd09bccb6dbd2f82daf0600a10bb3d893752110c3beb566cf4cb" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[
+                 carolinarl ]]></source>
+    <translation><![CDATA[
+                 carolinarl ]]></translation>
+  </word>
+  <word hash="a8a7d2a2139a01c345a3b096d1ca3d34ba365dc64decb460dfa963f19a4babc4" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[
+                 Paleta: 4509 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 4509 
+              ]]></translation>
+  </word>
+  <word hash="db653270ba60fd09bccb6dbd2f82daf0600a10bb3d893752110c3beb566cf4cb" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[
+                 carolinarl ]]></source>
+    <translation><![CDATA[
+                 carolinarl ]]></translation>
+  </word>
+  <word hash="a8a7d2a2139a01c345a3b096d1ca3d34ba365dc64decb460dfa963f19a4babc4" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[
+                 Paleta: 4509 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 4509 
+              ]]></translation>
+  </word>
+  <word hash="c9b994b9e9ffd23830c25d0d5ecc1c4e3495f8bfcd87b79bbbfd469eefa7cfb2" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[Rio Panuco 746 ,Lomas de Guadalupe ,80220,Sinaloa ]]></source>
+    <translation><![CDATA[Rio Panuco 746, Lomas de Guadalupe, 80220, Sinaloa ]]></translation>
+  </word>
+  <word hash="04cb1c2b3288ea95ac2c69b61bc19908ea7cb352120d72be83e50f1292aadb9d" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[
+                            carolinarl                          ]]></source>
+    <translation><![CDATA[
+                            carolinarl                          ]]></translation>
+  </word>
+  <word hash="9f4011ef6d7dc9610d23787d0a82f9e3cb207ab117cfb954fb5c0dfa441fe28c" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[Rio Panuco 746 ]]></source>
+    <translation><![CDATA[Río Panuco 746 ]]></translation>
+  </word>
+  <word hash="ce40eefa5741a263cc331cb20990fdc446bcfea8615f7a614c5e22e8a3f997a6" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[Lomas de Guadalupe ]]></source>
+    <translation><![CDATA[Lomas de Guadalupe ]]></translation>
+  </word>
+  <word hash="db653270ba60fd09bccb6dbd2f82daf0600a10bb3d893752110c3beb566cf4cb" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[
+                 carolinarl ]]></source>
+    <translation><![CDATA[
+                 carolinarl ]]></translation>
+  </word>
+  <word hash="a8a7d2a2139a01c345a3b096d1ca3d34ba365dc64decb460dfa963f19a4babc4" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[
+                 Paleta: 4509 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 4509 
+              ]]></translation>
+  </word>
+  <word hash="db653270ba60fd09bccb6dbd2f82daf0600a10bb3d893752110c3beb566cf4cb" date="2020-12-03T14:26:13-07:00">
+    <source><![CDATA[
+                 carolinarl ]]></source>
+    <translation><![CDATA[
+                 carolinarl ]]></translation>
+  </word>
+  <word hash="e49f734c9b277e399f3f4710bdf2ba74643e8fbb1cf9d985f3ba4df0e24d2923" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[
+                 Alejandro ]]></source>
+    <translation><![CDATA[
+                 Alejandro ]]></translation>
+  </word>
+  <word hash="5f504ab78c6ecb400f7574f735d9dd4813c1037201739a3a89551b3d9209b8b7" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[
+                 Paleta: 7240 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 7240 
+              ]]></translation>
+  </word>
+  <word hash="e49f734c9b277e399f3f4710bdf2ba74643e8fbb1cf9d985f3ba4df0e24d2923" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[
+                 Alejandro ]]></source>
+    <translation><![CDATA[
+                 Alejandro ]]></translation>
+  </word>
+  <word hash="5f504ab78c6ecb400f7574f735d9dd4813c1037201739a3a89551b3d9209b8b7" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[
+                 Paleta: 7240 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 7240 
+              ]]></translation>
+  </word>
+  <word hash="e49f734c9b277e399f3f4710bdf2ba74643e8fbb1cf9d985f3ba4df0e24d2923" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[
+                 Alejandro ]]></source>
+    <translation><![CDATA[
+                 Alejandro ]]></translation>
+  </word>
+  <word hash="5f504ab78c6ecb400f7574f735d9dd4813c1037201739a3a89551b3d9209b8b7" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[
+                 Paleta: 7240 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 7240 
+              ]]></translation>
+  </word>
+  <word hash="e49f734c9b277e399f3f4710bdf2ba74643e8fbb1cf9d985f3ba4df0e24d2923" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[
+                 Alejandro ]]></source>
+    <translation><![CDATA[
+                 Alejandro ]]></translation>
+  </word>
+  <word hash="5f504ab78c6ecb400f7574f735d9dd4813c1037201739a3a89551b3d9209b8b7" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[
+                 Paleta: 7240 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 7240 
+              ]]></translation>
+  </word>
+  <word hash="4a9bced82f22bfd4d4356f6707827e37233c80489fec88bd33a445c173cc76c5" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[PRUEBA]]></source>
+    <translation><![CDATA[PRUEBA]]></translation>
+  </word>
+  <word hash="7fd639d067bb0c3df4084df668fbfda2ea677019067e4475f3f69b74c88bbbd3" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[Current bid: $ 300.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 300.00]]></translation>
+  </word>
+  <word hash="6aab8a70a0f8d8ce84c665d82f3f53882b24482fd93eca0455bba76db39f6afa" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[Total amout: $ 300.00]]></source>
+    <translation><![CDATA[Monto total: $ 300.00]]></translation>
+  </word>
+  <word hash="4cd6d0e002e6c76a313755dda3264b99c622677745aff38b7f814aabe12c3b4b" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[BECA]]></source>
+    <translation><![CDATA[BECA]]></translation>
+  </word>
+  <word hash="36a3b9dc6d912d899f7e129b712f2713f91d8af59a153585fbe48a555fff626a" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[Total amout: $ 1,000.00]]></source>
+    <translation><![CDATA[Monto total: $ 1,000.00]]></translation>
+  </word>
+  <word hash="7d076d62c72fa34d768c60a56e6521d256235012580955310b793f27fafaca2b" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[San Anselmo 437,La Primavera ,80199,SINALOA]]></source>
+    <translation><![CDATA[San Anselmo 437, La Primavera, 80199, SINALOA]]></translation>
+  </word>
+  <word hash="c6cb6822348d8ee3843c0bcac4858a6b3ba1364079b13c393e3e78269d53978c" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[
+                            Alejandro                          ]]></source>
+    <translation><![CDATA[
+                            Alejandro                          ]]></translation>
+  </word>
+  <word hash="6bdd1475062f89d33658f570ac86ac4390b0c2cb368ffef0c3b0a465215c4091" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[San Anselmo 437]]></source>
+    <translation><![CDATA[San Anselmo 437]]></translation>
+  </word>
+  <word hash="65716bcd26293e17b771d95b6feae9e07b5c72134e304a2f71cff51ed7650422" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[La Primavera ]]></source>
+    <translation><![CDATA[La Primavera ]]></translation>
+  </word>
+  <word hash="ab525453a6c4fb5d9475f0799ea588edebe95be62b1dd610661d80c85818cb2f" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[SINALOA]]></source>
+    <translation><![CDATA[SINALOA]]></translation>
+  </word>
+  <word hash="57c0524ce33a681e7010315811597833ebd0b1cbda7a21bbf47e1de749d74f4e" date="2020-12-03T14:30:20-07:00">
+    <source><![CDATA[CULIACAN]]></source>
+    <translation><![CDATA[CULIACAN]]></translation>
+  </word>
+  <word hash="a9640161072d01a6bac809a6f971c91d1a621a4b0ddcf9c3f1756e1d34eb6fb3" date="2020-12-03T14:32:00-07:00">
+    <source><![CDATA[Paddle Number: 7240]]></source>
+    <translation><![CDATA[Número de paleta: 7240]]></translation>
+  </word>
+  <word hash="e9353015127e57cc236143404367137036ec613ff3c84bb38a4c0e590829e751" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[
+                 Gengiskan ]]></source>
+    <translation><![CDATA[
+                 Gengiskan ]]></translation>
+  </word>
+  <word hash="bd36e8af864da19bb203af4a5e741751c809e707d7d607b444b02dc863be488a" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[
+                 Paleta: 6805 
+              ]]></source>
+    <translation><![CDATA[Paleta: 6805]]></translation>
+  </word>
+  <word hash="6c4f9e8f0ff66c6d8a7dd22ff78dbf69f806705769a32ff06255365c0e3fc3c8" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[Encino 26,Fraccionamiento alamos,63172,Tepic]]></source>
+    <translation><![CDATA[Encino 26, Fraccionamiento alamos, 63172, Tepic]]></translation>
+  </word>
+  <word hash="7c9577ca48d45ed95772bb430c00e988a239ab34451b6609ddc6f2595cbe28ce" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[Lot number: 45]]></source>
+    <translation><![CDATA[Número de lote: 45]]></translation>
+  </word>
+  <word hash="8dd204e4043726e803a15e16b2b125eaa31c0667ef20d572aa376b2203896419" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[Total amout: $ 4,600.00]]></source>
+    <translation><![CDATA[Monto total: $ 4,600.00]]></translation>
+  </word>
+  <word hash="0b14f062ec28f391db252ca817fccbbc6a074a2c3e898a5278383863e4a5e267" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[
+                            Gengiskan                          ]]></source>
+    <translation><![CDATA[
+                            Gengiskan                          ]]></translation>
+  </word>
+  <word hash="3209fa889349d04501cd4097a4b6a2036338144ba60b19cafc4abcd458f2be0c" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[Encino 26]]></source>
+    <translation><![CDATA[Encino 26]]></translation>
+  </word>
+  <word hash="2ac37eda89d190efa515381d0660df06abc3dac6fea1f2fdbabd8d2a0c63de90" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[Fraccionamiento alamos]]></source>
+    <translation><![CDATA[Fraccionamiento alamos]]></translation>
+  </word>
+  <word hash="31ba95818234f269e5dc5b4b813060b11022d68b81fbc19283ad69dda88bc298" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[Tepic]]></source>
+    <translation><![CDATA[Tepic]]></translation>
+  </word>
+  <word hash="31ba95818234f269e5dc5b4b813060b11022d68b81fbc19283ad69dda88bc298" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[Tepic]]></source>
+    <translation><![CDATA[Tepic]]></translation>
+  </word>
+  <word hash="e9353015127e57cc236143404367137036ec613ff3c84bb38a4c0e590829e751" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[
+                 Gengiskan ]]></source>
+    <translation><![CDATA[
+                 Gengiskan ]]></translation>
+  </word>
+  <word hash="bd36e8af864da19bb203af4a5e741751c809e707d7d607b444b02dc863be488a" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[
+                 Paleta: 6805 
+              ]]></source>
+    <translation><![CDATA[Paleta: 6805]]></translation>
+  </word>
+  <word hash="e9353015127e57cc236143404367137036ec613ff3c84bb38a4c0e590829e751" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[
+                 Gengiskan ]]></source>
+    <translation><![CDATA[
+                 Gengiskan ]]></translation>
+  </word>
+  <word hash="bd36e8af864da19bb203af4a5e741751c809e707d7d607b444b02dc863be488a" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[
+                 Paleta: 6805 
+              ]]></source>
+    <translation><![CDATA[Paleta: 6805]]></translation>
+  </word>
+  <word hash="e9353015127e57cc236143404367137036ec613ff3c84bb38a4c0e590829e751" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[
+                 Gengiskan ]]></source>
+    <translation><![CDATA[
+                 Gengiskan ]]></translation>
+  </word>
+  <word hash="bd36e8af864da19bb203af4a5e741751c809e707d7d607b444b02dc863be488a" date="2020-12-03T14:54:38-07:00">
+    <source><![CDATA[
+                 Paleta: 6805 
+              ]]></source>
+    <translation><![CDATA[Paleta: 6805]]></translation>
+  </word>
+  <word hash="4dbcf509e445c3d1e750c527910b810f9fa1c818bdf8531c486de00de0fdcac4" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[
+                 Jose ]]></source>
+    <translation><![CDATA[
+                 Jose ]]></translation>
+  </word>
+  <word hash="ceacbbbacd2372d9fea5e1423593b1a35afd0f403ebd598bb8c83ceecf1a24e3" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[
+                 Paleta: 2051 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 2051 
+              ]]></translation>
+  </word>
+  <word hash="6f2471b82477ba0f07074c3e045357dc44b3e6df096a0a7dcb440e60df6a8442" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[rafael buelna 503 ote,centro,80000,sinaloa]]></source>
+    <translation><![CDATA[rafael buelna 503 ote, centro, 80000, sinaloa]]></translation>
+  </word>
+  <word hash="dff3c92a1638591fc28053e7f4308519c35ace4de520ce42d401bf4a378e23b8" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[
+                            Jose                          ]]></source>
+    <translation><![CDATA[
+                            Jose                          ]]></translation>
+  </word>
+  <word hash="18679bf44e50e95cdb50391fb1bec4ebbe9b62b7201adb06b2e3065d88caac5a" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[rafael buelna 503 ote]]></source>
+    <translation><![CDATA[rafael buelna 503 ote]]></translation>
+  </word>
+  <word hash="1f580bb27589a391d83d35d35ebb2ae6a5d12c3b01326a52f45f16a675e68b10" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[centro]]></source>
+    <translation><![CDATA[Centro]]></translation>
+  </word>
+  <word hash="376411eab45cf5aecaa271affba21e45c6223c0f8bde848bcc9b8838f88479b5" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[culiacán]]></source>
+    <translation><![CDATA[culiacán]]></translation>
+  </word>
+  <word hash="4dbcf509e445c3d1e750c527910b810f9fa1c818bdf8531c486de00de0fdcac4" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[
+                 Jose ]]></source>
+    <translation><![CDATA[Jose]]></translation>
+  </word>
+  <word hash="ceacbbbacd2372d9fea5e1423593b1a35afd0f403ebd598bb8c83ceecf1a24e3" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[
+                 Paleta: 2051 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 2051 
+              ]]></translation>
+  </word>
+  <word hash="4dbcf509e445c3d1e750c527910b810f9fa1c818bdf8531c486de00de0fdcac4" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[
+                 Jose ]]></source>
+    <translation><![CDATA[
+                 Jose ]]></translation>
+  </word>
+  <word hash="ceacbbbacd2372d9fea5e1423593b1a35afd0f403ebd598bb8c83ceecf1a24e3" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[
+                 Paleta: 2051 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 2051 
+              ]]></translation>
+  </word>
+  <word hash="4dbcf509e445c3d1e750c527910b810f9fa1c818bdf8531c486de00de0fdcac4" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[
+                 Jose ]]></source>
+    <translation><![CDATA[
+                 Jose ]]></translation>
+  </word>
+  <word hash="ceacbbbacd2372d9fea5e1423593b1a35afd0f403ebd598bb8c83ceecf1a24e3" date="2020-12-03T14:56:40-07:00">
+    <source><![CDATA[
+                 Paleta: 2051 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 2051 
+              ]]></translation>
+  </word>
+  <word hash="4375d22768151a4eed1579d697af17ac541f50dc12693fb2b7332809566183b1" date="2020-12-03T15:01:06-07:00">
+    <source><![CDATA[Current bid: $ 3,800.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,800.00]]></translation>
+  </word>
+  <word hash="16c6f215bf1eb868b0a4db53950d0f9bff7549ae39cf052c9344df4c6eba89bd" date="2020-12-03T15:14:36-07:00">
+    <source><![CDATA[Total amout: $ 4,100.00]]></source>
+    <translation><![CDATA[Monto total: $ 4,100.00]]></translation>
+  </word>
+  <word hash="4d193b1eaf5a29629cc8a94e74e35e525a4854c7be31e9c9c40a03a522f5347d" date="2020-12-03T15:14:36-07:00">
+    <source><![CDATA[Lot number: 46]]></source>
+    <translation><![CDATA[Número de lote: 46]]></translation>
+  </word>
+  <word hash="bf369ac6b880849293fcf6ea364e5cfb04b023fc86875bf28933876a85908085" date="2020-12-03T15:15:41-07:00">
+    <source><![CDATA[
+                 garza ]]></source>
+    <translation><![CDATA[garza]]></translation>
+  </word>
+  <word hash="3fd459997be28869b6ac606caf8eb528ede0cee0211922739c522f31a5116dd5" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[
+                 Elias ]]></source>
+    <translation><![CDATA[
+                 Elias ]]></translation>
+  </word>
+  <word hash="ab9de4d1e26ecea3b47a04857c9fb9e734e0c1fbd1af50ec41ef969684d831b3" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[
+                 Paleta: 8445 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 8445 
+              ]]></translation>
+  </word>
+  <word hash="3fd459997be28869b6ac606caf8eb528ede0cee0211922739c522f31a5116dd5" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[
+                 Elias ]]></source>
+    <translation><![CDATA[
+                 Elias ]]></translation>
+  </word>
+  <word hash="ab9de4d1e26ecea3b47a04857c9fb9e734e0c1fbd1af50ec41ef969684d831b3" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[
+                 Paleta: 8445 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 8445 
+              ]]></translation>
+  </word>
+  <word hash="16909d9db28b8ef18f10bb0271424e5c398882b5fa38d375991d89ce7c662268" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[donato guerra 235 SUR 201,toluca,80200,SIANALO]]></source>
+    <translation><![CDATA[donato guerra 235 SUR 201, toluca, 80200, SIANALO]]></translation>
+  </word>
+  <word hash="a458b57502e42fad090e7cf98cf1f6580aa26491a7a534554c9edd8494c11d9b" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[
+                            Elias                          ]]></source>
+    <translation><![CDATA[
+                            Elias                          ]]></translation>
+  </word>
+  <word hash="1fe3a16e5fea1ad8aa438f25cd1f97b33114ac021aa06f9ee3f66905ba0e4833" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[donato guerra 235 SUR 201]]></source>
+    <translation><![CDATA[donato guerra 235 SUR 201]]></translation>
+  </word>
+  <word hash="89f1921a62c69be83f8c575f4a3f5d541d1cf4c4e34978071a3847f3850ac1a3" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[toluca]]></source>
+    <translation><![CDATA[toluca]]></translation>
+  </word>
+  <word hash="ef80ae53a575a5de9ce8cbdd683c7b9c0ff661a84c3ad405698b76f01c490fa4" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[SIANALO]]></source>
+    <translation><![CDATA[SIANALO]]></translation>
+  </word>
+  <word hash="6d0b33bdf7e57e78a3aa370f5aa802a69f7dcd15d211f5b1d38b6f5adddc6296" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[estado de mexico]]></source>
+    <translation><![CDATA[Estado de México]]></translation>
+  </word>
+  <word hash="3fd459997be28869b6ac606caf8eb528ede0cee0211922739c522f31a5116dd5" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[
+                 Elias ]]></source>
+    <translation><![CDATA[
+                 Elias ]]></translation>
+  </word>
+  <word hash="ab9de4d1e26ecea3b47a04857c9fb9e734e0c1fbd1af50ec41ef969684d831b3" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[
+                 Paleta: 8445 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 8445 
+              ]]></translation>
+  </word>
+  <word hash="3fd459997be28869b6ac606caf8eb528ede0cee0211922739c522f31a5116dd5" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[
+                 Elias ]]></source>
+    <translation><![CDATA[
+                 Elias ]]></translation>
+  </word>
+  <word hash="ab9de4d1e26ecea3b47a04857c9fb9e734e0c1fbd1af50ec41ef969684d831b3" date="2020-12-03T15:28:07-07:00">
+    <source><![CDATA[
+                 Paleta: 8445 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 8445 
+              ]]></translation>
+  </word>
+  <word hash="4cec6c2f4e6c3cc14621200030daa4b06a6bd3c086741bb8ed4d74dad91014fe" date="2020-12-03T15:47:57-07:00">
+    <source><![CDATA[Paddle Number: 1405]]></source>
+    <translation><![CDATA[Número de paleta: 1405]]></translation>
+  </word>
+  <word hash="0a26a6eb3a969b55c54a9d7a01309325cb6710c13de9578ce20a0ed49d49ec47" date="2020-12-03T15:49:03-07:00">
+    <source><![CDATA[
+                 araceli ]]></source>
+    <translation><![CDATA[
+                 araceli ]]></translation>
+  </word>
+  <word hash="4eaab5810603dd142b8cf6d43ec482defe22b74e93df4c42e4a52058440c9e41" date="2020-12-03T15:49:03-07:00">
+    <source><![CDATA[
+                 Paleta: 3437 
+              ]]></source>
+    <translation><![CDATA[Paleta: 3437]]></translation>
+  </word>
+  <word hash="ac9ad9780f80503fd22810ad5bdbebba460c2471b77eeb65a0b0608db95d47c7" date="2020-12-03T15:49:03-07:00">
+    <source><![CDATA[DONATO GUERRA,ALMADA,80000,SINALOA]]></source>
+    <translation><![CDATA[DONATO GUERRA, ALMADA, 80000, SINALOA]]></translation>
+  </word>
+  <word hash="753922fa71946c0ec2d0597d018aba30ae056cff6333ac452c7114ef9d46f8e2" date="2020-12-03T15:49:03-07:00">
+    <source><![CDATA[
+                            araceli                          ]]></source>
+    <translation><![CDATA[
+                            araceli                          ]]></translation>
+  </word>
+  <word hash="3a47f1742a013e54a8653d21e3a940b6626cc16451fa26057bdf781ad0c56bb1" date="2020-12-03T15:49:03-07:00">
+    <source><![CDATA[DONATO GUERRA]]></source>
+    <translation><![CDATA[DONATO GUERRA]]></translation>
+  </word>
+  <word hash="d84a7bbdbc461b7762a7a439ad304dabc115df528deabe7f8a17a2ee5251f6b0" date="2020-12-03T15:49:03-07:00">
+    <source><![CDATA[ALMADA]]></source>
+    <translation><![CDATA[ALMADA]]></translation>
+  </word>
+  <word hash="a6e9d197a6a239c1a1840a52d1d3f173cefbe994025ee6f6f0465473c238d70e" date="2020-12-03T15:49:35-07:00">
+    <source><![CDATA[Current bid: $ 18,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 18,000.00]]></translation>
+  </word>
+  <word hash="be55063ef96ea0bbe4659a00466708faa335c896c761235d1c969cdad9b1ab9c" date="2020-12-03T15:54:29-07:00">
+    <source><![CDATA[759 35 00]]></source>
+    <translation><![CDATA[759 35 00]]></translation>
+  </word>
+  <word hash="d5e63fc52d2bdad60c5ad6ece77a9811abbcb14c95bd510e3c0bce86c5960166" date="2020-12-03T15:54:29-07:00">
+    <source><![CDATA[
+                 Mireya ]]></source>
+    <translation><![CDATA[
+                 Mireya ]]></translation>
+  </word>
+  <word hash="da8a624403e835e89a227f07b5a6d6feb0ab0f13fbb2d7f54295777c7a6202d2" date="2020-12-03T15:54:29-07:00">
+    <source><![CDATA[
+                 Paleta: 4510 
+              ]]></source>
+    <translation><![CDATA[
+                 Paleta: 4510 
+              ]]></translation>
+  </word>
+</translations>
+, San Carlos, 80178, Sinaloa ]]></translation>
+  </word>
+  <word hash="921bfe0da2675e563c0839287e6dbb65b4cb4db36d4306158141904d9282f40b" date="2020-12-03T15:54:29-07:00">
+    <source><![CDATA[
+                            Mireya                          ]]></source>
+    <translation><![CDATA[
+                            Mireya                          ]]></translation>
+  </word>
+  <word hash="e987fb55ddfa22b7473f1c9620bf6b0e89ddd63a5871b5caafeaf3ef1ec075d4" date="2020-12-03T15:54:29-07:00">
+    <source><![CDATA[Sierra Tarahumara ]]></source>
+    <translation><![CDATA[Sierra Tarahumara ]]></translation>
+  </word>
+  <word hash="7e232a7e4325f3c1b9f8ebaaa7dd111de47715b59098b1351b8a6ddce021a92e" date="2020-12-03T15:54:29-07:00">
+    <source><![CDATA[San Carlos ]]></source>
+    <translation><![CDATA[San Carlos ]]></translation>
+  </word>
+</translations>

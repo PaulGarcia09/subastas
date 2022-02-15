@@ -1,0 +1,25 @@
+﻿Lot Title,Lot Number,Lot Description,Image Name ,Minimum Bid,Reserve Bid,Bid Increment,Active
+OSO 1,1,Oso de prueba 1,AOso1.jpg,100,50000,50,0
+OSO 2,1,Oso de prueba 2,AOso2.jpg,100,50000,50,0
+TABLET SAMSUNG,1,"Galaxy Tab A, pantalla de 8"", procesador Quad de 64 bit, cámara de 8mp, memoria de 32gb y 2gb de ram.",Lote1.jpg,800,360000,500,1
+VIDEOJUEGO NINTENDO 2DS,2,"Modelo 2DS, en caja, pluma stylus y memoria externa de 4gb.",Lote2.jpg,700,640000,500,1
+COMPUTADORA LAP TOP,3,"HP, Pantalla de 14"" Modelo RTL8723DER, Procesador AMD A6-9225 RADEON R4, sistema operativo de 64 bits, 8gb en Ram y 120 gb de disco duro",Lote3.jpg,1500,960000,500,1
+RELOJ CASIO G-SHOCK GA-800SC,4,"Color azul, manecillas luminiscentes, análogo/digital, diámetro 47 mm, con luz integrada. CON ESTUCHE.",Lote4.jpg,400,600000,500,1
+TABLET SAMSUNG,5,"SAMSUNG Galaxy Tab A SM-P580, Pantalla de 10.1"", 1920 x 1200 pixeles, memoria 16 GB, 3 GB de Ram , Android 6.0.",Lote5.jpg,1000,720000,500,1
+COMPUTADORA LAP TOP,6,"HP Pavilion, procesador AMD Vision A6-5200, sistema operativo de 64 bits, 8gb de ram y 700 gb de disco duro, Pantalla 14"" Modelo 14-N007LA",Lote6.jpg,1500,560000,500,1
+NINTENDO SWITCH,7,"Consola Nintendo Switch Neón, de 32GB, versión 1.1, standard edition, con juego Super Mario Bros.U DELUXE",Lote7.jpg,2500,1120000,500,1
+"RELOJ MICHAEL KORS, CHRONOGRAFO, TODO ACERO PVD ROSA.",8,"Carátula rosa, fechador a las 6:00 hrs. 39 mm de diámetro, referencia MK-5569. CON ESTUCHE.",Lote8.jpg,900,600000,500,1
+BOCINA HARMAN/KARDON,9,"Bocina inalámbrica Harman/Kardon, modelo Omni10+.  Conectividad bluetooth, wifi y auxiliar, 18.1cm de diámetro, color negro. ",Lote9.jpg,1000,400000,500,1
+IPAD MINI,10,"iPad Mini 7.9"", 64 gb con cable de carga USB-Ligthing y adapatador de corriente USB-Ligthing",Lote10.jpg,2000,1000000,500,1
+RELOJ INTELIGENTE SAMSUNG,11,"Pantalla de 1.1"" sumer AMOLED, conexión bluetooth, resistente al agua, compatibilidad con android e iOS, color plata.",Lote11.jpg,1500,400000,500,1
+TALADRO/ROTOMARTILLO ,12,"Marca Milwaukee, Inalámbrico 12v, con estuche y bateria extra.",Lote12.jpg,1000,480000,500,1
+Hover Gt Vento con Casco y Maleta,13,"Patineta eléctrica, soporta hasta 110 kg y alcanza una velocidad máxima de 12 Km/h, autonomía de 20 Km con un peso promedio de 75-80 kg. Tiempo de carga de 1 a 2 horas",Lote13.jpg,1000,320000,500,1
+RELOJ GUESS.,14,"Carátula plata, caja en acero, extensible azul, 45 mm de diámetro. CON ESTUCHE.",Lote14.jpg,400,60000,500,1
+"RELOJ TORY BURCH CHRONÓGRAFO, TODO ACERO.",15,"Carátula blanca, referencia TBW1252, fechador a las 3:00 hrs. 38 mm de diámetro. CON ESTUCHE.",Lote15.jpg,1200,220000,500,1
+TABLET SAMSUNG,16,"Galaxy Tab A, pantalla de 10.1"", procesador Octa Core de 64 bit, cámara de 8mp, memoria de 32gb y 2gb de ram.",Lote16.jpg,1000,104000,500,1
+COMPUTADORA LAP TOP,17,"HP PAVILION, Pantalla de 14""  procesador AMD A10, 16gb de ram, 1tb de disco duro Modelo RTL8723BE.",Lote17.jpg,2000,640000,500,1
+"RELOJ BULOVA SPORT CHRONÓGRAFO, 98A192.",18,"Carátula negra, manecillas y número en blanco, bisel giratorio, extensible de caucho, caja acero con recubrimiento PVD rosa, movimiento cuarzo, 44mm de diámetro, referencia 24094620. CON ESTUCHE.",Lote18.jpg,900,280000,500,1
+COMPUTADORA LAP TOP,19,"Lenovo ideapad 310, procesador intel core i5 6° Generación, 8 Gb de ram, 1 TB de disco duro modelo 80SL pantalla de 14"".",Lote19.jpg,2000,200000,500,1
+IPAD PRO,20,"iPad Pro 12.9"", 64 gb, con cable de carga USB-C y adapatador de corriente USB-C",Lote20.jpg,4500,80000,500,1
+"TELEVISOR SAMSUNG 65""",21,"Smart TV 65"", resolución UHD 4K, con rango 3,840 x 2,160, tecnología UHD Dimming y PurColour.",Lote21.jpg,5000,48000,500,1
+RELOJ INTELIGENTE APPLE,22,"Apple watch Serie 4 caja gris de aluminio, extensible sport blanco, pantalla táctil 40 mm OLED, retina, conectividad wifi, bluetooth 5.0, duración de la bateria 18 hrs. Resistente al agua, sistema operativo watchOS.",Lote22.jpg,2500,360000,500,1

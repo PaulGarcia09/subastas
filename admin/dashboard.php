@@ -1,0 +1,10 @@
+<?php
+    include('../config/config.php');
+    if(!isset($_SESSION['auctiobroad'])){
+    	header("location:index.php");
+    }
+   	include('common/header.php');
+   	include('common/sidebar.php');
+    include('pages/dashboard.php');
+    include('common/footer.php');
+?>

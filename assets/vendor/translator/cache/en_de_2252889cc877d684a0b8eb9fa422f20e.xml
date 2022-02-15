@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="de" domain="2252889cc877d684a0b8eb9fa422f20e" scope="/about.php">
+  <word hash="290e1ece850d6387bed7ef33e6597962ca7b8c9ca2c33d7bab67213678bd4363" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[ En el 2021 ser la empresa de préstamos y ventas preferida por las personas.
+
+]]></source>
+    <translation><![CDATA[ En el 2021 ser la empresa de préstamos y ventas bevorzugt von las personas.
+
+]]></translation>
+  </word>
+  <word hash="46e5d185d72ac12dc7a85865bc59e225d8a53007e7e320ce32ff4c1ea701dcba" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Valores: ]]></source>
+    <translation><![CDATA[Valores: ]]></translation>
+  </word>
+  <word hash="9d889aca12a3f96336c2c30df6ce451ef3da2a743686af7598a486002590cceb" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[ • Pasión por servir. • Confianza. • Sinergia.]]></source>
+    <translation><![CDATA[ • Pasión por servir. • Confianza. • Sinergia.]]></translation>
+  </word>
+  <word hash="67b2c8d46764ebf83fe82aacf9a3446ab079e8bb6a9cc180da86ca51a3aba438" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Auction Broadcaster]]></source>
+    <translation><![CDATA[Auktionssender]]></translation>
+  </word>
+  <word hash="1cb0ba125f84c982b00ba3639cdfb2cee6b70f94b5e0115c045fef607af4f216" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Information]]></source>
+    <translation><![CDATA[Information]]></translation>
+  </word>
+  <word hash="8d6946246dd37b17acf02bf79b9adcfd9f7f2a874c480b82ab8219aab15c35d2" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[
+              Donato Guerra #235 Sur Int. 201 C.P. 80200 ]]></source>
+    <translation><![CDATA[
+              Donato Guerra # 235 Sur Int. 201 CP 80200 ]]></translation>
+  </word>
+  <word hash="19ea7ebabd2f1672ed44a3256e41291ac0ea343e09fa4e6b42f825c0d93eb038" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[
+              Culiacán, Sinaloa]]></source>
+    <translation><![CDATA[
+              Culiacán, Sinaloa]]></translation>
+  </word>
+  <word hash="fe3f3f657e6c3396cfa5e9e145c35209d94f01f22cbd82ead6e486f1fdc9df08" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[
+              México ]]></source>
+    <translation><![CDATA[
+              Mexiko ]]></translation>
+  </word>
+  <word hash="3305eb58093dce1796f362abac95c01b9891118812501e09fb0321f60552713c" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Phone:]]></source>
+    <translation><![CDATA[Telefon:]]></translation>
+  </word>
+  <word hash="53f43fe52d883fc5d081be38f2f81e7b43fe8e5b50cc2d733d68587d8d77b5fd" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[ 52 667 759 35 00]]></source>
+    <translation><![CDATA[ 52 667 759 35 00]]></translation>
+  </word>
+  <word hash="272b12e2d2ca6f0da3b9c0dc31e1b3372b4e4a67f50581e5fa67a09ba0cfa347" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[ 52 800 215 15 15]]></source>
+    <translation><![CDATA[ 52 800 215 15 15]]></translation>
+  </word>
+  <word hash="17507dcf845793fab0da66594804a4ca956ba284bcf36f4cef09e0a0a50c421a" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Email:]]></source>
+    <translation><![CDATA[E-Mail:]]></translation>
+  </word>
+  <word hash="7d6a2bd122b0bb85295c790036b3a330557b78e6edec627a9b9440aab70bab82" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[subastas@maxilana.com]]></source>
+    <translation><![CDATA[subastas@maxilana.com]]></translation>
+  </word>
+  <word hash="b24be634fa84bd4446d87fbabbf93f88b125deab5b3e55afa88a9086be45f67d" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Useful Links]]></source>
+    <translation><![CDATA[Nützliche Links]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Zuhause]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Registrieren]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Katalog]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Über]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Kontakt]]></translation>
+  </word>
+  <word hash="34e6faf15abddcd4b73e84117be7debf724f4ab10110bbef9fc5c6ed7eb0da60" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Terms and Conditions]]></source>
+    <translation><![CDATA[Allgemeine Geschäftsbedingungen]]></translation>
+  </word>
+  <word hash="08c3c95f13779675ec4b23c4d9fd434dd75edc179d14c37c2e7512d5b6454dc4" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[
+          © 2020 Copyright. All Rights Reserved
+        ]]></source>
+    <translation><![CDATA[
+          © 2020 Copyright. Alle Rechte vorbehalten
+        ]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Zuhause]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Über]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Registrieren]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Kontakt]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Katalog]]></translation>
+  </word>
+  <word hash="9d6322c1f4d9d3f38aed8bfbe0b2bcadf66ad82c008476fa62541fa069138e94" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[Login]]></source>
+    <translation><![CDATA[Anmelden]]></translation>
+  </word>
+  <word hash="f18090d26dec1856b7a7691425191d615f8bed650b9f4fc842a58048fd9583f2" date="2020-08-07T15:11:11-07:00">
+    <source><![CDATA[                                                                                                                                                                                                                                                                                                                         ]]></source>
+    <translation><![CDATA[]]></translation>
+  </word>
+  <word hash="ee794c08f6593d21a27cc0bb4ca75f45887a657ae77d2397035e22b350e92e8f" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ]]></source>
+    <translation><![CDATA[]]></translation>
+  </word>
+  <word hash="67b2c8d46764ebf83fe82aacf9a3446ab079e8bb6a9cc180da86ca51a3aba438" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[Auction Broadcaster]]></source>
+    <translation><![CDATA[Auktionssender]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Zuhause]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Über]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Registrieren]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Kontakt]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Katalog]]></translation>
+  </word>
+  <word hash="9d6322c1f4d9d3f38aed8bfbe0b2bcadf66ad82c008476fa62541fa069138e94" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[Login]]></source>
+    <translation><![CDATA[Anmelden]]></translation>
+  </word>
+  <word hash="9c42bea750d3f4be7d4615715bfd75bb9859e1b8626ef6a0b3bf6df1e0ff4c81" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[Welcome to Subastas Maxilana]]></source>
+    <translation><![CDATA[Willkommen bei Subastas Maxilana]]></translation>
+  </word>
+  <word hash="5d8c71abc527284cd463aa58f3f48098af5ab2f4225a744aa930a4b0e27d7395" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[About Us]]></source>
+    <translation><![CDATA[Über uns]]></translation>
+  </word>
+  <word hash="49bc07cb2bdf4cac8c31f6206d335b10bca4113551a64635c23da892ac0c50dd" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[Maxilana se fundó el 14 de septiembre de 1992 en la ciudad de Culiacán, Sinaloa México. 
+
+]]></source>
+    <translation><![CDATA[Maxilana se fundó el 14 de septiembre de 1992 en la ciudad de Culiacán, Sinaloa México. 
+
+]]></translation>
+  </word>
+  <word hash="b747e1c447f10e3ac07722b1535f6d67956c81c6b7af62438263822349abb574" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[ Surge bajo la perspectiva de lograr tres objetivos fundamentales:
+]]></source>
+    <translation><![CDATA[ Surge bajo la perspektive de lograr tres objetivos fundamentales:
+]]></translation>
+  </word>
+  <word hash="0ddfbd44cd4edd5a826c15117b8f51bb1ba8af388c4245cc23c75b28e7aeacc6" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[• Apoyar a personas con necesidad de un préstamo inmediato mediante el servicio de empeño. ]]></source>
+    <translation><![CDATA[• Apoyar a personas con necesidad de un préstamo inmediato mediante el servicio de empeño. ]]></translation>
+  </word>
+  <word hash="dbd7fde859d4009b39aa27f11466835f3c30944cab766ad14d3ec522847f2223" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[• Ser una organización con compromiso social apoyando Asociaciones Pro-Personas con capacidades diferentes.]]></source>
+    <translation><![CDATA[• Ser una organisación con Kompromissiso Social Apoyando Asociaciones Pro-Personas con Capacidades Diferentes.]]></translation>
+  </word>
+  <word hash="20fbfe86a6f10e0c9c2f00f557bd25f0c9452e3a059ee75c9d138a597e41250f" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[• Generar fuentes de empleo, donde los colaboradores logren desarrollo personal y profesional. ]]></source>
+    <translation><![CDATA[• Generar fuentes de empleo, donde los colaboradores logren desarrollo persönlich und beruflich. ]]></translation>
+  </word>
+  <word hash="4735c43597968269b69efda62f067c3d628fcf7a144a6670de740bf7317a0e31" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[ Maxilana fue creada para ser una fuente permanente de apoyo económico a APAC Culiacán y conforme fue creciendo también se incrementaron las instituciones a las que apoya, así se incluyeron PRONAN IAP en Hermosillo, Pasitos, A. C. en Tijuana, Casa Down de Mazatlán IAP en Mazatlán y CIRIAC en Guadalajara.
+]]></source>
+    <translation><![CDATA[ Maxilana fue creada para ser una fuente permanente de apoyo económico a APAC Culiacán y konforme fue creciendo también se incrementaron las instituciones a las que apoya, así se Incluyeron PRONAN IAP en Hermosillo, Pasitos, AC en Tijuana, Casa Down de Mazat CIRIAC en Guadalajara.
+]]></translation>
+  </word>
+  <word hash="91432fe530d0eeb5a15e8ee722c245f92be8a6812c6e443561155147a7f6ed6e" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[ El giro inicial de esta empresa fue el otorgamiento de préstamos en efectivo mediante el establecimiento de un contrato de garantía prendaria. 
+Con los años la empresa evolucionó en sus servicios, incorporando a su oferta comercial la venta de joyería nueva, préstamos personales, venta de tiempo aire, pagos de servicios. 
+
+]]></source>
+    <translation><![CDATA[ El giro inicial de esta empresa fue el otorgamiento de préstamos en efectivo mediante el establecimiento de un contrato de garantía prendaria. Con los años la empresa evolucionó en sus servicios, incorando a su oferta comercial la venta de joyería nueva, préstamos personales, venta de tiempo aire, pagos de servicios. 
+
+]]></translation>
+  </word>
+  <word hash="db72d0939d119d63dc710806724ae0b1e96333b6084ddae60cb5087e5f53d77f" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[En el año 2015 incursionó en el sector de subastas de artículos principalmente de joyería y relojes finos y como es su objetivo fundamental parte de las ganancias son otorgadas para las instituciones de apoyo a personas con capacidades diferentes.  ]]></source>
+    <translation><![CDATA[En el año 2015 incursionó en el Sektor de subastas de artículos Principalmente de joyería y relojes finos y como es su objetivo grundlegende parte de las ganancias son otorgadas para las instituciones de apoyo a personas con Capacidades diferentes.  ]]></translation>
+  </word>
+  <word hash="28853127803cf41060d0a12f23116dfb6b1fabf4edbf9ced2e2392cc80cfe590" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[Misión:  ]]></source>
+    <translation><![CDATA[Misión:  ]]></translation>
+  </word>
+  <word hash="7998616cea5ebc6a6e348733d15b06add377153b78d3c79f14c93808d59c2980" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[ Ayudamos a las personas a salir del apuro.
+
+
+]]></source>
+    <translation><![CDATA[ Ayudamos a las personas a salir del apuro.
+
+
+]]></translation>
+  </word>
+  <word hash="c0516bb0594d83baf6ab607687e9e3388a7bee9bc5b422e4e69aa528182d8fb9" date="2020-08-07T15:11:12-07:00">
+    <source><![CDATA[Visión:]]></source>
+    <translation><![CDATA[Vision:]]></translation>
+  </word>
+  <word hash="c5469c0eeee77ef3c0aad8f37fd20cea403f465ad22dc41cd8d0e857224d2713" date="2020-08-12T11:40:20-07:00">
+    <source><![CDATA[ • Passion for serving. • Trust. • Synergy.                                                                                                                                                          ]]></source>
+    <translation><![CDATA[ • Leidenschaft zum Servieren. • Vertrauen. • Synergie.                                                                                                                                                          ]]></translation>
+  </word>
+  <word hash="d7d50f15942a92af57dc3bef3046cbb6e6c577e1961fc413fa60397860ca9898" date="2020-08-12T11:40:20-07:00">
+    <source><![CDATA[Subastas Maxilana]]></source>
+    <translation><![CDATA[Subastas Maxilana]]></translation>
+  </word>
+  <word hash="e12d535589e7f2d392ad9d1df842ee6de2ae230d62452c6a8a42e6bbfb629aa4" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ Maxilana was founded on September 14, 1992 in the city of Culiacán, Sinaloa Mexico.
+
+
+]]></source>
+    <translation><![CDATA[ Maxilana wurde am 14. September 1992 in der Stadt Culiacán in Sinaloa, Mexiko, gegründet.
+
+
+]]></translation>
+  </word>
+  <word hash="c98079a54bb4299d087cb67759b837f9be6fb24f2d5d37cbab7afe22a3d6d947" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ It arises from the perspective of achieving three fundamental objectives:
+]]></source>
+    <translation><![CDATA[ Es ergibt sich aus der Perspektive der Erreichung von drei grundlegenden Zielen:
+]]></translation>
+  </word>
+  <word hash="597e348d7087f0d054cead34271673b8cf70c2b97ea11311372bf62cfb843ceb" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ • Support people in need of an immediate loan through the pawn service. ]]></source>
+    <translation><![CDATA[ • Unterstützen Sie Menschen, die einen sofortigen Kredit benötigen, über den Pfanddienst. ]]></translation>
+  </word>
+  <word hash="b8e9b3a79cbad2e90ec0a84d55d2eb002a99d0692ae5952bb6ad0f88e3fd46f5" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ • To be an organization with social commitment supporting Associations for People with different capacities. ]]></source>
+    <translation><![CDATA[ • Eine Organisation mit sozialem Engagement sein, die Verbände für Menschen mit unterschiedlichen Fähigkeiten unterstützt. ]]></translation>
+  </word>
+  <word hash="1719b4c6d1538996ce440d1a5e0145bf8b7afbdae0a7573402beeeb5a976302a" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ • Generate sources of employment, where employees achieve personal and professional development. ]]></source>
+    <translation><![CDATA[ • Schaffung von Beschäftigungsquellen, in denen sich die Mitarbeiter persönlich und beruflich weiterentwickeln. ]]></translation>
+  </word>
+  <word hash="304d2be6a12988ae9684026cf30078bebd2a2c2b695bd3aee0aa48c1379cda93" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ Maxilana was created to be a permanent source of financial support for APAC Culiacán and as it grew, the institutions it supports also increased, including PRONAN IAP in Hermosillo, Pasitos, AC in Tijuana, Casa Down de Mazatlán IAP in Mazatlán and CIRIAC in Guadalajara.
+
+]]></source>
+    <translation><![CDATA[ Maxilana wurde geschaffen, um APAC Culiacán dauerhaft finanziell zu unterstützen, und als es wuchs, nahmen auch die von ihm unterstützten Institutionen zu, darunter PRONAN IAP in Hermosillo, Pasitos, AC in Tijuana, Casa Down de Mazatlán IAP in Mazatlán und CIRIAC in Guadalajara.
+
+]]></translation>
+  </word>
+  <word hash="1115dbae5c28c650a86c0c633c8a9c2eaeb618d6175220b74f9f08c6489f6f35" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ The initial activity of this company was the granting of cash loans through the establishment of a collateral contract.
+Over the years the company has evolved in its services, incorporating the sale of new jewelry, personal loans, sale of airtime, and service payments to its commercial offer.]]></source>
+    <translation><![CDATA[ Die anfängliche Tätigkeit dieses Unternehmens bestand in der Gewährung von Barkrediten durch den Abschluss eines Sicherheitenvertrags. Im Laufe der Jahre hat sich das Unternehmen in seinen Dienstleistungen weiterentwickelt und den Verkauf von neuem Schmuck, Privatkrediten, den Verkauf von Sendezeiten und Servicezahlungen in sein kommerzielles Angebot aufgenommen.]]></translation>
+  </word>
+  <word hash="2a1b54f6918f0d22b1446e12a85fc08287a4a3dc50ed700aa3aa6445cb7bef5a" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[In 2015, it ventured into the auction sector for items, mainly jewelry and fine watches, and as it is its main objective, part of the profits are granted to institutions that support people with disabilities. ]]></source>
+    <translation><![CDATA[Im Jahr 2015 wagte es sich in den Auktionssektor für Gegenstände, hauptsächlich Schmuck und feine Uhren, und da es sein Hauptziel ist, wird ein Teil des Gewinns Institutionen gewährt, die Menschen mit Behinderungen unterstützen. ]]></translation>
+  </word>
+  <word hash="35675cd8714e35817ed2c9e02689dd7973fba24eca032d6ff5f3138a877d2fec" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ Mission: ]]></source>
+    <translation><![CDATA[ Mission: ]]></translation>
+  </word>
+  <word hash="fedfd689fe295f3a23dccc06701257772c7f3139a6e41a65ec272830accc700f" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ We help people to get out of trouble.
+
+
+]]></source>
+    <translation><![CDATA[ Wir helfen Menschen, aus Schwierigkeiten herauszukommen.
+
+
+]]></translation>
+  </word>
+  <word hash="53e4e3479754e5f7836740a1e139dfa07f1ec5e2072778c8da845bac14314fd0" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ Vision: ]]></source>
+    <translation><![CDATA[ Vision: ]]></translation>
+  </word>
+  <word hash="7cc16fc327beee083539d430a93c9a146bd88f569327aa158d581609488a1612" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ By 2021, to be the preferred loan and sales company for people.
+
+]]></source>
+    <translation><![CDATA[ Bis 2021 soll die bevorzugte Kredit- und Verkaufsgesellschaft für Menschen sein.
+
+]]></translation>
+  </word>
+  <word hash="5f420534650c413102fc54948a40f6b6b54bceb9aa5fcd8b154326b4a792cbbf" date="2020-08-12T11:40:21-07:00">
+    <source><![CDATA[ Values: ]]></source>
+    <translation><![CDATA[ Werte: ]]></translation>
+  </word>
+</translations>

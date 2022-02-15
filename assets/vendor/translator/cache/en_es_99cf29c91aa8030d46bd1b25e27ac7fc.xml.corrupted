@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="es" domain="99cf29c91aa8030d46bd1b25e27ac7fc" scope="/catalog-all.php?status=pre-bidding&amp;gclid=CjwKCAjwlID8BRAFEiwAnUoK1SnQ_VDzEfXPVp6BslMhwqOQr_7zRi7HjQxwm72OKiR3qgoCzIQq7xoCAKsQAvD_BwE">
+  <word hash="830575d964e23b41e1c645d382dabe7759c9962360563c9dba6b67e1bceafbd8" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Subastas Maxilana | Catálogo]]></source>
+    <translation><![CDATA[Subastas Maxilana | Catálogo]]></translation>
+  </word>
+  <word hash="58fcc9468fe1f60716a71caef50fce70a6d2d46f7a2c0d0f45f1f76dc7779625" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Inicio]]></source>
+    <translation><![CDATA[Inicio]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="1677ae1e5ff5f8b43056c877a95b340feb0db14cf1ce7d3be787139c5f96f27e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[
+Registrarse]]></source>
+    <translation><![CDATA[
+Registrarse]]></translation>
+  </word>
+  <word hash="771b96b0812dd393ffeac789c2b8da1b78c20530a7365dd8181b1e3580db063f" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Contacto]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="dc7ababc44cc963507b77a4d8b55712ebb0565e0508615ab90a5f76ce96d4ee9" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Catálogo]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="8d518bb65ea3dedb5250e357ef5d2ea42c178c140f655b95f7b610835f72f3d0" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Iniciar sesión]]></source>
+    <translation><![CDATA[Iniciar Sesión]]></translation>
+  </word>
+  <word hash="1cc28e64d1d7297ede5afcc34e40cd67e0de1a424fcbc1bccb3b2c1927b8227f" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Catálogo de subastas]]></source>
+    <translation><![CDATA[Catálogo de subastas]]></translation>
+  </word>
+  <word hash="8d2da380af070af76d5cb111856dcde14620ef8dd009a87e25401966e81c3891" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ Pre-bidding Lots]]></source>
+    <translation><![CDATA[ Lotes de preoferta]]></translation>
+  </word>
+  <word hash="4730f56c77c4a82a861d67741f84bca9361de577304cfdf1497878bb0dcef973" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ Auctions finished]]></source>
+    <translation><![CDATA[Subastas finalizadas]]></translation>
+  </word>
+  <word hash="aeccae342e4bd0a70ded84675569da91c5efb3894e35929cafd851cda763a6aa" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Cerrar]]></source>
+    <translation><![CDATA[Cerrar]]></translation>
+  </word>
+  <word hash="e24b35c79c17d2c29a80bce12690459d81ef9410f2efc0dc942ffd2e7ab6df81" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Subasta de monedas]]></source>
+    <translation><![CDATA[Subasta de monedas]]></translation>
+  </word>
+  <word hash="a7906ae82961283d0a8ba1b747b41b28006524dbd4720e69b4d2fb6354aadd68" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ Live Streaming ]]></source>
+    <translation><![CDATA[Transmisión en vivo]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="aafafb9afa4f5448e4e2215c36bbe54ee1f3288777e82a31df7898ccd1d9ba9e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Ver catálogo]]></source>
+    <translation><![CDATA[Ver catálogo]]></translation>
+  </word>
+  <word hash="6125ddde2618364d4af0470afdf10c074ce0607ea51696039ba87c22ec019f23" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Descargar catálogo]]></source>
+    <translation><![CDATA[Descargar catálogo]]></translation>
+  </word>
+  <word hash="3cca0445ec465ce9f3d3f9b6ecafc5ecc23db7666dd95c7c4d72fdf80ca6937b" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Subasta de Varios]]></source>
+    <translation><![CDATA[Subasta de Varios]]></translation>
+  </word>
+  <word hash="a7906ae82961283d0a8ba1b747b41b28006524dbd4720e69b4d2fb6354aadd68" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ Live Streaming ]]></source>
+    <translation><![CDATA[Transmisión en vivo]]></translation>
+  </word>
+  <word hash="d925a0d95b182e54c04aa686a16a398f95fd009d7eb7bfdf663f15d7aa28201e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 28, 2020]]></source>
+    <translation><![CDATA[ 28 de octubre de 2020]]></translation>
+  </word>
+  <word hash="aafafb9afa4f5448e4e2215c36bbe54ee1f3288777e82a31df7898ccd1d9ba9e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Ver catálogo]]></source>
+    <translation><![CDATA[Ver catálogo]]></translation>
+  </word>
+  <word hash="6125ddde2618364d4af0470afdf10c074ce0607ea51696039ba87c22ec019f23" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Descargar catálogo]]></source>
+    <translation><![CDATA[Descargar catálogo]]></translation>
+  </word>
+  <word hash="e3db5db553072831346bfc97e71e81c741a5cf172c0c455ef229de453f795741" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[LINGOTITO KARATBARS DE ORO 1 GRAMO.]]></source>
+    <translation><![CDATA[LINGOTITO KARATBARS DE ORO 1 GRAMO.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="69edcb7e57723eb3968e49e1639af91634ff8434ed491cf6f4f6f6cabe1fdfce" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $750.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 750.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="df3f0b71e62bc5b41571a6ec59e1962b1889ea8fdb0587c4923891d331f0796a" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 2411]]></source>
+    <translation><![CDATA[Número de paleta: 2411]]></translation>
+  </word>
+  <word hash="bc783cd1ff491c0dd1c9f5fddfa368e8f8b46f3579f700e0f941a0e15432389f" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 1,200.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,200.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="1f4061c6ad7738a305f034ab8907b046e4da00918e80fbedbce59174e78e3582" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[CRÉDITO SUIZO 1 GRAMO, ORO PURO (.999).]]></source>
+    <translation><![CDATA[CRÉDITO SUIZO 1 GRAMO, ORO PURO (.999).]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="69edcb7e57723eb3968e49e1639af91634ff8434ed491cf6f4f6f6cabe1fdfce" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $750.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 750.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="4e1bab2096445f02b6e6619dfd69ef537653f5b8dba813d7a632be2b29c60c0c" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 8476]]></source>
+    <translation><![CDATA[Número de paleta: 8476]]></translation>
+  </word>
+  <word hash="be835de5ad3a11117962d7e6996535ddd0aca5b965701db8aa7c7ca755033cc9" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 1,050.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,050.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="aac2ffd7a07cadc0dfe78dedf8e63a63bb86501d513cf91782339e8e7f340172" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[MONEDA DE $100.00 PESOS, PLATA 0.720. MUNDIAL MÉXICO 86.]]></source>
+    <translation><![CDATA[MONEDA DE $ 100.00 PESOS, PLATA 0.720. MUNDIAL MÉXICO 86.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="37fed3a2e3ba4b81ef78b7ba51dfce31e528d9fe2d61eec40fd46ddbe10c529a" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $550.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 550.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="0bf104a526b3c8f44aec5083035dc206424032156efb46dd986d0e296308145a" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 303]]></source>
+    <translation><![CDATA[Número de paleta: 303]]></translation>
+  </word>
+  <word hash="56c9dfbe5a8fdeb41e64cc72cdb2aff887d4744ceb374911e363c801099ceaff" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 600.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 600.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="29fb33e9a45dcf3844356d4c6976ccef3265c83c4bce652ffdd7ba56fd18cf84" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[COLECCIÓN DE 50 MONEDAS 25 CENTAVOS (1/4 DE DÓLAR), DE LOS ESTADOS UNIDOS DE AMÉRICA, EN CUPRO-NIQUEL.]]></source>
+    <translation><![CDATA[COLECCIÓN DE 50 MONEDAS 25 CENTAVOS (1/4 DE DÓLAR), DE LOS ESTADOS UNIDOS DE AMÉRICA, EN CUPRO-NIQUEL.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="22dc1c2ae62f88757a49e4424437e39dcae004e4c53af690f39043bbea404d5f" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $450.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 450.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="eb81eea24539f0e8409f97a977a801b9080285f5b98cc86c485fd2eb97385ce3" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 5485]]></source>
+    <translation><![CDATA[Número de paleta: 5485]]></translation>
+  </word>
+  <word hash="83f4e68ad09c8ff34adf6dd6e209f80776982390ca337a93a55667a1a69ccd33" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 450.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 450.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="4a6639a5ffcc658dd60970151ec69b3762a85d912f74198d6347f3bcd5f64a36" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[DIJE DE ORO 18K, EN FORMA DE LINGOTE, "HOTEL PALACIO DE LOS EMIRATOS"]]></source>
+    <translation><![CDATA[DIJE DE ORO 18K, EN FORMA DE LINGOTE, "HOTEL PALACIO DE LOS EMIRATOS"]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="747101338837489948f4dd0bff5ef160f99f929c669746d3233e9c0b043d462a" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $3,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 3,500.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="89ef335facde4c726aeb9cd67605afdb8390574696e04d367fb68b2a4b12d36c" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 1533]]></source>
+    <translation><![CDATA[Número de paleta: 1533]]></translation>
+  </word>
+  <word hash="ae82804bc3a33235a28cfd1eb4b3d7529f126358e1ae150c3aba1270639c2302" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 3,550.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,550.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="ba9ad421753ae571dd3aff9b3ac3ac3018e625a0ebf3d876e4ece71e5a54a807" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[DOS MONEDAS DE $2.50 PESOS, ORO LEY .900.]]></source>
+    <translation><![CDATA[DOS MONEDAS DE $ 2.50 PESOS, ORO LEY .900.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="3abcd9f50a0b093bf84f9d2b4fcb645084d52d255ef8ad6169799e57da403729" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $4,600.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 4,600.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="789f384990689548a62f8a0331969b996f6f8d42305fed4ce45c18bfd2500b84" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 2277]]></source>
+    <translation><![CDATA[Número de paleta: 2277]]></translation>
+  </word>
+  <word hash="5d0f6661b4f3b817b71d62ea1a3b64bc63334da96e0a401ea29d65057f1d3376" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 4,600.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,600.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="6c4e1aa5d5cce34f758477ef70f21a368fa2b88575afe2d9c2dcadc5de94c0eb" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[MONEDA DE $25.00 "OLÍMPICA" EN PLATA LEY .720, AÑO 1968.]]></source>
+    <translation><![CDATA[MONEDA DE $ 25.00 "OLÍMPICA" EN PLATA LEY .720, AÑO 1968.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="d9c7cb17c39548aa18d18001dcd411bc382c69900d8c9d1936a01f2d9024f774" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $300.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 300.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="2bd4e182616d26cb2c944890f274f42cfddb88654ddb6777ca0ccec262154ccc" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 2789]]></source>
+    <translation><![CDATA[Número de paleta: 2789]]></translation>
+  </word>
+  <word hash="7fd639d067bb0c3df4084df668fbfda2ea677019067e4475f3f69b74c88bbbd3" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 300.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 300.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="6d035f0b5f15853c8a2f5786d2958d5b21a5858ae0a6d1f29fe9d5a8c325c3e9" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $9,100.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 9,100.00]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="e0216df4f65aaf046a32d6a7641f0eb1bdf326230663fe5c63d440a8ec95462a" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[MONEDA $10.00 PESOS ORO, "HIDALGO".]]></source>
+    <translation><![CDATA[MONEDA $ 10.00 PESOS ORO, "HIDALGO".]]></translation>
+  </word>
+  <word hash="b553c9d8aabcda1922ee98fe9abec2ba0afcbc8c3fb8b0ec2a2c8a30e3f09896" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $8,900.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 8,900.00]]></translation>
+  </word>
+  <word hash="95c708e65c030cd5bc313d3de0a8bb67e897a8182851df5c011009a286d50c1e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 8,900.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 8,900.00]]></translation>
+  </word>
+  <word hash="cd17ed59183117f3cd8898c09c477c56191aee8ce06443a20f0fa475eb33ca73" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $600.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 600.00]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="d50f7c7d0cd0981adbd528fe5e8aa8f0ca5a990155d1ec9dba4fc2f6fa95b85d" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[MONEDA DE $5.00 PESOS, PLATA MÉXICO, SERIE IBEROAMERICANA (IV), "EL CHARRO Y SU CABALLO: EL PASO DE LA MUERTE".]]></source>
+    <translation><![CDATA[MONEDA DE $ 5.00 PESOS, PLATA MÉXICO, SERIE IBEROAMERICANA (IV), "EL CHARRO Y SU CABALLO: EL PASO DE LA MUERTE".]]></translation>
+  </word>
+  <word hash="514708c03eaa37f8528df893713d42b4bb59c7555e84021f3b04c95d01235527" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $1,600.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,600.00]]></translation>
+  </word>
+  <word hash="827743ea34e66109215f09fc1caf360ccf4e158f95b5b7c442d6240d9453bd88" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 8412]]></source>
+    <translation><![CDATA[Número de paleta: 8412]]></translation>
+  </word>
+  <word hash="d5c59cf9de730301c15b21793e3401562882ed51a8caa84612c619f47f5707ca" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 1,650.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,650.00]]></translation>
+  </word>
+  <word hash="74b82877b064f67f6fe59bec79cc8bfcc61348f926830aa4837cb980483a2a60" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[MONEDA DE $10.00 DÓLARES, EN ORO, AÑO 1993.]]></source>
+    <translation><![CDATA[MONEDA DE $ 10.00 DÓLARES, EN ORO, AÑO 1993.]]></translation>
+  </word>
+  <word hash="9ba164f8da5b12e05f57b467bb8fc99056af767e090dc0d54918102503d43ed8" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $8,800.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 8,800.00]]></translation>
+  </word>
+  <word hash="b02a838cab85e7652d987f163577c26615ebcd1b84cb59f5694f5024964c37c7" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 2999]]></source>
+    <translation><![CDATA[Número de paleta: 2999]]></translation>
+  </word>
+  <word hash="6c0b4c9eab650f6ac9143bb1363b745737b9638094c80e5128d23597e2ce7580" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 9,050.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 9,050.00]]></translation>
+  </word>
+  <word hash="1e8de9724734e1e213d8420e0b639c35ccdd4b97ca2921a86b8e7b49661feaa0" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[TRECE MONEDAS DE $2.00 , EN ORO, MÉXICO "ARRAS MATRIMONIALES". ]]></source>
+    <translation><![CDATA[TRECE MONEDAS DE $ 2.00, EN ORO, MÉXICO "ARRAS MATRIMONIALES". ]]></translation>
+  </word>
+  <word hash="d5c0950f9cb816ecf862ad6e8e050474e51a0e5ace7143ab04c977b9fec0bd9c" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $24,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 24,500.00]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="9ad25cd7e42dc2a2f63c6a78feb3b588d127b14298dbf040a1daf1342c65b6f8" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[MONEDA 1 ONZA LIBERTAD, MÉXICO PLATA PURA LEY .999.]]></source>
+    <translation><![CDATA[MONEDA 1 ONZA LIBERTAD, MÉXICO PLATA PURA LEY .999.]]></translation>
+  </word>
+  <word hash="50ae54d100e317540a9b6ec73edf1fd89245f02378f69be1ffe674c6fda4a422" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 500.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 500.00]]></translation>
+  </word>
+  <word hash="9de09d441326607fb901d913dd07de023949eadffd738df84d6835387b974de4" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[10 MONEDAS DE $5.00 PESOS, COLECCIÓN ANIMALES EN PELIGRO DE EXTINSIÓN, MÉXICO. PLATA PURA .]]></source>
+    <translation><![CDATA[10 MONEDAS DE $ 5.00 PESOS, COLECCIÓN ANIMALES EN PELIGRO DE EXTINSIÓN, MÉXICO. PLATA PURA.]]></translation>
+  </word>
+  <word hash="5b7bef7ec345228e1e906447e8a2e4dc74664539d0770c13a4dcba1a68c5bb6e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $4,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 4,000.00]]></translation>
+  </word>
+  <word hash="827743ea34e66109215f09fc1caf360ccf4e158f95b5b7c442d6240d9453bd88" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 8412]]></source>
+    <translation><![CDATA[Número de paleta: 8412]]></translation>
+  </word>
+  <word hash="b74b15e63733386b39f255e2b67534c0cf429e806f4cdc5d5fdc79ab6c8af419" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 4,100.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,100.00]]></translation>
+  </word>
+  <word hash="348f75d35cd74ba6b0996e027efc01fca432bec646f56ac47103d35ea5d09ca0" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[MONEDA DE $20.00 PESO ORO, "AZTECA", AÑO 1919.]]></source>
+    <translation><![CDATA[MONEDA DE $ 20.00 PESO ORO, "AZTECA", AÑO 1919.]]></translation>
+  </word>
+  <word hash="aaa663df108411d40df2a84ec8e8b0b75622e187c84b6e10ca15d87f68029f31" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $19,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 19,500.00]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+</translations>
+d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="76d267fd018ad2833eec0a1d112f73539ea9fd14fd3937fa4eb7e6be84d13a46" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $350.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 350.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="b8d9c154ae0f9059df2746bc50e40ece9b28adc5cc30bc0bf1c9971149d9bd02" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[DOS MONEDAS DE ORO DE $2.50 PESOS (1/4 DE HIDALGO).]]></source>
+    <translation><![CDATA[DOS MONEDAS DE ORO DE $ 2.50 PESOS (1/4 DE HIDALGO).]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="66dc0f75623943a433c931a486bba831d604638c3e0a8e38460a91f409bbe0e5" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $4,750.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 4,750.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="91b8ff0d62d9f299662124fe87348ec7bec0e3291b0271df88268b0246171b85" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[DOS MONEDAS DE ORO $5.00 PESOS (MEDIO HIDALGO).]]></source>
+    <translation><![CDATA[DOS MONEDAS DE ORO $ 5.00 PESOS (MEDIO HIDALGO).]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="6d035f0b5f15853c8a2f5786d2958d5b21a5858ae0a6d1f29fe9d5a8c325c3e9" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $9,100.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 9,100.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="603603b44179a1f87e1035ae6dd4a3bf3f8bb059e40a847c1431a3f5b249297f" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: ]]></source>
+    <translation><![CDATA[Número de paleta: ]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="5326b2f2f779429ba5396675ea285afb19b5f9e4d442cc128570c0ca918325da" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[MONEDA DE 5 ONZAS EN PLATA PURA LEY .999, MÉXICO, AÑO 2002.]]></source>
+    <translation><![CDATA[MONEDA DE 5 ONZAS EN PLATA PURA LEY .999, MÉXICO, AÑO 2002.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="e1893d713c00b3e71fee57ba6e01a6bf61822ed3dbe4e108ed49d5db90c0ddfc" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $1,900.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,900.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="89ef335facde4c726aeb9cd67605afdb8390574696e04d367fb68b2a4b12d36c" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 1533]]></source>
+    <translation><![CDATA[Número de paleta: 1533]]></translation>
+  </word>
+  <word hash="e60ff3516632f435189f911fd572f8a28fa3076b31e74667dd753d9e310fff69" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 2,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,000.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="ee227fa3eb9b429a0e87e6e0ca8ff419cb679fff18f7ddec1cadb5d02e9e9f87" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[MONEDA DE UNA ONZA, MÉXICO AÑO 2000 D.C., EN PLATA LEY .925.]]></source>
+    <translation><![CDATA[MONEDA DE UNA ONZA, MÉXICO AÑO 2000 DC, EN PLATA LEY .925.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="7036af3436fd3bd36829866af62fae42f1055d948382d3fdf0dfeb5f25fc6a80" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Initial Bid: $700.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 700.00]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="2bae3bda7369a72f08dba1caf6057e47132594b4447a9c34cebcf3154b3bb981" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ October 14, 2020]]></source>
+    <translation><![CDATA[ 14 de octubre de 2020]]></translation>
+  </word>
+  <word hash="a5ba36a6f96b80913e458064c9aef55320edc0cc09cf7588c51dde7e7b70393a" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Paddle Number: 3319]]></source>
+    <translation><![CDATA[Número de paleta: 3319]]></translation>
+  </word>
+  <word hash="a6b34980cce2eb856169740993ce8c06ae7ae3b2b37347710241d69939e70b7d" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[Current bid: $ 750.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 750.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="61f3e7aedbff2e8c56b1d266bc64b2006975f6ee635f57cd4bb5ee50189f5619" date="2020-10-09T22:04:09-06:00">
+    <source><![CDATA[DOS MONEDAS DE $5.00 PESOS (MEDIO HIDALGO), ORO, MÉXICO.]]></source>
+    <translation><![CDATA[DOS MONEDAS DE $ 5.00 PESOS (MEDIO HIDALGO), ORO, MÉXICO.]]></translation>
+  </word>
+</translations>

@@ -1,0 +1,145 @@
+
+/* CSS Document */
+
+html, body, h1, form, fieldset, legend, ol, li {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: #333333;
+	color: #FFFFFF;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	padding: 20px;
+}
+
+form#fileUpload {
+	
+	background:#538BAC;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 20px;
+	width: 800px;
+}
+
+form#fileUpload fieldset {
+	border: none;
+	margin-bottom: 10px;
+}
+form#fileUpload fieldset:last-of-type {
+	margin-bottom: 0;
+}
+
+form#fileUpload legend {
+	color:#000000;
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 10px;
+	text-shadow: 0 1px 1px #c0d576;
+}
+
+form#fileUpload > fieldset > legend:before {
+	content: "";
+	/*content: "Step " counter(fieldsets) ": ";*/
+	counter-increment: fieldsets;
+}
+
+form#fileUpload fieldset fieldset legend {
+	color: #FFFFFF;
+	font-size: 13px;
+	font-weight: normal;
+	padding-bottom: 0;
+}
+
+form#fileUpload ol li {
+	background: #b9cf6a;
+	background: rgba(255,255,255,.3);
+	border-color: #e3ebc3;
+	border-color: rgba(255,255,255,.6);
+	border-style: solid;
+	border-width: 2px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	line-height: 30px;
+	list-style: none;
+	padding: 5px 10px;
+	margin-bottom: 2px;
+}
+form#fileUpload ol ol li {
+	background: none;
+	border: none;
+	float: left;
+}
+
+
+form#fileUpload label {
+	float: left;
+	font-size: 13px;
+	width: 110px;
+}
+form#fileUpload fieldset fieldset label {
+	background:none no-repeat left 50%;
+	line-height: 20px;
+	padding: 0 0 0 30px;
+	width: auto;
+}
+form#fileUpload label[for=visa] {
+	background-image: url(visa.gif);
+}
+form#fileUpload label[for=amex] {
+	background-image: url(amex.gif);
+}
+form#fileUpload label[for=mastercard] {
+	background-image: url(mastercard.gif);
+}
+form#fileUpload fieldset fieldset label:hover {
+	cursor: pointer;
+}
+
+
+form#fileUpload input:not([type=radio]),
+form#fileUpload textarea,
+form#fileUpload select {
+	background: #ffffff;
+	border: none;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	font: italic 13px Georgia, "Times New Roman", Times, serif;
+	outline: none;
+	padding: 5px;
+	width: 200px;
+}
+form#fileUpload input:not([type=submit]):focus,
+form#fileUpload textarea:focus {
+	background: #eaeaea;
+}
+form#fileUpload input[type=radio] {
+	float: left;
+	margin-right: 5px;
+}
+
+form#fileUpload button {
+	background: #384313;
+	border: none;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	color: #ffffff;
+	display: block;
+	font: 18px Georgia, "Times New Roman", Times, serif;
+	letter-spacing: 1px;
+	margin: auto;
+	padding: 7px 25px;
+	text-shadow: 0 1px 1px #000000;
+	text-transform: uppercase;
+}
+form#fileUpload button:hover {
+	background: #1e2506;
+	cursor: pointer;
+}
+
+

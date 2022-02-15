@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="es" domain="385625a6e48a67cffeebfee0dc238572" scope="/?fbclid=IwAR1zDHiHaLna6rYycti46DZlS0uQBpGIe4Hv9fTcrTmE9GibjyPyFbXaFMk">
+  <word hash="d7d50f15942a92af57dc3bef3046cbb6e6c577e1961fc413fa60397860ca9898" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Subastas Maxilana]]></source>
+    <translation><![CDATA[Subastas Maxilana]]></translation>
+  </word>
+  <word hash="58fcc9468fe1f60716a71caef50fce70a6d2d46f7a2c0d0f45f1f76dc7779625" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Inicio]]></source>
+    <translation><![CDATA[Inicio]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="1677ae1e5ff5f8b43056c877a95b340feb0db14cf1ce7d3be787139c5f96f27e" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[
+Registrarse]]></source>
+    <translation><![CDATA[
+Registrarse]]></translation>
+  </word>
+  <word hash="771b96b0812dd393ffeac789c2b8da1b78c20530a7365dd8181b1e3580db063f" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Contacto]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="dc7ababc44cc963507b77a4d8b55712ebb0565e0508615ab90a5f76ce96d4ee9" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Catálogo]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="8d518bb65ea3dedb5250e357ef5d2ea42c178c140f655b95f7b610835f72f3d0" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Iniciar sesión]]></source>
+    <translation><![CDATA[Iniciar Sesión]]></translation>
+  </word>
+  <word hash="aeccae342e4bd0a70ded84675569da91c5efb3894e35929cafd851cda763a6aa" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Cerrar]]></source>
+    <translation><![CDATA[Cerrar]]></translation>
+  </word>
+  <word hash="8ab4e3f59a5cdeeb798273bff18174233183442c741033525f6aadde6391168a" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Subasta de varios]]></source>
+    <translation><![CDATA[Subasta de varios]]></translation>
+  </word>
+  <word hash="8f67e106f6e84b873ca78130254d20c70fed8703c99ac58a2109fd9cffd81dcc" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Starts: September 10, 2020]]></source>
+    <translation><![CDATA[Inicio: 10 de septiembre de 2020]]></translation>
+  </word>
+  <word hash="d8c97c0a86327ab7dad7a60b2e7c104dc3efdb336b427fb1dcd40816b5b07abd" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Artículos varios.]]></source>
+    <translation><![CDATA[Artículos varios.]]></translation>
+  </word>
+  <word hash="9faaa0690086c053849476bffc26d7aebee582d0e45aac36616eb71022ee0cc6" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Próximas subastas]]></source>
+    <translation><![CDATA[Próximas subastas]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="8ab4e3f59a5cdeeb798273bff18174233183442c741033525f6aadde6391168a" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Subasta de varios]]></source>
+    <translation><![CDATA[Subasta de varios]]></translation>
+  </word>
+  <word hash="8f67e106f6e84b873ca78130254d20c70fed8703c99ac58a2109fd9cffd81dcc" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Starts: September 10, 2020]]></source>
+    <translation><![CDATA[Inicio: 10 de septiembre de 2020]]></translation>
+  </word>
+  <word hash="d8c97c0a86327ab7dad7a60b2e7c104dc3efdb336b427fb1dcd40816b5b07abd" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Artículos varios.]]></source>
+    <translation><![CDATA[Artículos varios.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="280642b6200f4894fc71a5a1eefcedf2c8c493c35cfa4ff66b1f22102c108778" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Subasta de Joyería]]></source>
+    <translation><![CDATA[Subasta de Joyería]]></translation>
+  </word>
+  <word hash="5f144ecf651b3b12440af9cca3a83a593f0a7d69f722ee16bf92bd572f03a779" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Starts: September 23, 2020]]></source>
+    <translation><![CDATA[Inicio: 23 de septiembre de 2020]]></translation>
+  </word>
+  <word hash="42015b147339234d17cee7488f8f0c46fddb194232f8ba88795aebd491f51dc5" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Artículos de joyería y relojes.]]></source>
+    <translation><![CDATA[Artículos de joyería y relojes.]]></translation>
+  </word>
+  <word hash="c95fb01eb861b25555430e67e85c54e970b74fdf50496edddd320b9799bd89fc" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Pre ofertas en lotes]]></source>
+    <translation><![CDATA[Pre ofertas en lotes]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="0ea8680803d992682716242a36d76801e601981b5677c3dbd8840aedd0bc7c1a" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[TABLET SAMSUNG]]></source>
+    <translation><![CDATA[TABLETA SAMSUNG]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="e4c45482aa57ff4b8126e3f2790022e95802e36e83be3679b87e5d6982355a77" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Initial Bid: $800.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 800.00]]></translation>
+  </word>
+  <word hash="084813672360f78b320c73c4ebfd8e2a32bf30ba9d0a180b9f7e2c65005290ef" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Galaxy Tab A, pantalla de 8", procesador Quad de 64 bit, cámara de 8mp, memoria de 32gb y 2gb de ram.]]></source>
+    <translation><![CDATA[Galaxy Tab A, pantalla de 8 ", procesador Quad de 64 bit, cámara de 8mp, memoria de 32gb y 2gb de ram.]]></translation>
+  </word>
+  <word hash="8f67e106f6e84b873ca78130254d20c70fed8703c99ac58a2109fd9cffd81dcc" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Starts: September 10, 2020]]></source>
+    <translation><![CDATA[Inicio: 10 de septiembre de 2020]]></translation>
+  </word>
+  <word hash="43147414a8b0d40a94541cbc0e127e41f867b85779cf1fbf3e31cf35f0833aaa" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Current bid: $ 1,851.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,851.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="202e0a7f9408758759123c6f975a7b31850b096f2b0b0f161d0e8cc47458acc0" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[VIDEOJUEGO NINTENDO 2DS]]></source>
+    <translation><![CDATA[VIDEOJUEGO NINTENDO 2DS]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="7036af3436fd3bd36829866af62fae42f1055d948382d3fdf0dfeb5f25fc6a80" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Initial Bid: $700.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 700.00]]></translation>
+  </word>
+  <word hash="3831a3155f91d717f01ad2123d0c6b49201321ccf4f4133a88b8173ebde18cf7" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Modelo 2DS, en caja, pluma stylus y memoria externa de 4gb.]]></source>
+    <translation><![CDATA[Modelo 2DS, en caja, pluma stylus y memoria externa de 4gb.]]></translation>
+  </word>
+  <word hash="8f67e106f6e84b873ca78130254d20c70fed8703c99ac58a2109fd9cffd81dcc" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Starts: September 10, 2020]]></source>
+    <translation><![CDATA[Inicio: 10 de septiembre de 2020]]></translation>
+  </word>
+  <word hash="3d77adb51cd0bd237b0ba11ec9d7e9bfca3bd3bc69fcd7f8d259b0b1e1105f21" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Current bid: $ 800.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 800.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="0cc9aa0b6a4fa75ac74b2ef059eefb7f0926997cc5f3aa0ba58967bfeb01ae3a" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[COMPUTADORA LAP TOP]]></source>
+    <translation><![CDATA[TOP DE VUELTA COMPUTADORA]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="c92a8a5ba0912c36b383df8dd307d98e5f692a95c17bbc399db4f6da7d5ad180" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Initial Bid: $1,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,500.00]]></translation>
+  </word>
+  <word hash="584b95f469424d36f541024a469e09a00c13696e03530b653cac3b0088c864e8" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[HP, Pantalla de 14" Modelo RTL8723DER, Procesador AMD A6-9225 RADEON R4, sistema operativo de 64 bits, 8gb en Ram y 120 gb de disco duro]]></source>
+    <translation><![CDATA[HP, Pantalla de 14 "Modelo RTL8723DER, Procesador AMD A6-9225 RADEON R4, sistema operativo de 64 bits, 8gb en Ram y 120 gb de disco duro]]></translation>
+  </word>
+  <word hash="8f67e106f6e84b873ca78130254d20c70fed8703c99ac58a2109fd9cffd81dcc" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Starts: September 10, 2020]]></source>
+    <translation><![CDATA[Inicio: 10 de septiembre de 2020]]></translation>
+  </word>
+  <word hash="e194d2bf9fe77f624450094cded62a8ab18082b1dcfc35341c23a32b89088048" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Current bid: $ 2,100.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,100.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="b8b0dde66aea22a39dc06699d73ff51382503c79dce72a6c808d0b17cb0cca31" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[RELOJ CASIO G-SHOCK GA-800SC]]></source>
+    <translation><![CDATA[RELOJ CASIO G-SHOCK GA-800SC]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="7f15642cfca6e721ce943677a77f27b998306471405f62a6eba64726e17de153" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Initial Bid: $400.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 400.00]]></translation>
+  </word>
+  <word hash="f246c44db335d70f189ffc678770380a61e14ed935d69eee45380acfa2650410" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Color azul, manecillas luminiscentes, análogo/digital, diámetro 47 mm, con luz integrada. CON ESTUCHE.]]></source>
+    <translation><![CDATA[Color azul, manecillas luminiscentes, análogo / digital, diámetro 47 mm, con luz integrada. CON ESTUCHE.]]></translation>
+  </word>
+  <word hash="8f67e106f6e84b873ca78130254d20c70fed8703c99ac58a2109fd9cffd81dcc" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Starts: September 10, 2020]]></source>
+    <translation><![CDATA[Inicio: 10 de septiembre de 2020]]></translation>
+  </word>
+  <word hash="ffb832698d9b01b04b15d09a32948a5cfa1c42b015e354dc2860206e4c0f56d7" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Current bid: $ ]]></source>
+    <translation><![CDATA[Oferta actual: $ ]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="0ea8680803d992682716242a36d76801e601981b5677c3dbd8840aedd0bc7c1a" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[TABLET SAMSUNG]]></source>
+    <translation><![CDATA[TABLETA SAMSUNG]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="302bcf222239ae565888cd928cb09b3df8d3443c95b76637e297b23ff17fbbe2" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Initial Bid: $1,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,000.00]]></translation>
+  </word>
+  <word hash="798cd2caa9449cbaadbc3a4679a9a0f58dc28dd28cc618d56b572124c2feda94" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[SAMSUNG Galaxy Tab A SM-P580, Pantalla de 10.1", 1920 x 1200 pixeles, memoria 16 GB, 3 GB de Ram , Android 6.0.]]></source>
+    <translation><![CDATA[SAMSUNG Galaxy Tab A SM-P580, Pantalla de 10.1 ", 1920 x 1200 pixeles, memoria 16 GB, 3 GB de Ram, Android 6.0.]]></translation>
+  </word>
+  <word hash="8f67e106f6e84b873ca78130254d20c70fed8703c99ac58a2109fd9cffd81dcc" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Starts: September 10, 2020]]></source>
+    <translation><![CDATA[Inicio: 10 de septiembre de 2020]]></translation>
+  </word>
+  <word hash="0b800874a47645dc535bde5006687e85ceae4ae58a19ef5ed454ed4ceeb0b1be" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Current bid: $ 1,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,000.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="0cc9aa0b6a4fa75ac74b2ef059eefb7f0926997cc5f3aa0ba58967bfeb01ae3a" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[COMPUTADORA LAP TOP]]></source>
+    <translation><![CDATA[TOP DE VUELTA COMPUTADORA]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="c92a8a5ba0912c36b383df8dd307d98e5f692a95c17bbc399db4f6da7d5ad180" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Initial Bid: $1,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,500.00]]></translation>
+  </word>
+  <word hash="7d6a2bd122b0bb85295c790036b3a330557b78e6edec627a9b9440aab70bab82" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[subastas@maxilana.com]]></source>
+    <translation><![CDATA[subastas@maxilana.com]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Registrar]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="34e6faf15abddcd4b73e84117be7debf724f4ab10110bbef9fc5c6ed7eb0da60" date="2020-09-04T18:36:13+01:00">
+    <source><![CDATA[Terms and Conditions]]></source>
+    <translation><![CDATA[Términos y Condiciones]]></translation>
+  </word>
+  <word hash="af9efbd98bdfa2c71964afdbdef129d0cdeeaec6e24bdee1d7b59305ad0e2665" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Hover Gt Vento con Casco y Maleta]]></source>
+    <translation><![CDATA[Hover Gt Vento con Casco y Maleta]]></translation>
+  </word>
+  <word hash="eece43cdea570348c92bf653f298197bfbde1897c2cd47603f354591e48878e1" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Patineta eléctrica, soporta hasta 110 kg y alcanza una velocidad máxima de 12 Km/h, autonomía de 20 Km con un peso promedio de 75-80 kg. Tiempo de carga de 1 a 2 horas]]></source>
+    <translation><![CDATA[Patineta eléctrica, soporta hasta 110 kg y alcanza una velocidad máxima de 12 Km / h, autonomía de 20 Km con un peso de 75-80 kg. Tiempo de carga de 1 a 2 horas]]></translation>
+  </word>
+  <word hash="836806e94569494d080e6f0fc680a834933b1872b1bdee5836cf39ca0f08813c" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[RELOJ GUESS.]]></source>
+    <translation><![CDATA[RELOJ ADIVINA.]]></translation>
+  </word>
+  <word hash="c5d24e25b54d68597b4afe72031b1f59120a619f3048aefcc38c0c87bb89966e" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Carátula plata, caja en acero, extensible azul, 45 mm de diámetro. CON ESTUCHE.]]></source>
+    <translation><![CDATA[Carátula plata, caja en acero, extensible azul, 45 mm de diámetro. CON ESTUCHE.]]></translation>
+  </word>
+  <word hash="6bcb4e25577cb797a4cd76419f2760183ebe747963cc73723e10f34f1ac8cd84" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[RELOJ TORY BURCH CHRONÓGRAFO, TODO ACERO.]]></source>
+    <translation><![CDATA[RELOJ TORY BURCH CHRONÓGRAFO, TODO ACERO.]]></translation>
+  </word>
+  <word hash="4cbb71864897bac162b7ae1860adc1102ba4a1a4d8220e9f178c64d66af5fba9" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Initial Bid: $1,200.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,200.00]]></translation>
+  </word>
+  <word hash="690d63d9a05498ac66fe8d5a3d7954cf839a267fb0ac53e2ccf548492c62a6ed" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Carátula blanca, referencia TBW1252, fechador a las 3:00 hrs. 38 mm de diámetro. CON ESTUCHE.]]></source>
+    <translation><![CDATA[Carátula blanca, referencia TBW1252, fechador a las 3:00 hrs. 38 mm de diámetro. CON ESTUCHE.]]></translation>
+  </word>
+  <word hash="e0dccd72bb2927500cff46f11d705cfc53cd8e5212ec05589f24a4867b41975c" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Galaxy Tab A, pantalla de 10.1", procesador Octa Core de 64 bit, cámara de 8mp, memoria de 32gb y 2gb de ram.]]></source>
+    <translation><![CDATA[Galaxy Tab A, pantalla de 10.1 ", procesador Octa Core de 64 bit, cámara de 8mp, memoria de 32gb y 2gb de ram.]]></translation>
+  </word>
+  <word hash="f2c42edcb79f505ddc1f84f35016fe455dcd6ff65296c8d0dbf0937160db3e98" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Initial Bid: $2,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,000.00]]></translation>
+  </word>
+  <word hash="3515c4f51778bd4728b38ae1ca562090c59c49cba0f24bea095183dec6d53b39" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[HP PAVILION, Pantalla de 14"  procesador AMD A10, 16gb de ram, 1tb de disco duro Modelo RTL8723BE.]]></source>
+    <translation><![CDATA[HP PAVILION, Pantalla de 14 "procesador AMD A10, 16gb de ram, 1tb de disco duro Modelo RTL8723BE.]]></translation>
+  </word>
+  <word hash="cfca3bf1670b385dc57c4da59776f663e52f1d7a9121db97f57e591625465466" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Current bid: $ 3,700.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,700.00]]></translation>
+  </word>
+  <word hash="1fe0449922e02c9e80ed766fc6c96a3461aacfb381301990593eb97f4b11c81b" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[RELOJ BULOVA SPORT CHRONÓGRAFO, 98A192.]]></source>
+    <translation><![CDATA[RELOJ BULOVA SPORT CHRONÓGRAFO, 98A192.]]></translation>
+  </word>
+  <word hash="95a454e824c5a0e030d06a3f9f8c45503783e2ac2cb8a1bc9f658bc476e793d8" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Initial Bid: $900.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 900.00]]></translation>
+  </word>
+  <word hash="aaf0f3d90c292828d4d2f8024d73aa4535d8b55f265a52054dcc771eedb0e777" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Carátula negra, manecillas y número en blanco, bisel giratorio, extensible de caucho, caja acero con recubrimiento PVD rosa, movimiento cuarzo, 44mm de diámetro, referencia 24094620. CON ESTUCHE.]]></source>
+    <translation><![CDATA[Carátula negra, manecillas y número en blanco, bisel giratorio, extensible de caucho, caja acero con recubrimiento PVD rosa, movimiento cuarzo, 44mm de diámetro, referencia 24094620. CON ESTUCHE.]]></translation>
+  </word>
+  <word hash="a7f18e8cada8b2b86329f42e1497346d5949f401a927a11ce0216802b834969a" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Current bid: $ 1,400.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,400.00]]></translation>
+  </word>
+  <word hash="60201f8eabe194ddda36a576b48d66d64eeea67d763e9e6beec3183a6041ddb7" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[HP Pavilion, procesador AMD Vision A6-5200, sistema operativo de 64 bits, 8gb de ram y 700 gb de disco duro, Pantalla 14" Modelo 14-N007LA]]></source>
+    <translation><![CDATA[HP Pavilion, procesador AMD Vision A6-5200, sistema operativo de 64 bits, 8gb de ram y 700 gb de disco duro, Pantalla 14 "Modelo 14-N007LA]]></translation>
+  </word>
+  <word hash="e60ff3516632f435189f911fd572f8a28fa3076b31e74667dd753d9e310fff69" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Current bid: $ 2,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,000.00]]></translation>
+  </word>
+  <word hash="4c3f12e01156889aef9f8773f445ffab219a3850636953e454dec6faf3d2a092" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[NINTENDO SWITCH]]></source>
+    <translation><![CDATA[INTERRUPTOR NINTENDO]]></translation>
+  </word>
+  <word hash="0ca11d7ba263828c0638bbfed9d57e4f99ee2c9b13fb16c678b57bf5e3a23233" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Initial Bid: $2,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,500.00]]></translation>
+  </word>
+  <word hash="bd29044dbbe670f79a87606e6461dabddba28b1f1c6644635220e5defc452989" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Consola Nintendo Switch Neón, de 32GB, versión 1.1, standard edition, con juego Super Mario Bros.U DELUXE]]></source>
+    <translation><![CDATA[Consola Nintendo Switch Neón, de 32GB, versión 1.1, edición estándar, con juego Super Mario Bros.U DELUXE]]></translation>
+  </word>
+  <word hash="ae82804bc3a33235a28cfd1eb4b3d7529f126358e1ae150c3aba1270639c2302" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Current bid: $ 3,550.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,550.00]]></translation>
+  </word>
+  <word hash="472cf8aca4814c0ea01f5bfb296caf6c03751c228c9cd784ee717d12c6e093aa" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[RELOJ MICHAEL KORS, CHRONOGRAFO, TODO ACERO PVD ROSA.]]></source>
+    <translation><![CDATA[RELOJ MICHAEL KORS, CRONOGRAFO, TODO ACERO PVD ROSA.]]></translation>
+  </word>
+  <word hash="95a454e824c5a0e030d06a3f9f8c45503783e2ac2cb8a1bc9f658bc476e793d8" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Initial Bid: $900.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 900.00]]></translation>
+  </word>
+  <word hash="951ac74397fc6dd9af71ea793d8920ffe9d8be6863e53e5ce5d510f2efb406eb" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Carátula rosa, fechador a las 6:00 hrs. 39 mm de diámetro, referencia MK-5569. CON ESTUCHE.]]></source>
+    <translation><![CDATA[Carátula rosa, fechador a las 6:00 hrs. 39 mm de diámetro, referencia MK-5569. CON ESTUCHE.]]></translation>
+  </word>
+  <word hash="e7561cf10d8c9cba3a1b9be5c62c015e67e886207c6ab90a496eac762f88225f" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[BOCINA HARMAN/KARDON]]></source>
+    <translation><![CDATA[BOCINA HARMAN / KARDON]]></translation>
+  </word>
+  <word hash="72d20b191814802bfa29854f7075467caa208ccd92d96807b3235b20253e571b" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Bocina inalámbrica Harman/Kardon, modelo Omni10+.  Conectividad bluetooth, wifi y auxiliar, 18.1cm de diámetro, color negro. ]]></source>
+    <translation><![CDATA[Bocina inalámbrica Harman / Kardon, modelo Omni10 +. Conectividad bluetooth, wifi y auxiliar, 18.1cm de diámetro, color negro. ]]></translation>
+  </word>
+  <word hash="29ccfe6170d9218dfc15b56a8d3546088467b0e1ba6d63e17aa9b0a376fe04e9" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Current bid: $ 1,001.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,001.00]]></translation>
+  </word>
+  <word hash="e32e6a780b70a337616f7989d5b328ebab4430d7370b64ba0ccb2d5ead34f16d" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[IPAD MINI]]></source>
+    <translation><![CDATA[Ipad mini]]></translation>
+  </word>
+  <word hash="f2c42edcb79f505ddc1f84f35016fe455dcd6ff65296c8d0dbf0937160db3e98" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Initial Bid: $2,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,000.00]]></translation>
+  </word>
+  <word hash="c0ac81d1a9f38dbcdf73f0c5c8bd8649e63f0545a47ab0b295fd1164df27be86" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[iPad Mini 7.9", 64 gb con cable de carga USB-Ligthing y adapatador de corriente USB-Ligthing]]></source>
+    <translation><![CDATA[iPad Mini 7.9 ", 64 gb con cable de carga USB-Ligthing y adapatador de corriente USB-Ligthing]]></translation>
+  </word>
+  <word hash="e60ff3516632f435189f911fd572f8a28fa3076b31e74667dd753d9e310fff69" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Current bid: $ 2,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,000.00]]></translation>
+  </word>
+  <word hash="a42e6ec5230a58aa50388e874e147084e0f50b40e86dd87b7478d63c0e123fbb" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[RELOJ INTELIGENTE SAMSUNG]]></source>
+    <translation><![CDATA[RELOJ INTELIGENTE SAMSUNG]]></translation>
+  </word>
+  <word hash="66c9e4f3c27a7bba36f1d440ddbcdde682b3c1c4cc2f5582461a54b2584ab598" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Pantalla de 1.1" sumer AMOLED, conexión bluetooth, resistente al agua, compatibilidad con android e iOS, color plata.]]></source>
+    <translation><![CDATA[Pantalla de 1.1 "sumergible AMOLED, conexión bluetooth, resistente al agua, compatibilidad con android e iOS, color plata.]]></translation>
+  </word>
+  <word hash="6df812a7a931f47bea602f31a3573d2d739b68501fbdcb107ca39f8dcfe04d11" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[TALADRO/ROTOMARTILLO ]]></source>
+    <translation><![CDATA[TALADRO / ROTOMARTILLO ]]></translation>
+  </word>
+  <word hash="1c982f6b5c482f5c2503f48d4e740af692ce3ffc8430555184ebab738f564fb0" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Marca Milwaukee, Inalámbrico 12v, con estuche y bateria extra.]]></source>
+    <translation><![CDATA[Marca Milwaukee, Inalámbrico 12v, con estuche y bateria extra.]]></translation>
+  </word>
+  <word hash="be835de5ad3a11117962d7e6996535ddd0aca5b965701db8aa7c7ca755033cc9" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Current bid: $ 1,050.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,050.00]]></translation>
+  </word>
+  <word hash="f2c42edcb79f505ddc1f84f35016fe455dcd6ff65296c8d0dbf0937160db3e98" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Initial Bid: $2,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,000.00]]></translation>
+  </word>
+  <word hash="75e1ed15b26c075c84fd0ea2b3bfb5a74be97665e7870be38bbed5019b1b42b0" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Lenovo ideapad 310, procesador intel core i5 6° Generación, 8 Gb de ram, 1 TB de disco duro modelo 80SL pantalla de 14".]]></source>
+    <translation><![CDATA[Lenovo ideapad 310, procesador intel core i5 6 ° Generación, 8 Gb de ram, 1 TB de disco duro modelo 80SL pantalla de 14 ".]]></translation>
+  </word>
+  <word hash="091538531651bc7ee673f472fa18c48a13ea30aab6dcca100a625fcfe34c71ab" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[IPAD PRO]]></source>
+    <translation><![CDATA[IPAD PRO]]></translation>
+  </word>
+  <word hash="b1ade16697a376623f2fbea9773365c71c8c05a2645485c2400dcd9ea9c9fb7b" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Initial Bid: $4,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 4,500.00]]></translation>
+  </word>
+  <word hash="ea438b8989a50ee61970dce29e5ff42e82a6529fa8eaa111954786e8fc21a941" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[iPad Pro 12.9", 64 gb, con cable de carga USB-C y adapatador de corriente USB-C]]></source>
+    <translation><![CDATA[iPad Pro 12.9 ", 64 gb, con cable de carga USB-C y adapatador de corriente USB-C]]></translation>
+  </word>
+  <word hash="57b1681c2416d46c4e1652f8f36c41ce1368eba73aba8e958b03ad52d53a638c" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Current bid: $ 4,501.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,501.00]]></translation>
+  </word>
+  <word hash="69e621d0e782313d9e9204d1cd192219646dae8c750793b065032d3bfcae9d2f" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[TELEVISOR SAMSUNG 65"]]></source>
+    <translation><![CDATA[TELEVISOR SAMSUNG 65 "]]></translation>
+  </word>
+  <word hash="37a4f1d83e1d91e44b99fa79869fd455931a2b9f0fa51c4c486180d2d79d7601" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Initial Bid: $5,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 5,000.00]]></translation>
+  </word>
+  <word hash="18c7e92d8599aa3148f2a3e5084d8347f49a7acfe694e39e40e1093bfce9417a" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Smart TV 65", resolución UHD 4K, con rango 3,840 x 2,160, tecnología UHD Dimming y PurColour.]]></source>
+    <translation><![CDATA[Smart TV 65 ", resolución UHD 4K, con rango 3.840 x 2.160, tecnología UHD Dimming y PurColour.]]></translation>
+  </word>
+  <word hash="137ed75ce746685f080850c6dd8a317e11743f42f29b990234d32c93f22f76d9" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[RELOJ INTELIGENTE APPLE]]></source>
+    <translation><![CDATA[RELOJ INTELIGENTE MANZANA]]></translation>
+  </word>
+  <word hash="0ca11d7ba263828c0638bbfed9d57e4f99ee2c9b13fb16c678b57bf5e3a23233" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Initial Bid: $2,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,500.00]]></translation>
+  </word>
+  <word hash="4684adc2954ef5cda11f3aaf39ba3648d90a20d3712e450252662f5c3e0529a4" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Apple watch Serie 4 caja gris de aluminio, extensible sport blanco, pantalla táctil 40 mm OLED, retina, conectividad wifi, bluetooth 5.0, duración de la bateria 18 hrs. Resistente al agua, sistema operativo watchOS.]]></source>
+    <translation><![CDATA[Apple watch Serie 4 caja gris de aluminio, extensible sport blanco, pantalla táctil 40 mm OLED, retina, conectividad wifi, bluetooth 5.0, duración de la batería 18 hrs. Resistente al agua, sistema operativo watchOS.]]></translation>
+  </word>
+  <word hash="6bba764469aab36fd0ac95b51c8a03b556b0eac9fd0cdd4d85e81a3b00776c63" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Current bid: $ 3,050.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,050.00]]></translation>
+  </word>
+  <word hash="1cb0ba125f84c982b00ba3639cdfb2cee6b70f94b5e0115c045fef607af4f216" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Information]]></source>
+    <translation><![CDATA[Información]]></translation>
+  </word>
+  <word hash="8d6946246dd37b17acf02bf79b9adcfd9f7f2a874c480b82ab8219aab15c35d2" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[
+              Donato Guerra #235 Sur Int. 201 C.P. 80200 ]]></source>
+    <translation><![CDATA[
+              Donato Guerra # 235 Sur Int. 201 CP 80200 ]]></translation>
+  </word>
+  <word hash="19ea7ebabd2f1672ed44a3256e41291ac0ea343e09fa4e6b42f825c0d93eb038" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[
+              Culiacán, Sinaloa]]></source>
+    <translation><![CDATA[
+              Culiacán, Sinaloa]]></translation>
+  </word>
+  <word hash="fe3f3f657e6c3396cfa5e9e145c35209d94f01f22cbd82ead6e486f1fdc9df08" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[
+              México ]]></source>
+    <translation><![CDATA[
+              México ]]></translation>
+  </word>
+  <word hash="3305eb58093dce1796f362abac95c01b9891118812501e09fb0321f60552713c" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Phone:]]></source>
+    <translation><![CDATA[Teléfono:]]></translation>
+  </word>
+  <word hash="53f43fe52d883fc5d081be38f2f81e7b43fe8e5b50cc2d733d68587d8d77b5fd" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[ 52 667 759 35 00]]></source>
+    <translation><![CDATA[ 52 667 759 35 00]]></translation>
+  </word>
+  <word hash="272b12e2d2ca6f0da3b9c0dc31e1b3372b4e4a67f50581e5fa67a09ba0cfa347" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[ 52 800 215 15 15]]></source>
+    <translation><![CDATA[ 52 800 215 15 15]]></translation>
+  </word>
+  <word hash="17507dcf845793fab0da66594804a4ca956ba284bcf36f4cef09e0a0a50c421a" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Email:]]></source>
+    <translation><![CDATA[Email:]]></translation>
+  </word>
+  <word hash="b24be634fa84bd4446d87fbabbf93f88b125deab5b3e55afa88a9086be45f67d" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Useful Links]]></source>
+    <translation><![CDATA[Enlaces de interés]]></translation>
+  </word>
+  <word hash="9f289511d23c8891e07476bbd2bc6a04b89d7c0e373065732fccc7e8d4e95b71" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[
+          © 2020 Derechos de autor. All Rights Reserved
+        ]]></source>
+    <translation><![CDATA[© 2020 Derechos de autor. Todos los derechos reservados]]></translation>
+  </word>
+  <word hash="0b5a87a9c6caa1dded6b0f51f0f23d0354b2a7928139b3e43a13485b1d6808c4" date="2020-09-04T18:36:14+01:00">
+    <source><![CDATA[Current bid: $ 5,500.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 5,500.00]]></translation>
+  </word>
+  <word hash="bfab9830bf02025d2d17b1d50531f588a59eaf897b7466f0ef1ca9fa0f85b13f" date="2020-09-04T18:36:47+01:00">
+    <source><![CDATA[52 667 759 35 00]]></source>
+    <translation><![CDATA[52 667 759 35 00]]></translation>
+  </word>
+  <word hash="b6510b6f67972b73d7a2ef13015b6934d0c6d8702a3336aef0e9fe146ed1930d" date="2020-09-04T18:36:47+01:00">
+    <source><![CDATA[52 800 215 15 15]]></source>
+    <translation><![CDATA[52 800 215 15 15]]></translation>
+  </word>
+  <word hash="bfab9830bf02025d2d17b1d50531f588a59eaf897b7466f0ef1ca9fa0f85b13f" date="2020-09-04T18:36:47+01:00">
+    <source><![CDATA[52 667 759 35 00]]></source>
+    <translation><![CDATA[52 667 759 35 00]]></translation>
+  </word>
+  <word hash="b6510b6f67972b73d7a2ef13015b6934d0c6d8702a3336aef0e9fe146ed1930d" date="2020-09-04T18:36:47+01:00">
+    <source><![CDATA[52 800 215 15 15]]></source>
+    <translation><![CDATA[52 800 215 15 15]]></translation>
+  </word>
+  <word hash="cc00a2ae7a6ce9f9822541db223caaa7d3c2a8d474a940c13e939a0ba071c37d" date="2020-09-04T18:37:43+01:00">
+    <source><![CDATA[Current bid: $ 2,700.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,700.00]]></translation>
+  </word>
+</translations>

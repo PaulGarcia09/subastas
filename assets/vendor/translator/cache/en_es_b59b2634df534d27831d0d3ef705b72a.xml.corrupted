@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="es" domain="b59b2634df534d27831d0d3ef705b72a" scope="/?fbclid=IwAR1q9kVrakDrCgf2Ikg0fMChe5N0VPrLZvklWPokbLWqXKu0dBKWeYLTThU">
+  <word hash="50c21870e6a9fac83d16c444cf1de29007822eb4e7295813d1fb0c6ba68a4591" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Subastas Maxilana | Inicio]]></source>
+    <translation><![CDATA[Subastas Maxilana | Inicio]]></translation>
+  </word>
+  <word hash="58fcc9468fe1f60716a71caef50fce70a6d2d46f7a2c0d0f45f1f76dc7779625" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Inicio]]></source>
+    <translation><![CDATA[Inicio]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="1677ae1e5ff5f8b43056c877a95b340feb0db14cf1ce7d3be787139c5f96f27e" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[
+Registrarse]]></source>
+    <translation><![CDATA[
+Registrarse]]></translation>
+  </word>
+  <word hash="771b96b0812dd393ffeac789c2b8da1b78c20530a7365dd8181b1e3580db063f" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Contacto]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="dc7ababc44cc963507b77a4d8b55712ebb0565e0508615ab90a5f76ce96d4ee9" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Catálogo]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="8d518bb65ea3dedb5250e357ef5d2ea42c178c140f655b95f7b610835f72f3d0" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Iniciar sesión]]></source>
+    <translation><![CDATA[Iniciar Sesión]]></translation>
+  </word>
+  <word hash="aeccae342e4bd0a70ded84675569da91c5efb3894e35929cafd851cda763a6aa" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Cerrar]]></source>
+    <translation><![CDATA[Cerrar]]></translation>
+  </word>
+  <word hash="21dbd5484ef480fa598c005895904d8be90a28b918ccf1b1409c4a1f8c08167d" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Relojes y Joyería Fina]]></source>
+    <translation><![CDATA[Relojes y Joyería Fina]]></translation>
+  </word>
+  <word hash="6eae7dcace72df6528093eecf125e1ba630f556c195e9178ebd9da893a92b7ac" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Live streaming: December 03, 2020]]></source>
+    <translation><![CDATA[Transmisión en vivo: 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="21dbd5484ef480fa598c005895904d8be90a28b918ccf1b1409c4a1f8c08167d" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Relojes y Joyería Fina]]></source>
+    <translation><![CDATA[Relojes y Joyería Fina]]></translation>
+  </word>
+  <word hash="9faaa0690086c053849476bffc26d7aebee582d0e45aac36616eb71022ee0cc6" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Próximas subastas]]></source>
+    <translation><![CDATA[Próximas subastas]]></translation>
+  </word>
+  <word hash="21dbd5484ef480fa598c005895904d8be90a28b918ccf1b1409c4a1f8c08167d" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Relojes y Joyería Fina]]></source>
+    <translation><![CDATA[Relojes y Joyería Fina]]></translation>
+  </word>
+  <word hash="b4d741557b6ca139f39c93cf12606dd91364637f649f40f96b482b0195a3fdf8" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ Live Streaming]]></source>
+    <translation><![CDATA[Transmisión en vivo]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="1a1775abc509c4ceb7452a1826c102b00c76ed1966e73ec571ee1b24f0ce5a91" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ Ver catálogo]]></source>
+    <translation><![CDATA[ Ver catálogo]]></translation>
+  </word>
+  <word hash="6125ddde2618364d4af0470afdf10c074ce0607ea51696039ba87c22ec019f23" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Descargar catálogo]]></source>
+    <translation><![CDATA[Descargar catálogo]]></translation>
+  </word>
+  <word hash="c95fb01eb861b25555430e67e85c54e970b74fdf50496edddd320b9799bd89fc" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Pre ofertas en lotes]]></source>
+    <translation><![CDATA[Pre ofertas en lotes]]></translation>
+  </word>
+  <word hash="9caa0c11bdee575d5ed3b90613d1b0b00853408f7ba81d3b09c34e9c400500f2" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ARTESANÍA]]></source>
+    <translation><![CDATA[ARTESANÍA]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="ff526614074ac90d83766c05d2e08a6f1f653c79893e657622b778ff51c51ce1" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $100.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 100.00]]></translation>
+  </word>
+  <word hash="9caa0c11bdee575d5ed3b90613d1b0b00853408f7ba81d3b09c34e9c400500f2" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ARTESANÍA]]></source>
+    <translation><![CDATA[ARTESANÍA]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="56c9dfbe5a8fdeb41e64cc72cdb2aff887d4744ceb374911e363c801099ceaff" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 600.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 600.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="b89e41d8103358ebdcf0534cf32332ec701d6c11db90f8c6682b92a38a5ae276" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[CADENA Y DIJE EN ORO BLANCO DE 14K, CON 66 DIAMANTES.]]></source>
+    <translation><![CDATA[CADENA Y DIJE EN ORO BLANCO DE 14K, CON 66 DIAMANTES.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="ab8650ab05abb7366edf64d62a0f91588fb16e252d6813dc3cd0931140545a20" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $3,300.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 3,300.00]]></translation>
+  </word>
+  <word hash="4de82afa41dd8870995956550413083d14014f93bf2bed2ece2a3578303ffc53" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Diseño americano, los brillantes en corte completo, baguette y trapecio, ligero color, con inclusiones, peso aprox. en conjunto 0.50 Qte. 3.6 grs, medida 52 cm.]]></source>
+    <translation><![CDATA[Diseño americano, los brillantes en corte completo, baguette y trapecio, ligero color, con inclusiones, peso aprox. en conjunto 0.50 Qte. 3,6 grs, medida 52 cm.]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="94dd537bb87d7a3ae1a4ffa30579353065551889d507f02c7ff20844dee0e0f9" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 3,900.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,900.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="ef50e15840d387d3a20dcac5b44037daef55ef5cb3dd7dc5c54cb5deaa8126f9" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[PAR DE ARETES CON BRILLANTES, ORO DE 14K.]]></source>
+    <translation><![CDATA[PAR DE ARETES CON BRILLANTES, ORO DE 14K.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="37a4f1d83e1d91e44b99fa79869fd455931a2b9f0fa51c4c486180d2d79d7601" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $5,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 5,000.00]]></translation>
+  </word>
+  <word hash="9890eaa88b8ced44edc5553ceb38704526e8e3f6870b6731191282704c045f8d" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Montado pavé, 68 diamantes corte 8x8, color J-K, claridad SI, peso aprox. en conjunto 0.68 Qte., peso total 5.4 grs.]]></source>
+    <translation><![CDATA[Montado pavé, 68 diamantes corte 8x8, color JK, claridad SI, peso aprox. en conjunto 0.68 Qte., peso total 5.4 grs.]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="8ad786057cffaa7d7d57f3fe06c939792e77b2eb9bad83d7abbe9ce961a2a7f1" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 5,400.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 5,400.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="750d64b9cfc5cd48fe4b1c3215e25e913a934bfbd2757c9da057cfad4cc70c11" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ESCLAVA EN ORO BLANCO DE 18K, CON 15 DIAMANTES.]]></source>
+    <translation><![CDATA[ESCLAVA EN ORO BLANCO DE 18K, CON 15 DIAMANTES.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="0f1b700973a9f8da06effa24c14897284d184ab6e603c089034db6caa480b7fe" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $2,700.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,700.00]]></translation>
+  </word>
+  <word hash="c23390df4ba35e437974f649452f6b22b713f84704674328193f8c92d5174f27" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Diseño moderno de eslabones con los diamantes incrustados en la placa, en corte completo, ligero color, ligeras inclusiones, peso aprox. en conjunto 0.30 Qte. 3.0 grs, medida 17.5 cm.]]></source>
+    <translation><![CDATA[Diseño moderno de eslabones con los diamantes incrustados en la placa, en corte completo, ligero color, ligeras inclusiones, peso aprox. en conjunto 0.30 Qte. 3,0 grs, medida 17,5 cm.]]></translation>
+  </word>
+  <word hash="fd814e65dfa755b5b85067d54fcc576d14de61c9e7c74ce8584eb2848d5bbfab" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Live streaming:]]></source>
+    <translation><![CDATA[Transmisión en vivo:]]></translation>
+  </word>
+  <word hash="7f6011a7fca4e5bdf387c55bac9d730277e4d9cc27906374035089b857ef3700" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ December 03, 2020]]></source>
+    <translation><![CDATA[ 03 de diciembre de 2020]]></translation>
+  </word>
+  <word hash="04b2903dfb8a4bfbedbbdb4f340664e530c9110e9fd2a9946fac09055db2cf53" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 3,600.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,600.00]]></translation>
+  </word>
+  <word hash="5b84d6498f2f8226f69db459f5f2b0a6e0a47ea328c9b996a67c90e57c2bec77" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[ BID]]></source>
+    <translation><![CDATA[ OFERTA]]></translation>
+  </word>
+  <word hash="4ac618d07777221c95c36aac69b99dd7dcbefd4af3e211795ec31b64574ae505" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[10 MEDALLAS EN PLATA LEY .925 CHARROS MEXICANO, ASOCIACIONES CHARROS NACIONAL Y PACHUCA, EDICIÓN 1976.]]></source>
+    <translation><![CDATA[10 MEDALLAS EN PLATA LEY .925 CHARROS MEXICANO, ASOCIACIONES CHARROS NACIONAL Y PACHUCA, EDICIÓN 1976.]]></translation>
+  </word>
+  <word hash="d61c758d6cebeeb82cb0ed1caf8894d352b1c29504abef703a48d47f3b43e2d1" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Lot number:]]></source>
+    <translation><![CDATA[Numero de lote:]]></translation>
+  </word>
+  <word hash="ab8650ab05abb7366edf64d62a0f91588fb16e252d6813dc3cd0931140545a20" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $3,300.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 3,300.00]]></translation>
+  </word>
+  <word hash="ae03fb59dfb53794f70bbbab064a90faea1dacc5b1bf54fd0808e6a374270420" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Las principales suertes charras, con descripciones al reverso, acabado mate y espejo, peso total 403.7 grs. CON ESTUCHE.]]></source>
+    <translation><![CDATA[Las principales suertes charras, con descripciones al reverso, acabado mate y espejo, peso total 403.7 grs. CON ESTUCHE.]]></translation>
+  </word>
+  <word hash="cfca3bf1670b385dc57c4da59776f663e52f1d7a9121db97f57e591625465466" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 3,700.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,700.00]]></translation>
+  </word>
+  <word hash="b62debdb8de9098a287ba4df92c4ed204ecefda7606fe71861cd72398036f5cb" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[COLLAR FIRMA MONTBLANC COLECCIÓN STAR SIGNET, EN PLATA 925.]]></source>
+    <translation><![CDATA[COLLAR FIRMA MONTBLANC COLECCIÓN STAR SIGNET, EN PLATA 925.]]></translation>
+  </word>
+  <word hash="5b7bef7ec345228e1e906447e8a2e4dc74664539d0770c13a4dcba1a68c5bb6e" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $4,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 4,000.00]]></translation>
+  </word>
+  <word hash="f735d7b545f6de8962b8aaca2ddeb3602ec17d452fb82fd6be05fce7087da52e" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Estrella en madre perla giratoria, presenta contrastes de calidad, cuenta con estuche, funda original y certificado de autenticidad. 28.6 grs, medida 42 cm.]]></source>
+    <translation><![CDATA[Estrella en madre perla giratoria, presenta contrastes de calidad, cuenta con estuche, funda original y certificado de autenticidad. 28,6 grs, medida 42 cm.]]></translation>
+  </word>
+  <word hash="0fcc403d2c62d34ef2726c1a94593d20c10828a33b1c8844183f48307243ba46" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 4,200.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 4,200.00]]></translation>
+  </word>
+  <word hash="2c75d50295c2e8b52e6c4c7f67a7a532f901416e33e991bc5431cdc2c7b4f802" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[PAR DE ARRACADAS FIRMA TEMPLE ST. CLAIR, ORO 18K Y 32 ESMERALDAS.]]></source>
+    <translation><![CDATA[PAR DE ARRACADAS FIRMA TEMPLE ST. CLAIR, ORO 18K Y 32 ESMERALDAS.]]></translation>
+  </word>
+  <word hash="eb2eb69f1807f8228079a7747bd49508ff299c97f54b9220c57100b80fd67a95" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $6,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 6,000.00]]></translation>
+  </word>
+  <word hash="57cc74654505f9eb95d4fc18899b0e4e0f70e78f2899629b0efddaba41303112" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Versión “Eternidad”, las gemas en corte redondo selección graduada (de menor a mayor), de muy buen color, peso aprox. 1.85 Quilates, montado emboquillada. Peso 6.7 grs.]]></source>
+    <translation><![CDATA[Versión “Eternidad”, las gemas en corte redondo selección graduada (de menor a mayor), de muy buen color, peso aprox. 1.85 Quilates, montado emboquillada. Peso 6,7 grs.]]></translation>
+  </word>
+  <word hash="12231f9265f4fb11202f387b2a9095c11d6e1ba3a5ed5c52d3609b4b26cb4f54" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 7,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 7,000.00]]></translation>
+  </word>
+  <word hash="165d49a88ec8dfe324c492879fee53dcf112004249b20b5c3ebbf9bad0af114d" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[BOLÍGRAFO FIRMA MONTBLANC, COLECCIÓN STARWALKER DOUÉ.]]></source>
+    <translation><![CDATA[BOLÍGRAFO FIRMA MONTBLANC, COLECCIÓN STARWALKER DOUÉ.]]></translation>
+  </word>
+  <word hash="417364808259188b59063c50a08dd465689743b29742dbd42a3959b73c98c6d3" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $2,200.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,200.00]]></translation>
+  </word>
+  <word hash="dab3310a0fd00bb251b0ec3a3ad1a1e4ed8cd13b0e1b255a983a01363ceb8d8e" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[En resina negra y acero pulido, en guilloché, estrella Montblanc flotante en el capuchón transparente. Serie KR2198XXX, CON ESTUCHE ORIGINAL.]]></source>
+    <translation><![CDATA[En resina negra y acero pulido, en guilloché, estrella Montblanc flotante en el capuchón transparente. Serie KR2198XXX, CON ESTUCHE ORIGINAL.]]></translation>
+  </word>
+  <word hash="2ce71bd0c159e1cf731ef1a7b8524739eb0a5ea8fddabf1ae04841f63f2fdfa1" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[COLLAR EN PLATA STERLING .925 CON SIETE TURQUESAS, AÑOS 70´S.]]></source>
+    <translation><![CDATA[COLLAR EN PLATA ESTERLINA .925 CON SIETE TURQUESAS, AÑOS 70´S.]]></translation>
+  </word>
+  <word hash="c92a8a5ba0912c36b383df8dd307d98e5f692a95c17bbc399db4f6da7d5ad180" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $1,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 1,500.00]]></translation>
+  </word>
+  <word hash="1e5954741ad1b98a6683ba661477103e752030a95ef82872345d6973474694d1" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[De buen color, sobresaliendo inclusiones de pirita y calcita, montadas en medallones (adaptados a su talla), y un total de 52 eslabones. Con broche de gancho y contraste de ley. Peso 111.3 grs. Medida 50 cm.]]></source>
+    <translation><![CDATA[De buen color, sobresaliendo inclusiones de pirita y calcita, montadas en medallones (adaptados a su talla), y un total de 52 eslabones. Con broche de gancho y contraste de ley. Peso 111,3 grs. Medida 50 cm.]]></translation>
+  </word>
+  <word hash="d691787b8972033d219774622aa685071ccb4a6a5a758180f94f4ce97acee78e" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 0.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 0.00]]></translation>
+  </word>
+  <word hash="0ca11d7ba263828c0638bbfed9d57e4f99ee2c9b13fb16c678b57bf5e3a23233" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $2,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,500.00]]></translation>
+  </word>
+  <word hash="aa14cfd7436b21a6d1e962153feab6c802216527eeaf0b16a0dd73fa62d0a4fb" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[En corte completo, ligero color, ligeras inclusiones peso aprox. en conjunto 0.77 Qte, medida #8, peso 2.0 grs.]]></source>
+    <translation><![CDATA[En corte completo, color ligero, ligeras inclusiones peso aprox. en conjunto 0.77 Qte, medida # 8, peso 2.0 grs.]]></translation>
+  </word>
+  <word hash="0156b5ea28250dc4506bc0a66c94b2dd606b549592e818bea60a5971be24a194" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 3,100.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,100.00]]></translation>
+  </word>
+  <word hash="aa2dfcbed5ea7149a6403d7da6827a51bb81f15fe5de9ec54afe48d8acb879d4" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[PAR DE BROQUELES FIRMA TOUS, COLECCIÓN BEAR.]]></source>
+    <translation><![CDATA[PAR DE BROQUELES FIRMA TOUS, COLECCIÓN BEAR.]]></translation>
+  </word>
+  <word hash="0ca11d7ba263828c0638bbfed9d57e4f99ee2c9b13fb16c678b57bf5e3a23233" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $2,500.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 2,500.00]]></translation>
+  </word>
+  <word hash="650c94d0040e5bc15ddc267edc78a2992d4e4bddacf38133035ba94df87d66b5" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Peso 1.6 grs, oro 18k.]]></source>
+    <translation><![CDATA[Peso 1.6 grs, oro 18k.]]></translation>
+  </word>
+  <word hash="1a0648acbaf0aeaf488aa31a7d233f380031ba63fc967118ad011777dff541bc" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 2,900.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,900.00]]></translation>
+  </word>
+  <word hash="f28eef964969b83d61b3b89dcb50620ddc9d815fa049cd51c21ace01601db9fc" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[PLUMA ROLLERBALL FIRMA MONTBLANC, COLECCIÓN STARWALKER MIDNIGHT.]]></source>
+    <translation><![CDATA[PLUMA ROLLERBALL FIRMA MONTBLANC, COLECCIÓN STARWALKER MIDNIGHT.]]></translation>
+  </word>
+  <word hash="7a7b9758056cc644efbc1163efe4f88862dcd95eff54e9b76210591c4b20bf0b" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[En resina negra y acabados en rutenio, emblema Montblanc flotante. Serie KW1509XXX.]]></source>
+    <translation><![CDATA[En resina negra y acabados en rutenio, emblema Montblanc flotante. Serie KW1509XXX.]]></translation>
+  </word>
+  <word hash="95c6dddb56c5635e5b2bd6af77358fd02a669e7e63d1445b0a30fde8dac76df0" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 3,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 3,000.00]]></translation>
+  </word>
+  <word hash="f6d68daf0077d5b5fcc366fb6bf1ae8356900d9d4d0b2eb5ffeae96fe9a432ce" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[COLLAR FIRMA TEMPLE ST. CLAIR, ORO 18K Y ZAFIROS NATURALES "MULTICOLOR"]]></source>
+    <translation><![CDATA[COLLAR FIRMA TEMPLO ST. CLAIR, ORO 18K Y ZAFIROS NATURALES "MULTICOLOR"]]></translation>
+  </word>
+  <word hash="f127d82db6c3207729bf0813ebbaa9f260d5c51cb33faf87bf63b98be90316eb" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $12,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 12,000.00]]></translation>
+  </word>
+  <word hash="f21877d25448578826d99f6f03bd09590f34e75b5e4698ed0f946a120bd0b8cd" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Todos en talla redonda, de colores: naranja, rosa, amarillo, verde y azul de claridad casi limpios y muy ligeras inclusiones, peso aprox. 23 Qte., con montaduras tipo gitana bisel, unidos por slabones, cuenta con su dije identificador de marca. Gramos 16. Largo 60 cm.]]></source>
+    <translation><![CDATA[Todos en talla redonda, de colores: naranja, rosa, amarillo, verde y azul de claridad casi limpios y muy ligeras inclusiones, peso aprox. 23 Qte., Con montaduras tipo gitana bisel, unidos por slabones, cuenta con su dije identificador de marca. Gramos 16. Largo 60 cm.]]></translation>
+  </word>
+  <word hash="87e46b77aa6138b525682d691447812e1b6251a8c9afe6c5a8e3d9a10d2e3d63" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 12,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 12,000.00]]></translation>
+  </word>
+  <word hash="b60a37dcef46659be8fde965abc85a50c62e11a34ea369403ea13f5a2c38fbc5" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[PAR DE ARETES ORO DE 14K, DISEÑO TRIANGULAR CON TANZANITAS Y DIAMANTES.]]></source>
+    <translation><![CDATA[PAR DE ARETES ORO DE 14K, DISEÑO TRIANGULAR CON TANZANITAS Y DIAMANTES.]]></translation>
+  </word>
+  <word hash="fc268b6b367e7d05dde74ada42470b90d91075a75870a09850085da14417db5f" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $4,800.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 4,800.00]]></translation>
+  </word>
+  <word hash="71ba7b677e2d3126edcb91e9259c45ca1ea1258b6f93cac9909eed9eb32f52ed" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Las dos gemas principales en corte trillante de muy buena calidad p.a. 2.00 Qte. y los 28 diamantes en corte completo, color I-J, claridad VS y SI, peso aprox. en conjunto 0.65 Qte. 6.1 grs.]]></source>
+    <translation><![CDATA[Las dos gemas principales en corte trillante de muy buena calidad pa 2.00 Qte. y los 28 diamantes en corte completo, color IJ, claridad VS y SI, peso aprox. en conjunto 0.65 Qte. 6,1 grs.]]></translation>
+  </word>
+  <word hash="bcdebb9b0f405150c8fae292a1270096c57c36cfef5dac3b2add228b56ee9453" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[RELOJ TAG HEUER FORMULA 1, TODO ACERO, MAQ. DE CUARZO.]]></source>
+    <translation><![CDATA[RELOJ TAG HEUER FÓRMULA 1, TODO ACERO, MAQ. DE CUARZO.]]></translation>
+  </word>
+  <word hash="686923a1aa4c18f1498a54473d5c2bb058671f4d833daff9ccf590d4bb4d32d7" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $10,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 10,000.00]]></translation>
+  </word>
+  <word hash="725cc169e37429e3f209dfcd3478cca2e7efe2b80c706c24c1048df1b2c60d07" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Caja de 41mm, Ref. waz1111,  serie WKC5XXX, manecillas luminiscentes, carátula blanca,  bisel giratorio, extensible acero con cierre desplegable, medida 18 cm. ]]></source>
+    <translation><![CDATA[Caja de 41mm, Ref. waz1111, serie WKC5XXX, manecillas luminiscentes, carátula blanca, bisel giratorio, acero extensible con cierre desplegable, medida 18 cm. ]]></translation>
+  </word>
+  <word hash="2b651d4ea4e388662b038a6317940a40df6a7be59d937e2babb63b46f9770307" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 10,000.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 10,000.00]]></translation>
+  </word>
+  <word hash="22a7f4c7e30ccb0559bc2bae73a2b2cd280aa6b02e2c16ccbe3a6255ed841e7d" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[CADENA Y DIJE EN ORO BLANCO DE 18K, CON 15 RUBÍES Y 3 DIAMANTES.]]></source>
+    <translation><![CDATA[CADENA Y DIJE EN ORO BLANCO DE 18K, CON 15 RUBÍES Y 3 DIAMANTES.]]></translation>
+  </word>
+  <word hash="b58473833a2e782f927e56d608cff4012faa8ea766edfa736f6e7bb774cb8748" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Estilo elegante en una línea, los diamantes corte completo, color J-K, claridad SI, peso aprox. en conjunto 0.03 Qte. alternados con los rubíes en corte princesa cuadrillón de buen color, peso aprox. en conjunto 0.35 Qte. Peso 4.8 grs, Medida 40 cm.]]></source>
+    <translation><![CDATA[Estilo elegante en una línea, los diamantes corte completo, color JK, claridad SI, peso aprox. en conjunto 0.03 Qte. alternados con los rubíes en corte princesa cuadrillón de buen color, peso aprox. en conjunto 0.35 Qte. Peso 4.8 grs, Medida 40 cm.]]></translation>
+  </word>
+  <word hash="77cfdea7e07402f903c4e647e533f60af58134ab6f38dff39bedda7fcc142dfa" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[CUADRO]]></source>
+    <translation><![CDATA[CUADRO]]></translation>
+  </word>
+  <word hash="77cfdea7e07402f903c4e647e533f60af58134ab6f38dff39bedda7fcc142dfa" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[CUADRO]]></source>
+    <translation><![CDATA[CUADRO]]></translation>
+  </word>
+  <word hash="50ae54d100e317540a9b6ec73edf1fd89245f02378f69be1ffe674c6fda4a422" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Current bid: $ 500.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 500.00]]></translation>
+  </word>
+  <word hash="469f3425365d79806ed3e610598f735e637c83303221876f54ea9dca96a7b231" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[JUEGO DE COLLAR CON PENDIENTE Y BROQUELES, ORO BLANCO 14K CON TURMALINAS Y DIAMANTES.]]></source>
+    <translation><![CDATA[JUEGO DE COLLAR CON PENDIENTE Y BROQUELES, ORO BLANCO 14K CON TURMALINAS Y DIAMANTES.]]></translation>
+  </word>
+  <word hash="0472ac974b196dd4f5b27782b154fe61016d41f5935cdef0910bea3cf56306e5" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Diseño italiano reciente, las 4 gemas principales (variedad rubelita) en color rosa, talla briolette forma pera, con peso aprox. 6.50 Quilates, con 13 diamantes de corte redondo, color y claridad J-K, SI, peso aprox. 0.20 Qte., peso 7.1 gramos  ]]></source>
+    <translation><![CDATA[Diseño italiano reciente, las 4 gemas principales (variedad rubelita) en color rosa, talla briolette forma pera, con peso aprox. 6.50 Quilates, con 13 diamantes de corte redondo, color y claridad JK, SI, peso aprox. 0.20 Qte., Peso 7.1 gramos]]></translation>
+  </word>
+  <word hash="ab0d96bf3dfdff908e4211ebcd15cfaf3be8df0fc762a2ed0df80e69c1426747" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[BRAZALETE FIRMA TEMPLE ST. CLAIR, ORO 18K, CON 2 PIEDRAS DE LUNA TALLA GOTA CABUJÓN Y 6 DIAMANTES.]]></source>
+    <translation><![CDATA[BRAZALETE FIRMA TEMPLE ST. CLAIR, ORO 18K, CON 2 PIEDRAS DE LUNA TALLA GOTA CABUJÓN Y 6 DIAMANTES.]]></translation>
+  </word>
+  <word hash="638ffd18b850325dde3bd791e6643d8938cc2e96cd1eed2698704092d0f38e7f" date="2020-12-03T05:09:26-07:00">
+    <source><![CDATA[Initial Bid: $14,000.00]]></source>
+    <translation><![CDATA[Oferta inicial: $ 14,000.00]]></translation>
+  </word>
+</translations>

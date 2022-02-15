@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="hi" domain="09033031717d8b0342895980fd2cde3d" scope="/">
+  <word hash="67b2c8d46764ebf83fe82aacf9a3446ab079e8bb6a9cc180da86ca51a3aba438" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Auction Broadcaster]]></source>
+    <translation><![CDATA[नीलामी प्रसारक]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[घर]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[के बारे में]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[रजिस्टर]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[संपर्क]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[सूची]]></translation>
+  </word>
+  <word hash="9d6322c1f4d9d3f38aed8bfbe0b2bcadf66ad82c008476fa62541fa069138e94" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Login]]></source>
+    <translation><![CDATA[लॉगिन]]></translation>
+  </word>
+  <word hash="9c42bea750d3f4be7d4615715bfd75bb9859e1b8626ef6a0b3bf6df1e0ff4c81" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Welcome to Subastas Maxilana]]></source>
+    <translation><![CDATA[Subastas Maxilana में आपका स्वागत है]]></translation>
+  </word>
+  <word hash="c035abb616d11fef1d9c44f35c81562bca219752366c9024194c343a1f623617" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Cerca (Close)]]></source>
+    <translation><![CDATA[सेर्का (बंद)]]></translation>
+  </word>
+  <word hash="9f38ea0020597efa1f8d895346037b5a5b98af5d4ac9ee5e2769e0e85c040cfe" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Upcoming Auctions]]></source>
+    <translation><![CDATA[आगामी नीलामी]]></translation>
+  </word>
+  <word hash="ff56dfda9c23fdd027326f061ee3a8d2e2979729ea795cdfef0ee410b110f0e6" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Prebid on Lots]]></source>
+    <translation><![CDATA[बहुत सारे पर रोक]]></translation>
+  </word>
+  <word hash="d7d50f15942a92af57dc3bef3046cbb6e6c577e1961fc413fa60397860ca9898" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Subastas Maxilana]]></source>
+    <translation><![CDATA[सुबास्तस मैक्सिलाना]]></translation>
+  </word>
+  <word hash="1cb0ba125f84c982b00ba3639cdfb2cee6b70f94b5e0115c045fef607af4f216" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Information]]></source>
+    <translation><![CDATA[सूचना]]></translation>
+  </word>
+  <word hash="8d6946246dd37b17acf02bf79b9adcfd9f7f2a874c480b82ab8219aab15c35d2" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[
+              Donato Guerra #235 Sur Int. 201 C.P. 80200 ]]></source>
+    <translation><![CDATA[
+              डोनटो गुएरा # 235 सुर इंट। 201 सीपी 80200 ]]></translation>
+  </word>
+  <word hash="19ea7ebabd2f1672ed44a3256e41291ac0ea343e09fa4e6b42f825c0d93eb038" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[
+              Culiacán, Sinaloa]]></source>
+    <translation><![CDATA[
+              कलियाकैन, सिनालोआ]]></translation>
+  </word>
+  <word hash="fe3f3f657e6c3396cfa5e9e145c35209d94f01f22cbd82ead6e486f1fdc9df08" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[
+              México ]]></source>
+    <translation><![CDATA[
+              मेक्सिको ]]></translation>
+  </word>
+  <word hash="3305eb58093dce1796f362abac95c01b9891118812501e09fb0321f60552713c" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Phone:]]></source>
+    <translation><![CDATA[फोन:]]></translation>
+  </word>
+  <word hash="53f43fe52d883fc5d081be38f2f81e7b43fe8e5b50cc2d733d68587d8d77b5fd" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[ 52 667 759 35 00]]></source>
+    <translation><![CDATA[ 52 667 759 35 00]]></translation>
+  </word>
+  <word hash="272b12e2d2ca6f0da3b9c0dc31e1b3372b4e4a67f50581e5fa67a09ba0cfa347" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[ 52 800 215 15 15]]></source>
+    <translation><![CDATA[ 52 800 215 15 15]]></translation>
+  </word>
+  <word hash="17507dcf845793fab0da66594804a4ca956ba284bcf36f4cef09e0a0a50c421a" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Email:]]></source>
+    <translation><![CDATA[ईमेल:]]></translation>
+  </word>
+  <word hash="7d6a2bd122b0bb85295c790036b3a330557b78e6edec627a9b9440aab70bab82" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[subastas@maxilana.com]]></source>
+    <translation><![CDATA[subastas@maxilana.com]]></translation>
+  </word>
+  <word hash="b24be634fa84bd4446d87fbabbf93f88b125deab5b3e55afa88a9086be45f67d" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Useful Links]]></source>
+    <translation><![CDATA[उपयोगी कड़ियाँ]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[घर]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[रजिस्टर]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[सूची]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[के बारे में]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[संपर्क]]></translation>
+  </word>
+  <word hash="34e6faf15abddcd4b73e84117be7debf724f4ab10110bbef9fc5c6ed7eb0da60" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Terms and Conditions]]></source>
+    <translation><![CDATA[नियम और शर्तें]]></translation>
+  </word>
+  <word hash="08c3c95f13779675ec4b23c4d9fd434dd75edc179d14c37c2e7512d5b6454dc4" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[
+          © 2020 Copyright. All Rights Reserved
+        ]]></source>
+    <translation><![CDATA[
+          © 2020 कॉपीराइट। सभी अधिकार सुरक्षित
+        ]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[घर]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[के बारे में]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[रजिस्टर]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[संपर्क]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[सूची]]></translation>
+  </word>
+  <word hash="9d6322c1f4d9d3f38aed8bfbe0b2bcadf66ad82c008476fa62541fa069138e94" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Login]]></source>
+    <translation><![CDATA[लॉगिन]]></translation>
+  </word>
+  <word hash="c035abb616d11fef1d9c44f35c81562bca219752366c9024194c343a1f623617" date="2020-08-13T12:07:58-07:00">
+    <source><![CDATA[Cerca (Close)]]></source>
+    <translation><![CDATA[सेर्का (बंद)]]></translation>
+  </word>
+</translations>

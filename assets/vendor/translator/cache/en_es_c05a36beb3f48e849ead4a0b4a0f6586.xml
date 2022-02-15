@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="es" domain="c05a36beb3f48e849ead4a0b4a0f6586" scope="/catalog.php?catdate=2020-08-30">
+  <word hash="67b2c8d46764ebf83fe82aacf9a3446ab079e8bb6a9cc180da86ca51a3aba438" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Auction Broadcaster]]></source>
+    <translation><![CDATA[Locutor de subasta]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Registrar]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="56a9512dbdcda35dc4c1ad4d7863978f57f26dd81fa41dcbb3a26533a11b2913" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Live Auction]]></source>
+    <translation><![CDATA[Subasta en vivo]]></translation>
+  </word>
+  <word hash="4b866721a5ed9db94587a0f40a4cd8e149fabc3f4cc13a49f43f533632e117cb" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[
+                 rosebsi123              ]]></source>
+    <translation><![CDATA[
+                 rosebsi123              ]]></translation>
+  </word>
+  <word hash="ad0187add790ff172be7ea077cabe58ff704c671bafe85b675efdad19e8d32b8" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[My Account]]></source>
+    <translation><![CDATA[Mi Cuenta]]></translation>
+  </word>
+  <word hash="d0527e4b3d658351dae74be7b10c7531a7ac98493c6b257ab62774853bcc74b2" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Logout]]></source>
+    <translation><![CDATA[Salir]]></translation>
+  </word>
+  <word hash="9c42bea750d3f4be7d4615715bfd75bb9859e1b8626ef6a0b3bf6df1e0ff4c81" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Welcome to Subastas Maxilana]]></source>
+    <translation><![CDATA[Bienvenidos a Subastas Maxilana]]></translation>
+  </word>
+  <word hash="ff56dfda9c23fdd027326f061ee3a8d2e2979729ea795cdfef0ee410b110f0e6" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Prebid on Lots]]></source>
+    <translation><![CDATA[Prebid en lotes]]></translation>
+  </word>
+  <word hash="8d2da380af070af76d5cb111856dcde14620ef8dd009a87e25401966e81c3891" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[ Pre-bidding Lots]]></source>
+    <translation><![CDATA[ Lotes de preoferta]]></translation>
+  </word>
+  <word hash="7d9eb7acb13e24625c404401d8e88b2350e32162455885f18276cf802f7701ed" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Close]]></source>
+    <translation><![CDATA[Cerca]]></translation>
+  </word>
+  <word hash="4cece1a754dc96d07dd4b8288de219b1f6dfa00ff0b61e19b8f0fb607341a891" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[No Data Available]]></source>
+    <translation><![CDATA[Datos no disponibles]]></translation>
+  </word>
+  <word hash="67b2c8d46764ebf83fe82aacf9a3446ab079e8bb6a9cc180da86ca51a3aba438" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Auction Broadcaster]]></source>
+    <translation><![CDATA[Locutor de subasta]]></translation>
+  </word>
+  <word hash="1cb0ba125f84c982b00ba3639cdfb2cee6b70f94b5e0115c045fef607af4f216" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Information]]></source>
+    <translation><![CDATA[Información]]></translation>
+  </word>
+  <word hash="8d6946246dd37b17acf02bf79b9adcfd9f7f2a874c480b82ab8219aab15c35d2" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[
+              Donato Guerra #235 Sur Int. 201 C.P. 80200 ]]></source>
+    <translation><![CDATA[
+              Donato Guerra # 235 Sur Int. 201 CP 80200 ]]></translation>
+  </word>
+  <word hash="19ea7ebabd2f1672ed44a3256e41291ac0ea343e09fa4e6b42f825c0d93eb038" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[
+              Culiacán, Sinaloa]]></source>
+    <translation><![CDATA[
+              Culiacán, Sinaloa]]></translation>
+  </word>
+  <word hash="fe3f3f657e6c3396cfa5e9e145c35209d94f01f22cbd82ead6e486f1fdc9df08" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[
+              México ]]></source>
+    <translation><![CDATA[
+              México ]]></translation>
+  </word>
+  <word hash="3305eb58093dce1796f362abac95c01b9891118812501e09fb0321f60552713c" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Phone:]]></source>
+    <translation><![CDATA[Teléfono:]]></translation>
+  </word>
+  <word hash="53f43fe52d883fc5d081be38f2f81e7b43fe8e5b50cc2d733d68587d8d77b5fd" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[ 52 667 759 35 00]]></source>
+    <translation><![CDATA[ 52 667 759 35 00]]></translation>
+  </word>
+  <word hash="272b12e2d2ca6f0da3b9c0dc31e1b3372b4e4a67f50581e5fa67a09ba0cfa347" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[ 52 800 215 15 15]]></source>
+    <translation><![CDATA[ 52 800 215 15 15]]></translation>
+  </word>
+  <word hash="17507dcf845793fab0da66594804a4ca956ba284bcf36f4cef09e0a0a50c421a" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Email:]]></source>
+    <translation><![CDATA[Email:]]></translation>
+  </word>
+  <word hash="7d6a2bd122b0bb85295c790036b3a330557b78e6edec627a9b9440aab70bab82" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[subastas@maxilana.com]]></source>
+    <translation><![CDATA[subastas@maxilana.com]]></translation>
+  </word>
+  <word hash="b24be634fa84bd4446d87fbabbf93f88b125deab5b3e55afa88a9086be45f67d" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Useful Links]]></source>
+    <translation><![CDATA[Enlaces de interés]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Registrar]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="34e6faf15abddcd4b73e84117be7debf724f4ab10110bbef9fc5c6ed7eb0da60" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Terms and Conditions]]></source>
+    <translation><![CDATA[Términos y Condiciones]]></translation>
+  </word>
+  <word hash="08c3c95f13779675ec4b23c4d9fd434dd75edc179d14c37c2e7512d5b6454dc4" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[
+          © 2020 Copyright. All Rights Reserved
+        ]]></source>
+    <translation><![CDATA[
+          © 2020 Copyright. Todos los derechos reservados
+        ]]></translation>
+  </word>
+  <word hash="3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Home]]></source>
+    <translation><![CDATA[Casa]]></translation>
+  </word>
+  <word hash="4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[About]]></source>
+    <translation><![CDATA[Acerca de]]></translation>
+  </word>
+  <word hash="bb7234ec12451361e6f35bcbe76de58e4350657fe60d1b96ace0947f59194083" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Register]]></source>
+    <translation><![CDATA[Registrar]]></translation>
+  </word>
+  <word hash="2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Contact]]></source>
+    <translation><![CDATA[Contacto]]></translation>
+  </word>
+  <word hash="3877d14889a9909b9c6ec38d2390599cdc741b73e37505864863ef8e57fb3594" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Catalog]]></source>
+    <translation><![CDATA[Catálogo]]></translation>
+  </word>
+  <word hash="56a9512dbdcda35dc4c1ad4d7863978f57f26dd81fa41dcbb3a26533a11b2913" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Live Auction]]></source>
+    <translation><![CDATA[Subasta en vivo]]></translation>
+  </word>
+  <word hash="4b866721a5ed9db94587a0f40a4cd8e149fabc3f4cc13a49f43f533632e117cb" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[
+                 rosebsi123              ]]></source>
+    <translation><![CDATA[
+                 rosebsi123              ]]></translation>
+  </word>
+  <word hash="ad0187add790ff172be7ea077cabe58ff704c671bafe85b675efdad19e8d32b8" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[My Account]]></source>
+    <translation><![CDATA[Mi Cuenta]]></translation>
+  </word>
+  <word hash="d0527e4b3d658351dae74be7b10c7531a7ac98493c6b257ab62774853bcc74b2" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Logout]]></source>
+    <translation><![CDATA[Salir]]></translation>
+  </word>
+  <word hash="7d9eb7acb13e24625c404401d8e88b2350e32162455885f18276cf802f7701ed" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Close]]></source>
+    <translation><![CDATA[Cerca]]></translation>
+  </word>
+  <word hash="eb2978a936b36870bafb1de868d0c13604e3de1a7af586916e7210e0e6276034" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[Catalog for August 30, 2020]]></source>
+    <translation><![CDATA[Catálogo para el 30 de agosto de 2020]]></translation>
+  </word>
+  <word hash="fa5546bbbf99451bd0cfd33413008d89c405c17324e9528d632d09184528021e" date="2020-08-07T14:58:28-07:00">
+    <source><![CDATA[ Completed Lots for August 30, 2020 ]]></source>
+    <translation><![CDATA[ Lotes terminados para el 30 de agosto de 2020 ]]></translation>
+  </word>
+  <word hash="9d6322c1f4d9d3f38aed8bfbe0b2bcadf66ad82c008476fa62541fa069138e94" date="2020-08-10T12:27:12-07:00">
+    <source><![CDATA[Login]]></source>
+    <translation><![CDATA[Login]]></translation>
+  </word>
+  <word hash="c035abb616d11fef1d9c44f35c81562bca219752366c9024194c343a1f623617" date="2020-08-10T12:27:12-07:00">
+    <source><![CDATA[Cerca (Close)]]></source>
+    <translation><![CDATA[Cerca (Cerrar)]]></translation>
+  </word>
+  <word hash="d7d50f15942a92af57dc3bef3046cbb6e6c577e1961fc413fa60397860ca9898" date="2020-08-10T12:27:12-07:00">
+    <source><![CDATA[Subastas Maxilana]]></source>
+    <translation><![CDATA[Subastas Maxilana]]></translation>
+  </word>
+  <word hash="9d6322c1f4d9d3f38aed8bfbe0b2bcadf66ad82c008476fa62541fa069138e94" date="2020-08-10T12:27:12-07:00">
+    <source><![CDATA[Login]]></source>
+    <translation><![CDATA[Login]]></translation>
+  </word>
+  <word hash="c035abb616d11fef1d9c44f35c81562bca219752366c9024194c343a1f623617" date="2020-08-10T12:27:12-07:00">
+    <source><![CDATA[Cerca (Close)]]></source>
+    <translation><![CDATA[Cerca (Cerrar)]]></translation>
+  </word>
+</translations>

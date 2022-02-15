@@ -1,0 +1,7 @@
+
+							UPDATE t_lots
+							SET f_primary_image = 'bd44eb171171d0b904af524ef9e151f14a174f62.png'
+							WHERE f_lots_id = '259'
+							;
+						
+						

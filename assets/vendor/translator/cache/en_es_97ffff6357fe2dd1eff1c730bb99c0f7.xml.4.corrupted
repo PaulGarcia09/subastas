@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations from="en" to="es" domain="97ffff6357fe2dd1eff1c730bb99c0f7" scope="/catalog.php?status=pre-bidding">
+  <word hash="cf13a253b16468bed0e3c1de7f444676ae8c42204258e03dbfe83ce2c24ca423" date="2020-09-30T10:15:12-06:00">
+    <source><![CDATA[Current bid: $ 850.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 850.00]]></translation>
+  </word>
+  <word hash="cf13a253b16468bed0e3c1de7f444676ae8c42204258e03dbfe83ce2c24ca423" date="2020-09-30T10:15:12-06:00">
+    <source><![CDATA[Current bid: $ 850.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 850.00]]></translation>
+  </word>
+  <word hash="f203540fe506859217ed6ab441b337936270dd73c8273b6a79a5ae7307b4c4e0" date="2020-09-30T10:15:12-06:00">
+    <source><![CDATA[Current bid: $ 2,200.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 2,200.00]]></translation>
+  </word>
+  <word hash="83f4e68ad09c8ff34adf6dd6e209f80776982390ca337a93a55667a1a69ccd33" date="2020-09-30T10:15:12-06:00">
+    <source><![CDATA[Current bid: $ 450.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 450.00]]></translation>
+  </word>
+  <word hash="4ea3462215fdd1278d102731333142aae5b0861df2a99f5f13429a8a48c195f2" date="2020-09-30T10:15:12-06:00">
+    <source><![CDATA[Current bid: $ 7,650.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 7,650.00]]></translation>
+  </word>
+  <word hash="aa92a401f9451b9094326dfd8585cb17b429e295df7b1e5818634dd53a9c2b12" date="2020-09-30T10:15:12-06:00">
+    <source><![CDATA[Current bid: $ 1,750.00]]></source>
+    <translation><![CDATA[Oferta actual: $ 1,750.00]]></translation>
+  </word>
+</translations>
+>
